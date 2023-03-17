@@ -1,0 +1,16 @@
+/*-------------------------
+    Breadcrumb
+--------------------------*/
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item {
+    line-height: 1;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    font-family: FontAwesome;
+    content: "\f105";
+}

@@ -1,0 +1,213 @@
+/*-------------------------
+   Typography
+--------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $color-heading;
+    font-family: $font-heading;
+    text-transform: capitalize;
+    font-weight: 600;
+    line-height: 1.1;
+    margin-bottom: 23px;
+}
+
+p {
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 52px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 38px;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+h6 {
+    font-size: 18px;
+}
+
+.heading__subtitle {
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 700;
+    color: $color-theme;
+    display: inline-block;
+    margin-bottom: 13px;
+}
+
+.heading__title {
+    font-size: 33px;
+    margin-bottom: 15px;
+}
+
+.heading__desc {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 0;
+}
+
+.divider__line+.heading__desc {
+    margin-top: 18px;
+}
+
+.heading .divider__line:after {
+    width: 40px;
+}
+
+.heading-2 {
+    .heading__title {
+        font-weight: 700
+    }
+}
+
+.heading-3 {
+    .heading__subtitle {
+        margin-bottom: 17px;
+    }
+
+    .heading__title {
+        font-size: 37px;
+        font-weight: 700;
+        line-height: 52px;
+        margin-bottom: 20px;
+    }
+}
+
+.heading-white {
+    .heading__subtitle {
+        color: $color-gray;
+    }
+
+    .heading__title,
+    .heading__desc {
+        color: $color-white;
+    }
+}
+
+.text__block-desc {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 35px;
+}
+
+.text__block-2 {
+    position: relative;
+
+    .text__block-title {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .text__block-desc {
+        padding-left: 220px;
+    }
+}
+
+.text__link {
+    font-size: 14px;
+    font-weight: 700;
+
+    a {
+        color: $color-heading;
+        border-bottom: 2px solid $color-heading;
+        transition: all .3s ease;
+        padding-bottom: 2px;
+    }
+
+    &:hover a {
+        color: $color-theme;
+        border-bottom: 2px solid $color-theme;
+    }
+
+    a.color-theme {
+        border-bottom-color: $color-theme;
+    }
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .heading__title {
+        font-size: 30px;
+    }
+
+    .heading-3 .heading__title {
+        font-size: 34px;
+        line-height: 43px;
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .heading__title {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .heading-2 {
+        .heading__title {
+            font-size: 27px;
+            margin-bottom: 10px;
+        }
+    }
+
+    .heading-3 .heading__title {
+        font-size: 29px;
+        font-weight: 600;
+        line-height: 40px;
+    }
+
+    .text__block-desc {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+
+    .text__block-2 .text__block-title {
+        position: static;
+    }
+
+    .text__block-2 .text__block-desc {
+        padding-left: 0;
+    }
+
+    .text__link {
+        font-size: 12px;
+        font-weight: 600;
+    }
+}
+
+/* Custom Media in Mobile Phones */
+@media only screen and (max-width: 450px) {
+    .heading-2 {
+        .heading__title {
+            font-size: 25px;
+        }
+
+        .heading__desc {
+            font-size: 15px;
+            font-weight: 400;
+            line-height: 24px;
+        }
+    }
+}

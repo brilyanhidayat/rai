@@ -1,0 +1,50 @@
+/*-------------------
+    lists
+-------------------*/
+.contact__list li {
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 9px;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+
+    i {
+        font-size: 16px;
+        margin-right: 9px;
+        color: $color-theme;
+    }
+}
+
+.list-items li {
+    position: relative;
+    padding-left: 26px;
+    font-family: $font-heading;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+
+    &:before {
+        content: "\f00c";
+        font-family: 'Fontawesome';
+        position: absolute;
+        left: 0;
+    }
+}
+
+.list-items-white li {
+    color: $color-white;
+
+    &:before {
+        color: $color-white;
+    }
+}
+
+.list-items-layout2 li {
+    font-weight: 400;
+
+    &:before {
+        color: $color-theme;
+    }
+}

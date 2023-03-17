@@ -1,0 +1,41 @@
+/*----------------------
+     Dividers 
+------------------------*/
+.divider__line {
+  position: relative;
+  height: 3px;
+  margin-bottom: 35px;
+
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 3px;
+    background-color: $color-heading;
+  }
+}
+
+.divider__line.divider__center:after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.divider__line.divider__sm:after {
+  width: 40px;
+}
+
+.divider__theme:after {
+  background-color: $color-theme;
+}
+
+.divider__white:after {
+  background-color: $color-white;
+}
+
+@include xs-sm-screens {
+  .divider__line {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,220 @@
+/*----------------------------
+    Contact
+----------------------------*/
+
+.contact-panel {
+    background-color: #fff;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 83px 0px rgba(40, 40, 40, 0.08);
+    padding: 50px 20px;
+    border-radius: 4px;
+    overflow: hidden;
+
+    .contact__panel-header {
+        margin-bottom: 23px;
+    }
+
+    .contact__panel-icon {
+        margin-bottom: 20px;
+    }
+
+    .contact__panel-title {
+        font-size: 17px;
+        line-height: 1;
+        margin-bottom: 0;
+    }
+
+    ul {
+        margin-bottom: 24px;
+
+        li {
+            font-size: 14px;
+            line-height: 21px;
+
+            a {
+                color: $color-body;
+            }
+        }
+    }
+
+    .btn {
+        width: 125px;
+        height: 40px;
+        line-height: 38px;
+    }
+}
+
+.contact-1 {
+    .contact-panel {
+        padding: 0;
+        width: 330px;
+        position: absolute;
+        top: 50%;
+        @include prefix(transform, translateY(-50%), webkit moz ms o);
+
+        .contact__panel-header {
+            background-color: $color-heading;
+            color: $color-white;
+            padding: 36px 30px;
+            margin-bottom: 0 !important;
+
+            .contact__panel-title {
+                color: $color-white;
+            }
+
+            i {
+                font-size: 40px;
+                margin-right: 5px;
+            }
+        }
+
+        .accordion-item {
+            padding: 0;
+            border-right: 0;
+            border-left: 0;
+
+            &:first-child {
+                margin-top: -1px;
+            }
+
+            &:last-child {
+                border-bottom: 0;
+            }
+
+            .accordion__item-header {
+                padding: 22px 30px;
+            }
+
+            .accordion__item-title {
+                font-family: $font-body;
+                font-size: 17px;
+                font-weight: 700;
+                line-height: 1;
+                margin-left: 20px;
+
+                &:after {
+                    line-height: 17px;
+                }
+            }
+
+            .accordion__item-body {
+                padding: 27px 30px;
+                border-top: 1px solid #eaeaea;
+            }
+        }
+
+        ul {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.locations-panel {
+    margin-bottom: 85px;
+
+    .locations__panel-header {
+        border-bottom: 1px solid #eaeaea;
+        margin-bottom: 25px;
+    }
+
+    .locations__panel-title {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+
+        li {
+            line-height: 40px;
+            flex-basis: 25%;
+
+            a {
+                color: $color-heading;
+                font-size: 14px;
+                font-weight: 700;
+
+                &:hover {
+                    color: $color-theme;
+                }
+
+                i {
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .locations-panel {
+        margin-bottom: 70px;
+
+        ul li {
+            flex-basis: 33.33333333%;
+        }
+    }
+
+    .contact-1 .contact-panel {
+        position: static;
+        @include prefix(transform, translateY(0), webkit moz ms o);
+        margin-top: 30px;
+    }
+
+    .contact-2 {
+        .container {
+            max-width: none;
+        }
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .contact-panel {
+        padding: 20px;
+
+        .contact__panel-header {
+            margin-bottom: 20px;
+        }
+    }
+
+    .contact-1 .contact-panel {
+        position: static;
+        @include prefix(transform, translateY(0), webkit moz ms o);
+        margin-top: 30px;
+    }
+
+    .contact-1.accordion-item .accordion__item-header,
+    .contact-1 .accordion-item .accordion__item-body {
+        padding: 15px 20px;
+    }
+
+    .locations-panel {
+        margin-bottom: 40px;
+
+        .locations__panel-header {
+            margin-bottom: 20px;
+        }
+
+        .locations__panel-title {
+            margin-bottom: 15px;
+        }
+
+        ul li {
+            flex-basis: 50%;
+        }
+    }
+}
+
+/* Custom Media in Mobile Phones */
+@media only screen and (max-width: 450px) {
+    .locations-panel {
+        margin-bottom: 30px;
+
+        ul li {
+            flex-basis: 100%;
+        }
+    }
+}

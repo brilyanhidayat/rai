@@ -1,0 +1,84 @@
+/*-----------------------
+    Features
+------------------------*/
+.feature-item {
+    position: relative;
+    margin-bottom: 30px;
+
+    .feature__img {
+        margin-bottom: 24px;
+
+        img {
+            border-radius: 3px;
+            @include prefix(transition, transform .3s ease, webkit moz ms o);
+        }
+    }
+
+    .feature__subtitle {
+        font-family: $font-body;
+        font-size: 14px;
+        display: inline-block;
+        margin-bottom: 6px;
+    }
+
+    .feature__title {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 18px;
+        @include prefix(transition, color .3s ease, webkit moz ms o);
+    }
+
+    .feature__desc {
+        margin-bottom: 0;
+    }
+
+    .feature__link {
+        display: block;
+        margin-top: 5px;
+    }
+
+    &:hover {
+        .feature__img img {
+            @include prefix(transform, translateY(-4px), webkit moz ms o);
+        }
+
+        .feature__title {
+            color: $color-theme;
+        }
+    }
+}
+
+.awards .feature__content {
+    padding-left: 30px;
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .feature-item {
+
+        .feature__img {
+            margin-bottom: 20px;
+        }
+
+        .feature__title {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .feature-item {
+        margin-bottom: 30px;
+
+        .feature__img {
+            margin-bottom: 15px;
+        }
+
+        .feature__title {
+            margin-bottom: 10px;
+        }
+    }
+}

@@ -1,0 +1,128 @@
+/*---------------------------
+        Forms
+----------------------------*/
+label {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 15px;
+    color: $color-heading;
+}
+
+.form-group {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.form-control {
+    height: 50px;
+    line-height: 50px;
+    border: none;
+    border: 1px solid #eaeaea;
+    border-radius: 1px;
+    padding: 0 0 0 20px;
+    font-size: 14px;
+    border-radius: 2px;
+
+    &:focus {
+        border-color: $color-theme;
+    }
+}
+
+textarea.form-control {
+    height: 122px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #9b9b9b;
+}
+
+.form-control:-moz-placeholder {
+    color: #9b9b9b;
+}
+
+.form-control::-moz-placeholder {
+    color: #9b9b9b;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #9b9b9b;
+}
+
+.form__title {
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+
+.form-group-select:after {
+    content: "\f107";
+    font-family: FontAwesome;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.form-group-select select {
+    @include prefix(appearance, none, webkit moz ms o);
+    color: $color-body;
+    cursor: pointer;
+}
+
+/* Input Radio */
+
+.label-radio {
+    display: block;
+    position: relative;
+    padding-left: 26px;
+    margin-bottom: 0;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 400;
+    color: $color-body;
+}
+
+.label-radio input {
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+}
+
+.radio-indicator {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    height: 17px;
+    width: 17px;
+    background: transparent;
+    border: 2px solid #eaeaea;
+    border-radius: 50%;
+}
+
+.label-radio input:checked~.radio-indicator {
+    background: transparent;
+}
+
+.label-radio:hover input:not([disabled]):checked~.radio-indicator,
+.label-radio input:checked:focus~.radio-indicator {
+    background: transparent;
+}
+
+.radio-indicator:after {
+    content: '';
+    position: absolute;
+    display: none;
+    left: 3px;
+    top: 3px;
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    background: $color-theme;
+}
+
+.label-radio input:checked~.radio-indicator:after {
+    display: block;
+}

@@ -1,0 +1,35 @@
+/*-----------------------------*\
+    Clients
+\*---------------------------*/
+
+.clients {
+    padding: 60px 0;
+
+    .client {
+        position: relative;
+        text-align: center;
+        @include prefix(transition, 0.3s ease, webkit moz ms o);
+
+        img {
+            display: inline-block;
+            width: auto !important;
+            max-width: 100%;
+        }
+    }
+
+    .owl-carousel {
+        z-index: 0;
+    }
+}
+
+@include md-screens {
+    .clients {
+        padding: 50px 0;
+    }
+}
+
+@include xs-sm-screens {
+    .clients {
+        padding: 30px 0;
+    }
+}

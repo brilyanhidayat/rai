@@ -1,0 +1,138 @@
+/*----------------------
+    About
+-----------------------*/
+
+.about {
+
+    .about__img {
+        position: relative;
+
+        img {
+            width: 0;
+            opacity: 0;
+            mix-blend-mode: multiply;
+            transition: all 1.8s ease;
+            transition-delay: 3s;
+            border-radius: 4px;
+        }
+    }
+}
+
+.about-1 {
+    .video-banner {
+        position: relative;
+        margin-right: 70px;
+
+        img {
+            border-radius: 4px;
+        }
+    }
+}
+
+.about-2 {
+    .btn__underlined:after {
+        background-color: $color-heading;
+    }
+
+    .btn__underlined:hover:after {
+        background-color: $color-theme;
+    }
+
+    .counter-item-wrapper {
+        position: absolute;
+        bottom: 40px;
+        right: -60px;
+        border-radius: 5px;
+        background-color: $color-white;
+        border: 20px solid $color-white;
+        opacity: 0;
+        transform: scale(0);
+        transition: all 1s ease 1.5s;
+    }
+
+    .counter-item {
+        background-color: $color-theme;
+        width: 190px;
+        padding: 40px 20px 40px 40px;
+        border-radius: 5px;
+        margin-bottom: 0 !important;
+
+        h4 {
+            font-size: 38px;
+            font-weight: 400;
+            margin-bottom: 17px;
+        }
+    }
+}
+
+.animate-img.about__img:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 100%;
+    z-index: 1;
+    opacity: 0;
+    border-radius: 5px;
+    background: $color-theme;
+    animation-delay: .4s;
+    animation: slideOutBackground 1.7s ease;
+}
+
+.animate-img.about__img .counter-item-wrapper {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.animate-img.about__img img {
+    opacity: 1;
+    width: 100%;
+    transition-delay: 1s;
+    transition: opacity .1s, transform .75s;
+    animation: fadeInImage 1.5s ease;
+}
+
+@keyframes slideOutBackground {
+    0% {
+        width: 0;
+        right: 100%
+    }
+
+    50% {
+        width: 100%;
+        right: 0;
+        opacity: 1
+    }
+
+    100% {
+        width: 0;
+        right: 0;
+        opacity: 1
+    }
+}
+
+@keyframes fadeInImage {
+    0% {
+        opacity: 0
+    }
+
+    55% {
+        opacity: 0
+    }
+
+    75% {
+        opacity: 1
+    }
+}
+
+/* Medium screens */
+@media only screen and (max-width: 992px) {
+    .about-1 .video-banner {
+        margin-right: 0;
+
+        img {
+            width: 100%;
+        }
+    }
+}

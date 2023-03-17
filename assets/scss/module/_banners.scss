@@ -1,0 +1,130 @@
+/*-----------------------
+    banner
+------------------------*/
+.background-banner {
+    min-height: 400px;
+}
+
+.banner-1 {
+    .inner-padding {
+        padding: 130px 120px 130px 80px;
+    }
+
+    .heading i {
+        font-size: 80px;
+        display: block;
+        color: $color-theme;
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        width: 270px;
+    }
+
+    .background-banner {
+        min-height: 500px;
+    }
+
+    .skills-panel {
+        position: absolute;
+        left: -100px;
+        top: 130px;
+        z-index: 3;
+        max-width: 500px;
+
+        .heading .heading__title {
+            font-size: 25px;
+            margin-bottom: 15px;
+        }
+
+        .heading__desc {
+            font-size: 14px;
+            line-height: 23px;
+        }
+    }
+}
+
+.banner-2 {
+    .inner-padding {
+        padding: 120px 50px 110px;
+    }
+
+    .heading__title {
+        margin-bottom: 31px;
+    }
+
+    .list-items {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        flex-wrap: wrap;
+
+        li {
+            flex-basis: 50%;
+        }
+    }
+}
+
+.banner-3 {
+    .inner-padding {
+        padding: 110px 70px;
+    }
+
+    .heading__desc {
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 26px;
+        margin-bottom: 0;
+    }
+
+    .counter-item {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (min-width:1400px) {
+    .banner-1 .inner-padding {
+        padding: 130px 120px 130px 100px;
+    }
+
+    .banner-2 .inner-padding {
+        padding: 120px 120px 110px 120px;
+    }
+
+    .banner-3 .inner-padding {
+        padding: 110px 100px 130px 110px;
+    }
+}
+
+@include lg-screens {
+    .banner-3 .counter-item h4 {
+        font-size: 22px;
+    }
+}
+
+@include md-screens {
+    .banner-1 {
+        .skills-panel {
+            position: static;
+            margin: 30px 15px;
+        }
+    }
+
+    .banner-3 .counter-item h4 {
+        font-size: 22px;
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .banner-1 {
+        .skills-panel {
+            position: static;
+            margin: 30px 15px;
+        }
+    }
+
+    .banner-3 .counter-item h4 {
+        font-size: 20px;
+    }
+}

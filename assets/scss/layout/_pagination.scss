@@ -1,0 +1,42 @@
+/*----------------------
+    Pagination
+-----------------------*/
+.pagination li {
+    margin-right: 10px;
+
+    &:last-child {
+        margin-right: 0;
+    }
+
+    a {
+        font-family: $font-heading;
+        font-size: 18px;
+        font-weight: 700;
+        display: block;
+        width: 50px;
+        height: 50px;
+        line-height: 48px;
+        background-color: transparent;
+        color: $color-heading;
+        text-align: center;
+        border: 1px solid #eaeaea;
+        border-radius: 2px;
+        @include prefix(transition, all 0.3s linear, webkit moz ms o);
+    }
+
+    a:hover,
+    a.current {
+        background-color: $color-heading;
+        border-color: $color-heading;
+        color: $color-white;
+    }
+}
+
+@include xs-sm-screens {
+    .pagination li a {
+        font-size: 18px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+}

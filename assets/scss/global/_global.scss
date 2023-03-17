@@ -1,0 +1,148 @@
+/*---------------------------
+      Table of Contents
+    -------------------------
+    
+    01- Global Styles
+    02- Helper Classes
+    03- Background & Colors
+    04- Typography
+    05- page title 
+    06- Buttons
+    07- Forms
+    08- Tabs
+    09- Icons
+    10- Breadcrumb
+    11- Pagination
+    12- Lists
+    13- Alerts
+    14- Animations
+    15- Header & Navbar 
+    16- Accordions
+    17- Dividers
+    18- Footer
+    19- Request quote
+    20- Carousel
+    21- Slider
+    22- Video
+    23- Features
+    24- Fancybox
+    25- Projects
+    26- Team
+    27- Testimonials
+    28- Call To Action
+    29- Clients
+    30- Blog
+    31- Contact
+    32- Pricing
+    33- Counters
+    34- Services
+    35- Sidebar
+    36- About
+    37- Banners
+    38- Careers
+    39- Progress Bars
+    40- Maps
+    
+----------------------------*/
+
+
+
+/*--------------------------
+      Global Styles
+---------------------------*/
+html,
+body {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: $color-white;
+    font-family: $font-body;
+    font-size: $body-font-size;
+    font-weight: 400;
+    color: $color-body;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+    background-color: $color-theme;
+    color: $color-white;
+}
+
+a {
+    color: $color-theme;
+    @include transition(color .3s ease);
+
+    &:hover {
+        color: darken($color-theme, 20%);
+        text-decoration: none;
+    }
+}
+
+section {
+    position: relative;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*-------------------------
+     RESET Default Styles
+ --------------------------*/
+
+*,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+*,
+:active,
+:focus {
+    outline: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+button {
+    border: none;
+}
+
+button,
+button:focus,
+.btn.focus,
+.btn:focus,
+.form-control,
+.form-control:focus {
+    outline: none;
+    background-color: transparent;
+    @include prefix(box-shadow, none, webkit moz ms o);
+}
+
+textarea {
+    resize: none
+}
+
+select {
+    background-color: transparent;
+}
+
+hr {
+    border-top: 2px solid #eaeaea;
+}

@@ -1,0 +1,149 @@
+/*----------------------
+    Carousel
+-----------------------*/
+[data-nav="false"] .owl-nav,
+[data-dots="false"] .owl-dots {
+    display: none;
+}
+
+.owl-carousel {
+    .owl-item {
+        img {
+            width: 100%
+        }
+    }
+}
+
+.carousel-dots {
+    .owl-dots {
+        margin-top: 10px;
+        text-align: center;
+
+        .owl-dot {
+            background-color: transparent;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            width: 12px;
+            height: 12px;
+            margin: 0 20px;
+        }
+
+        .owl-dot span {
+            display: block;
+            width: 8px;
+            height: 8px;
+            border: 2px solid #a5a5a5;
+            border-radius: 50%;
+            @include prefix(transition, all .4s ease, webkit moz ms o);
+        }
+
+        .owl-dot:not(:last-child):after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 20px;
+            width: 12px;
+            height: 2px;
+            display: block;
+            background-color: #eee;
+            @include prefix(transform, translateY(-50%), webkit moz ms o);
+        }
+
+        .owl-dot:not(:first-child):before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: -20px;
+            width: 12px;
+            height: 2px;
+            display: block;
+            background-color: #eee;
+            @include prefix(transform, translateY(-50%), webkit moz ms o);
+        }
+
+        .owl-dot.active span {
+            border-color: $color-theme;
+            @include prefix(transform, scale(1.5), webkit moz ms o)
+        }
+
+        .owl-dot.active:before,
+        .owl-dot.active:after {
+            background-color: $color-theme;
+        }
+    }
+}
+
+
+.carousel-dots-white .owl-dots {
+
+    .owl-dot.active span,
+    .owl-dot span {
+        border-color: #fff;
+    }
+
+    .owl-dot.active:before,
+    .owl-dot.active:after {
+        background-color: #fff;
+    }
+}
+
+
+.carousel-arrows {
+
+    .owl-nav {
+
+        .owl-prev,
+        .owl-next {
+            position: absolute;
+            top: 50%;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            color: #999999;
+            font-size: 0;
+            font-weight: 400;
+            text-align: center;
+            background-color: transparent;
+            cursor: pointer;
+            padding: 0;
+            border-radius: 0;
+            @include transition(all .3s ease);
+            transform: translateY(-50%);
+
+            &:hover {
+                color: $color-theme;
+                background-color: transparent;
+            }
+        }
+
+        .owl-prev {
+            left: 0;
+
+            &:before {
+                font-family: 'icomoon';
+                content: "\e967";
+                font-size: 50px;
+            }
+        }
+
+        .owl-next {
+            right: 0;
+
+            &:before {
+                font-family: 'icomoon';
+                content: "\e966";
+                font-size: 50px;
+            }
+        }
+
+    }
+
+    // .owl-dots {
+    //     position: absolute;
+    //     bottom: 20px;
+    //     width: 100%;
+    //     line-height: 1;
+    // }
+}

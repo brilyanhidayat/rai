@@ -1,0 +1,62 @@
+/*-----------------------
+     Call To Action
+-------------------------*/
+.cta-banner {
+    padding: 95px 50px 100px 100px;
+
+    .cta__title {
+        color: $color-white;
+        font-size: 47px;
+        line-height: 62px;
+        margin-bottom: 16px;
+    }
+
+    .cta__desc {
+        color: $color-gray;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 700;
+        margin-bottom: 33px;
+    }
+}
+
+/* Large Size Screens */
+@include lg-screens {
+    .cta-banner {
+        padding: 80px 40px;
+    }
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .cta-banner {
+        padding: 70px 30px;
+
+        .cta__title {
+            font-size: 40px;
+            line-height: 50px;
+            margin-bottom: 12px;
+        }
+
+        .cta__desc {
+            margin-bottom: 25px;
+        }
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .cta-banner {
+        padding: 40px 20px;
+
+        .cta__title {
+            font-size: 32px;
+            line-height: 40px;
+            margin-bottom: 10px;
+        }
+
+        .cta__desc {
+            margin-bottom: 20px;
+        }
+    }
+}

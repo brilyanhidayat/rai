@@ -1,0 +1,99 @@
+/*--------------------------
+        pricing
+--------------------------*/
+.pricing-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 560px;
+}
+
+.pricing-item {
+    position: relative;
+    padding: 50px;
+    background-color: $color-white;
+    border-radius: 4px;
+    box-shadow: 0px 1px 73px 0px rgba(40, 40, 40, 0.15);
+    @include prefix(transition, all .3s ease, webkit moz ms o);
+
+    &:hover {
+        @include prefix(transform, translateY(-6px), webkit moz ms o);
+    }
+
+    .pricing__header {
+        border-bottom: 2px solid #eaeaea;
+        margin-bottom: 39px;
+    }
+
+    .pricing__title {
+        font-size: 18px;
+        line-height: 1;
+        margin-bottom: 3px;
+    }
+
+    .pricing__desc {
+        font-size: 13px;
+        line-height: 26px;
+        color: #616161;
+        margin-bottom: 38px;
+    }
+
+    .pricing__price {
+        font-family: $font-heading;
+        font-size: 80px;
+        color: $color-heading;
+        font-weight: 400;
+        line-height: 1;
+        margin-bottom: 47px;
+    }
+
+    .pricing__time {
+        font-size: 13px;
+        display: block;
+        margin-top: 4px;
+    }
+
+    .pricing__list {
+        margin-bottom: 37px;
+
+        li {
+            font-size: 14px;
+            line-height: 34px;
+            text-transform: capitalize;
+        }
+    }
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .pricing-item {
+        padding: 20px;
+
+        .pricing__header {
+            margin-bottom: 30px;
+        }
+
+        .pricing__title {
+            margin-bottom: 15px;
+        }
+
+        .pricing__price {
+            font-size: 50px;
+            margin-bottom: 20px;
+        }
+
+        .pricing__title,
+        .pricing__desc {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .pricing-item {
+        margin-bottom: 30px;
+    }
+}

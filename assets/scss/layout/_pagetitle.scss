@@ -1,0 +1,123 @@
+/*-------------------------
+    page title 
+-------------------------*/
+
+.header-transparent+.page-title {
+    margin-top: -100px;
+}
+
+.pagetitle__subheading {
+    font-family: $font-body;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    color: $color-gray;
+    display: block;
+    margin-bottom: 21px;
+}
+
+.pagetitle__heading {
+    font-size: 57px;
+    color: $color-white;
+    margin-bottom: 0;
+}
+
+.pagetitle__desc {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: $color-gray;
+    margin-bottom: 0;
+}
+
+.page-title {
+    padding: 241px 0 148px;
+
+    .breadcrumb {
+        margin-top: 15px;
+        margin-bottom: 0;
+    }
+
+    .breadcrumb-item a,
+    .breadcrumb-item+.breadcrumb-item::before {
+        color: $color-white;
+    }
+
+    .breadcrumb-item a:hover {
+        color: $color-theme;
+    }
+
+    .breadcrumb-item.active {
+        color: #f4f4f4;
+    }
+}
+
+.page-title-layout2 {
+    .pagetitle__heading {
+        font-size: 47px;
+        line-height: 62px;
+        margin-bottom: 15px;
+    }
+
+    .btn {
+        margin-top: 35px;
+    }
+}
+
+.page-title-layout3 {
+    .pagetitle__heading {
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 62px;
+        margin-bottom: 18px;
+    }
+
+    .btn {
+        margin-top: 32px;
+    }
+}
+
+.page-title-layout4 {
+    padding: 248px 0 115px;
+
+    .pagetitle__heading {
+        font-size: 47px;
+        font-weight: 700;
+        line-height: 62px;
+        margin-bottom: 18px;
+    }
+}
+
+/* Medium Size Devices */
+@include md-screens {
+    .page-title {
+        padding: 150px 0 60px;
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .page-title {
+        padding: 100px 0 50px;
+    }
+
+    .pagetitle__heading {
+        font-size: 35px;
+    }
+
+    .page-title-layout2 .pagetitle__heading,
+    .page-title-layout3 .pagetitle__heading,
+    .page-title-layout4 .pagetitle__heading {
+        font-size: 33px;
+        line-height: 40px;
+        margin-bottom: 5px;
+    }
+
+    .pagetitle__desc {
+        font-weight: 400;
+    }
+
+    .page-title .breadcrumb {
+        margin-top: 10px;
+    }
+}

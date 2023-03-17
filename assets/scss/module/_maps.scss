@@ -1,0 +1,27 @@
+/*-------------------------
+    Google Map
+------------------------*/
+#map {
+    height: 620px;
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    #map {
+        height: 500px;
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    #map {
+        height: 400px;
+    }
+}
+
+/* Extra Small Devices */
+@include xs-screens {
+    #map {
+        height: 300px;
+    }
+}

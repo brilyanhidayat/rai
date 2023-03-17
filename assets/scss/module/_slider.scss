@@ -1,0 +1,312 @@
+/*------------------------
+    Slider 
+--------------------------*/
+.header-transparent+.slider {
+    margin-top: -100px;
+}
+
+.slider {
+    padding: 0;
+
+    .slide-item {
+        height: 100vh;
+    }
+
+    .slide__subtitle {
+        display: inline-block;
+        font-family: $font-body;
+        font-size: 17px;
+        line-height: 1;
+        color: $color-gray;
+        margin-bottom: 25px;
+    }
+
+    .slide__title {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 1.2;
+        color: $color-white;
+        margin-bottom: 14px;
+    }
+
+    .slide__desc {
+        font-size: 17px;
+        font-weight: 700;
+        color: $color-white;
+        padding-right: 50px;
+        margin-bottom: 35px;
+    }
+
+    .carousel-arrows .owl-nav .owl-prev {
+        left: 50px;
+    }
+
+    .carousel-arrows .owl-nav .owl-next {
+        right: 50px;
+    }
+
+    .carousel-arrows .owl-nav .owl-prev,
+    .carousel-arrows .owl-nav .owl-next {
+        color: $color-white;
+        border: none;
+        line-height: 46px;
+        width: auto;
+        opacity: 0;
+        transition: opacity .5s ease, transform .4s ease;
+        transform: scale(0.8);
+    }
+
+    &:hover .carousel-arrows .owl-nav .owl-prev,
+    &:hover .carousel-arrows .owl-nav .owl-next {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    .owl-dots {
+        position: absolute;
+        bottom: 80px;
+        width: 100%;
+        z-index: 5;
+    }
+}
+
+.slider-1 {
+    overflow: hidden;
+
+    .slide-item {
+        min-height: 750px
+    }
+
+    .btn__video {
+        position: absolute;
+        right: 0;
+        bottom: 35px;
+        z-index: 3;
+    }
+
+    .thumbs-dots {
+        position: absolute;
+        left: 15px;
+        right: 15px;
+        bottom: 0;
+        z-index: 3;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        .owl-thumb-item {
+            flex-basis: 190px;
+            max-width: 190px;
+            text-align: left;
+            padding: 25px 25px 23px;
+            background-color: $color-heading;
+            margin-right: 2px;
+            border-radius: 3px 3px 0 0;
+
+            i {
+                font-size: 45px;
+                color: $color-gray;
+                margin-bottom: 6px;
+                display: block;
+            }
+
+            i.icon-air-freight {
+                font-size: 40px;
+            }
+
+            span {
+                display: block;
+                text-transform: capitalize;
+                font-weight: 700;
+                font-size: 16px;
+                line-height: 23px;
+                color: $color-gray;
+                margin-bottom: 0;
+            }
+        }
+
+        .owl-thumb-item.active {
+            transform: scaleY(1.1);
+            background-color: $color-theme;
+        }
+    }
+}
+
+.slider-3 {
+    .slide__content {
+        background-color: $color-white;
+        padding: 76px 50px 80px 80px;
+        position: relative;
+        border-radius: 5px;
+        overflow: hidden;
+        z-index: 2;
+
+        &:after {
+            content: "\e92a";
+            font-family: "icomoon";
+            position: absolute;
+            bottom: -230px;
+            right: -240px;
+            font-size: 475px;
+            color: $color-heading;
+            line-height: 1;
+            z-index: 1;
+            opacity: 0.05;
+        }
+    }
+
+    .slide__title {
+        font-size: 40px;
+        color: $color-heading;
+        margin-bottom: 22px;
+    }
+
+    .slide__desc {
+        color: $color-body;
+    }
+
+    .slide__title,
+    .slide__desc,
+    .btn {
+        position: relative;
+        z-index: 2;
+    }
+}
+
+/* Large Size Screens */
+@include lg-screens {
+    .slider .slide__title {
+        font-size: 64px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-next {
+        right: 10px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-prev {
+        left: 10px;
+    }
+}
+
+/* Medium Size Screens */
+@include md-screens {
+    .slider .carousel-arrows .owl-nav .owl-next {
+        right: 0;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-prev {
+        left: 0;
+    }
+
+    .slide__title {
+        font-size: 50px;
+    }
+
+    .slider .slide__desc {
+        padding-right: 0;
+    }
+
+    .slider-2 .slide__desc {
+        padding-right: 45px;
+    }
+
+    .slider-3 .slide__content {
+        padding: 30px;
+    }
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .header-transparent+.slider {
+        margin-top: 0;
+    }
+
+    .slider .slide-item {
+        height: calc(100vh - 80px);
+    }
+
+    .slider .slide__desc {
+        padding-right: 0;
+    }
+
+    .slider-1 .slide-item {
+        min-height: 0;
+    }
+
+    .slider-2 .slide__desc {
+        padding-right: 0;
+    }
+
+    .slider-3 .slide__content {
+        padding: 20px;
+
+        &:after {
+            bottom: -130px;
+            right: -120px;
+            font-size: 300px;
+        }
+    }
+
+    .slider-3 .container {
+        max-width: 100%;
+    }
+
+    .header-transparent+.slider .slide__content {
+        padding-top: 0;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-prev,
+    .slider .carousel-arrows .owl-nav .owl-next {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-next:before,
+    .slider .carousel-arrows .owl-nav .owl-prev:before {
+        font-size: 15px;
+    }
+}
+
+/*  Small Screens and tablets  */
+@include sm-screens {
+    .slider .slide__title {
+        font-size: 40px;
+        margin-bottom: 17px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-prev {
+        left: 10px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-next {
+        right: 10px;
+    }
+}
+
+/* Extra Small Devices */
+@include xs-screens {
+    .slider .slide__subtitle {
+        margin-bottom: 15px;
+    }
+
+    .slider .slide__title {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+
+    .slider .slide__desc {
+        font-size: 15px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+
+    .slider .btn {
+        margin-bottom: 20px;
+    }
+
+    .slider .carousel-arrows .owl-nav .owl-prev,
+    .slider .carousel-arrows .owl-nav .owl-next {
+        display: none;
+    }
+}

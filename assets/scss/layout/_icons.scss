@@ -1,0 +1,24 @@
+/*------------------- 
+    Icons
+------------------*/
+
+.social__icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: $color-heading;
+
+    a {
+        margin-right: 20px;
+        color: $color-heading;
+        @include prefix(transition, all .3s linear, webkit moz ms o);
+
+        &:hover {
+            color: $color-theme;
+        }
+
+        &:last-of-type {
+            margin-right: 0;
+        }
+    }
+}

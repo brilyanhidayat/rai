@@ -1,0 +1,79 @@
+/*-----------------------
+    Counters
+-----------------------*/
+.counter-item {
+
+    h4 {
+        font-size: 33px;
+        line-height: 1;
+        margin-bottom: 10px;
+    }
+
+    .counter__icon {
+        i {
+            font-size: 50px;
+        }
+
+        line-height: 1;
+        margin-bottom: 23px;
+    }
+
+    .counter__desc {
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 1;
+        letter-spacing: 0.5px;
+        margin-bottom: 0;
+    }
+}
+
+.counters-white h4,
+.counters-white .counter__icon,
+.counters-white .counter__desc {
+    color: #fff;
+}
+
+/* Mobile Phones and tablets */
+@include xs-sm-screens {
+    .counter-item {
+        margin-bottom: 30px;
+    }
+}
+
+/* Extra Small Devices */
+@include xs-screens {
+    .counter-item .counter__icon {
+        margin-bottom: 15px;
+
+        i {
+            font-size: 45px;
+        }
+    }
+
+    .counter-item h4 {
+        font-size: 35px;
+    }
+
+    .counter-item .counter__desc {
+        font-size: 13px;
+    }
+}
+
+/* Custom Media in Mobile Phones */
+@media only screen and (max-width: 450px) {
+    .counter-item .counter__icon {
+        margin-bottom: 15px;
+
+        i {
+            font-size: 30px;
+        }
+    }
+
+    .counter-item h4 {
+        font-size: 25px;
+    }
+
+    .counter-item .counter__desc {
+        font-size: 12px;
+    }
+}
