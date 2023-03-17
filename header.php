@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" content="Optime Logistics &amp; Transportation Templatei">
   <link href="assets/images/favicon/favicon.png" rel="icon">
-  <title>Optime Logistics &amp; Transportation Template</title>
+  <title>RAI Expedition</title>
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css?family=Roboto:400,500,700%7cPoppins:400,600,700&display=swap">
   <link rel="stylesheet" href="assets/css/libraries.css" />
@@ -33,10 +33,7 @@
               </ul>
             </div><!-- /.col-lg-7 -->
             <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-end">
-              <ul class="header__topbar-links list-unstyled">
-                <li><a href="#">Contacts</a></li>
-                <li><a href="#">Careers</a></li>
-              </ul>
+
               <div class="social__icons justify-content-end">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-instagram"></i></a>
@@ -58,9 +55,9 @@
           <div class="collapse navbar-collapse" id="mainNavigation">
             <ul class="navbar-nav ml-auto">
               <li class="nav__item">
-                <a href="index.php" class="dropdown-toggle nav__item-link active">Home</a>
+                <a href="index.php" class="dropdown-toggle nav__item-link">Home</a>
               </li><!-- /.nav-item -->
-              <li class="nav__item"><a href="about-us.php" class="nav__item-link">About Us</a></li>
+              <li class="nav__item"><a href="about-us.php" class="nav__item-link">Sekilas</a></li>
               <!--<li class="nav__item with-dropdown">
                 <a href="about-us.html" class="dropdown-toggle nav__item-link">Company</a>
                 <i class="fa fa-angle-right" data-toggle="dropdown"></i>
@@ -74,42 +71,21 @@
                 </ul>
               </li>-->
               <li class="nav__item with-dropdown">
-                <a href="services.php" class="dropdown-toggle nav__item-link">Services</a>
+                <a href="services.php" class="dropdown-toggle nav__item-link">Layanan</a>
                 <i class="fa fa-angle-right" data-toggle="dropdown"></i>
                 <ul class="dropdown-menu wide-dropdown-menu">
                   <li class="nav__item">
                     <div class="row mx-0">
                       <div class="col-sm-6 dropdown-menu-col">
-                        <h6>Transport Services</h6>
+                        <h6>RAI Expedition</h6>
                         <ul class="nav flex-column">
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Warehousing</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Expedition</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Air Freight</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Charter Truck</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Ocean Freight</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Charter Container</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Road Freight</a>
-                          </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Supply Chain</a>
-                          </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Packaging</a></li>
-                          <!-- /.nav-item -->
-                        </ul>
-                      </div><!-- /.col-sm-6 -->
-                      <div class="col-sm-6 dropdown-menu-col">
-                        <h6>Industry Solutions</h6>
-                        <ul class="nav flex-column">
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Retail &
-                              Consumer</a></li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Sciences &
-                              Healthcare</a></li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Industrial &
-                              Chemical</a></li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Power
-                              Generation</a></li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Food &
-                              Beverage</a></li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-industry.html">Oil & Gas</a></li>
+
                           <!-- /.nav-item -->
                         </ul>
                       </div><!-- /.col-sm-6 -->
@@ -121,36 +97,22 @@
                 <a href="gallery.php" class="dropdown-toggle nav__item-link">Gallery</a>
               </li><!-- /.nav-item -->
               <li class="nav__item"> 
-                <a href="blog-grid.php" class="dropdown-toggle nav__item-link">Blog</a>
+                <a href="blog-grid.php" class="dropdown-toggle nav__item-link">Info</a>
               </li><!-- /.nav-item -->
               <li class="nav__item">
-                <a href="contacs.php" class="nav__item-link">Contacts</a>
+                <a href="contacs.php" class="nav__item-link">Kontak</a>
               </li><!-- /.nav-item -->
             </ul><!-- /.navbar-nav -->
           </div><!-- /.navbar-collapse -->
           <div class="navbar-modules">
             <ul class="modules__wrapper d-flex align-items-center list-unstyled">
-              <li>
-                <a href="#" class="module__btn module__btn-search"><i class="fa fa-search"></i></a>
-              </li>
+
               <li class="d-none d-lg-block">
                 <a href="request-quote.html" class="module__btn btn__request btn">
-                  <span>Request A Quote</span><i class="icon-arrow-right"></i>
+                  <span>WhatsApp</span><i class="fa fa-whatsapp"></i>
                 </a>
               </li>
-              <li>
-                <div class="dropdown">
-                  <button class="module__btn dropdown-toggle" id="langDrobdown" data-toggle="dropdown">
-                    <span>En</span>
-                  </button>
-                  <div class="dropdown-menu" aria-labelledby="langDrobdown">
-                    <a class="dropdown-item" href="#">
-                      <img src="assets/images/flags/united-states.png" alt="us"><span>Us</span>
-                    </a>
-                    <a class="dropdown-item" href="#">
-                      <img src="assets/images/flags/germany.png" alt="germany"><span>germany</span>
-                    </a>
-                  </div>
+
                 </div>
               </li>
             </ul><!-- /.modules-wrapper -->
