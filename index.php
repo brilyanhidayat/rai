@@ -187,8 +187,8 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Real Solutions, Real Fast!</span>
-              <h2 class="heading__title">PT Ridho Ayah Ibu</h2>
+              <span class="heading__subtitle">PT Ridho Ayah Ibu</span>
+              <h2 class="heading__title">Layanan Terbaik dari RAI</h2>
               <p class="heading__desc">Customized logistics solutions will help you analyze, develop and implement
                 successful supply chain management strategies.</p>
             </div><!-- /.heading -->
@@ -198,13 +198,14 @@
           <div class="col-sm-12 col-md-12 col-lg-12">
             <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-md="2" data-slide-sm="1"
               data-autoplay="true" data-nav="false" data-dots="true" data-space="30" data-loop="true" data-speed="800">
+
               <!-- service item #1 -->
               <div class="service-item">
                 <div class="service__img">
                   <img src="assets/images/services/1.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
-                  <h4 class="service__title">Air Freight</h4>
+                  <h4 class="service__title">Ekspedisi Darat</h4>
                   <p class="service__desc">We can arrange and provides with the comprehensive service in the sphere of
                     urgent, valuable, fragile or any cargoes conscientious accelerated delivery by air.</p>
                   <a href="#" class="btn btn__white">
@@ -212,13 +213,14 @@
                   </a>
                 </div>
               </div><!-- /.service-item -->
+
               <!-- service item #2 -->
               <div class="service-item">
                 <div class="service__img">
                   <img src="assets/images/services/2.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
-                  <h4 class="service__title">Ocean Freight</h4>
+                  <h4 class="service__title">Ekspedisi Laut</h4>
                   <p class="service__desc">We provides with the main types of basic conditions International sea
                     transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
                   <a href="#" class="btn btn__white">
@@ -226,13 +228,14 @@
                   </a>
                 </div>
               </div><!-- /.service-item -->
+
               <!-- service item #3 -->
               <div class="service-item">
                 <div class="service__img">
                   <img src="assets/images/services/3.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
-                  <h4 class="service__title">Road Freight</h4>
+                  <h4 class="service__title">Charter Truck</h4>
                   <p class="service__desc">We provides with the main types of basic conditions International sea
                     transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
                   <a href="#" class="btn btn__white">
@@ -240,13 +243,14 @@
                   </a>
                 </div>
               </div><!-- /.service-item -->
+
               <!-- service item #4 -->
               <div class="service-item">
                 <div class="service__img">
                   <img src="assets/images/services/2.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
-                  <h4 class="service__title">Packaging</h4>
+                  <h4 class="service__title">Charter Container</h4>
                   <p class="service__desc">We can arrange and provides with the comprehensive service in the sphere of
                     urgent, valuable, fragile or any cargoes conscientious accelerated delivery by air.</p>
                   <a href="#" class="btn btn__white">
@@ -254,34 +258,8 @@
                   </a>
                 </div>
               </div><!-- /.service-item -->
-              <!-- service item #5 -->
-              <div class="service-item">
-                <div class="service__img">
-                  <img src="assets/images/services/4.jpg" alt="service">
-                </div><!-- /.service-img -->
-                <div class="service__content">
-                  <h4 class="service__title">Warehousing</h4>
-                  <p class="service__desc">We provides with the main types of basic conditions International sea
-                    transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
-                  <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div>
-              </div><!-- /.service-item -->
-              <!-- service item #6 -->
-              <div class="service-item">
-                <div class="service__img">
-                  <img src="assets/images/services/3.jpg" alt="service">
-                </div><!-- /.service-img -->
-                <div class="service__content">
-                  <h4 class="service__title">Supply Chain</h4>
-                  <p class="service__desc">We provides with the main types of basic conditions International sea
-                    transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
-                  <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div>
-              </div><!-- /.service-item -->
+             
+
             </div><!-- /.carousel -->
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
