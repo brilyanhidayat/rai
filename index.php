@@ -12,14 +12,29 @@
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
-                  <h2 class="slide__title">SAMPLE Price, <br> Certified experts & <br> Innovative Solutions.</h2>
-                  <p class="slide__desc">Competitive advantages to some of the largest companies allover the world.</p>
-                  <a href="#" class="btn btn__white">About Us</a>
+                  
+                  
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/6.jpg" alt="slide img"></div>
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
+                <div class="slide__content">
+                  <h2 class="slide__title">Flexible, Accelerated <br> & Improved Delivery Services For You! </h2>
+                  <p class="slide__desc">Competitive advantages to some of the largest companies allover the world.</p>
+                  <a href="#" class="btn btn__primary">Get Started</a>
+                </div><!-- /.slide-content -->
+              </div><!-- /.col-xl-10 -->
+            </div><!-- /.row -->
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
         <div class="slide-item align-v-h bg-overlay">
           <div class="bg-img"><img src="assets/images/sliders/6.jpg" alt="slide img"></div>
           <div class="container">
@@ -53,6 +68,7 @@
               <p class="fancybox__desc">International supply chains involves challenging regulations.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
+
           <!-- fancybox item #2 -->
           <div class="col-sm-6 col-md-6 col-lg-3 fancybox-item">
             <div class="fancybox__icon">
@@ -63,6 +79,7 @@
               <p class="fancybox__desc">Ensure customers’ supply chains are fully compliant by practices.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
+
           <!-- fancybox item #3 -->
           <div class="col-sm-6 col-md-6 col-lg-3 fancybox-item">
             <div class="fancybox__icon">
@@ -73,6 +90,7 @@
               <p class="fancybox__desc">Depending on your product, we provide warehouse activities.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
+
           <!-- fancybox item #4 -->
           <div class="col-sm-6 col-md-6 col-lg-3 fancybox-item">
             <div class="fancybox__icon">
@@ -83,6 +101,7 @@
               <p class="fancybox__desc">High security requirements and are certified to local standards.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
+
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.fancybox Layout3 -->
