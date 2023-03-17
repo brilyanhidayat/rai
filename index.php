@@ -13,7 +13,7 @@
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
                   
-                  
+
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
@@ -188,7 +188,7 @@
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading text-center mb-50">
               <span class="heading__subtitle">Real Solutions, Real Fast!</span>
-              <h2 class="heading__title">Global Solutions</h2>
+              <h2 class="heading__title">PT Ridho Ayah Ibu</h2>
               <p class="heading__desc">Customized logistics solutions will help you analyze, develop and implement
                 successful supply chain management strategies.</p>
             </div><!-- /.heading -->
