@@ -12,7 +12,7 @@
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
-                  <h2 class="slide__title">Affordable Price, <br> Certified experts & <br> Innovative Solutions.</h2>
+                  <h2 class="slide__title">SAMPLE Price, <br> Certified experts & <br> Innovative Solutions.</h2>
                   <p class="slide__desc">Competitive advantages to some of the largest companies allover the world.</p>
                   <a href="#" class="btn btn__white">About Us</a>
                 </div><!-- /.slide-content -->
