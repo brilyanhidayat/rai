@@ -25,10 +25,9 @@
           <div class="row">
             <div class="col-sm-12 col-md-7 col-lg-7">
               <ul class="contact__list list-unstyled">
-                <li><i class="icon-call"></i><span>Phone: +55 654 541 17</span></li>
-                <li><i class="icon-clock"></i><span>Hours: Mon-Fri: 8am – 7pm</span></li>
+                <li><i class="icon-call"></i><span>Phone: 0822-8900-9708</span></li>
                 <li><i class="icon-envelope"></i>
-                  <span>Email: <a href="mailto:optime@7oroof.com">optime@7oroof.com</a></span>
+                  <span>Email: <a href="mailto:optime@7oroof.com">marketing@raiexpedition.co.id</a></span>
                 </li>
               </ul>
             </div><!-- /.col-lg-7 -->
@@ -46,8 +45,8 @@
       <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container">
           <a class="navbar-brand" href="index.html">
-            <img src="assets/images/logo/logo-light.png" class="logo-light" alt="logo">
-            <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
+            <img src="assets/images/logo/logo-light-1.png" class="logo-light" alt="logo">
+            <img src="assets/images/logo/logo-dark-1.png" class="logo-dark" alt="logo">
           </a>
           <button class="navbar-toggler" type="button">
             <span class="menu-lines"><span></span></span>

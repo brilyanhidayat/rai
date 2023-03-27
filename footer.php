@@ -37,12 +37,12 @@
           <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4 footer__widget footer__widget-about">
               <div class="footer__widget-content">
-                <img src="assets/images/logo/logo-small.png" alt="logo" class="footer-logo">
+                <img src="assets/images/logo/logo-small-1.png" alt="logo" class="footer-logo">
                 <p>Our global Optimecs expertise, advanced supply chain technology & customized Optimecs solutions
                   will help you develop and implement successful supply.</p>
                 <ul class="contact__list list-unstyled">
-                  <li><span>Email:</span><span>Optime@7oroof.com</span></li>
-                  <li><span>Phone:</span><span>+01234567890</span></li>
+                  <li><span>Email:</span><span>marketing@raiexpedition.co.id</span></li>
+                  <li><span>Phone:</span><span>0822-8900-9708</span></li>
                 </ul>
               </div>
             </div><!-- /.col-lg-4 -->
