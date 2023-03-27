@@ -1066,7 +1066,7 @@ hr {
 }
 
 .bg-theme {
-  background-color: #ff5e14 !important;
+  background-color: #178DF9 !important;
 }
 
 .bg-img {
@@ -1967,7 +1967,7 @@ textarea.form-control {
 }
 
 .social__icons a:hover {
-  color: #ff5e14;
+  color: #178DF9;
 }
 
 .social__icons a:last-of-type {
@@ -2665,7 +2665,7 @@ textarea.form-control {
 }
 
 .header__topbar .social__icons a:hover {
-  color: #ff5e14;
+  color: #178DF9;
 }
 
 .header__topbar .social__icons span {
@@ -2832,7 +2832,7 @@ textarea.form-control {
   line-height: 40px;
   font-size: 14px;
   border-radius: 2px;
-  background-color: #ff5e14;
+  background-color: #178DF9;
   color: #ffffff;
   letter-spacing: 0.2px;
 }
@@ -4934,7 +4934,7 @@ textarea.form-control {
 .fancybox-item .fancybox__icon {
   font-size: 45px;
   line-height: 1;
-  color: #ff5e14;
+  color: #178DF9;
   margin-bottom: 20px;
   -webkit-transition: transform 0.3s ease;
   -moz-transition: transform 0.3s ease;
@@ -4973,7 +4973,7 @@ textarea.form-control {
 }
 
 .fancybox-item:hover .fancybox__title {
-  color: #ff5e14;
+  color: #178DF9;
 }
 
 .fancybox-layout1 .fancybox-item {
