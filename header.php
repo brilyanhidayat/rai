@@ -12,6 +12,7 @@
     href="https://fonts.googleapis.com/css?family=Roboto:400,500,700%7cPoppins:400,600,700&display=swap">
   <link rel="stylesheet" href="assets/css/libraries.css" />
   <link rel="stylesheet" href="assets/css/style.css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
 </head>
 
 <body>
@@ -109,7 +110,7 @@
             <ul class="modules__wrapper d-flex align-items-center list-unstyled">
 
               <li class="d-none d-lg-block">
-                <a href="request-quote.html" class="module__btn btn__request btn">
+                <a href="https://wa.me/082289009708?text=Hallo%20%20RAI%20Expeditions" class="module__btn btn__request btn">
                   <span>WhatsApp</span><i class="fa fa-whatsapp"></i>
                 </a>
               </li>
