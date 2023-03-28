@@ -139,9 +139,9 @@
       </form>
     </div><!-- /.module-search-container -->
 
-    <button id="scrollTopBtn"><i class="fa fa-long-arrow-up"></i></button>
+    <!--<button id="scrollTopBtn"><i class="fa fa-long-arrow-up"></i></button>-->
 
-    <whatsapp-widget number="082289009708" name="RAI Expeditions" description="Slogan RAI" welcome-message="Welcome to RAI Expeditions" avatar="https://cdn.tedbree.com/file/faviocnb.png" />
+    <whatsapp-widget number="+6282289009708" name="RAI Expeditions" description="Slogan RAI" welcome-message="Welcome to RAI Expeditions" avatar="https://cdn.tedbree.com/file/faviocnb.png" />
 
   <script src="assets/js/jquery-3.3.1.min.js"></script>
   <script src="assets/js/plugins.js"></script>
@@ -378,7 +378,7 @@ body {
           name: r = "RAI Expeditions"
         } = e,
         {
-          number: s = "082289009708"
+          number: s = "+6282289009708"
         } = e,
         {
           avatar: p = null
