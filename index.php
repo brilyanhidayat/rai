@@ -64,8 +64,8 @@
               <i class="icon-wallet"></i>
             </div><!-- /.fancybox-icon -->
             <div class="fancybox__content">
-              <h4 class="fancybox__title">Transparent Pricing</h4>
-              <p class="fancybox__desc">International supply chains involves challenging regulations.</p>
+              <h4 class="fancybox__title">ONGKIR MURAH</h4>
+              <p class="fancybox__desc">Layanan resmi RAI dengan ongkos kirim murah, paling kompetitif dan paling aman.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
 
@@ -75,8 +75,8 @@
               <i class="icon-search"></i>
             </div><!-- /.fancybox-icon -->
             <div class="fancybox__content">
-              <h4 class="fancybox__title">Real-Time Tracking</h4>
-              <p class="fancybox__desc">Ensure customers’ supply chains are fully compliant by practices.</p>
+              <h4 class="fancybox__title">SATSET TERUS!</h4>
+              <p class="fancybox__desc">Pengiriman terpercaya dan tercepat ke seluruh Indonesia, biar bisa #SatsetTerus!</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
 
@@ -86,8 +86,8 @@
               <i class="icon-trolley"></i>
             </div><!-- /.fancybox-icon -->
             <div class="fancybox__content">
-              <h4 class="fancybox__title">Warehouse Storage</h4>
-              <p class="fancybox__desc">Depending on your product, we provide warehouse activities.</p>
+              <h4 class="fancybox__title">FIT-VECHILES</h4>
+              <p class="fancybox__desc">Telah didukung dengan Fit-Vechile, armada yang sehat dan layak untuk semua jenis pengiriman.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
 
@@ -97,8 +97,8 @@
               <i class="icon-package-6"></i>
             </div><!-- /.fancybox-icon -->
             <div class="fancybox__content">
-              <h4 class="fancybox__title">Security For Cargo</h4>
-              <p class="fancybox__desc">High security requirements and are certified to local standards.</p>
+              <h4 class="fancybox__title">FAST-RESPONSE</h4>
+              <p class="fancybox__desc">Gratis layanan konsultasi, respon cepat 24 jam dan selalu siap memberikan solusi.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
 
@@ -184,7 +184,7 @@
           <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-3">
               <div class="footer__newsletter-text">
-                <h6>Our Newsletter</h6>
+                <h5>Konsultasi Sekarang!</h6>
                 <p>Sign up for industry news & insights.</p>
               </div><!-- /.footer-newsletter-text -->
             </div><!-- /.col-xl-3-->
