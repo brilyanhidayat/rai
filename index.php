@@ -214,8 +214,7 @@
             <div class="heading text-center mb-50">
               <span class="heading__subtitle">PT Ridho Ayah Ibu</span>
               <h2 class="heading__title">Layanan Terbaik dari RAI</h2>
-              <p class="heading__desc">Customized logistics solutions will help you analyze, develop and implement
-                successful supply chain management strategies.</p>
+              <p class="heading__desc">Terus menjaga kepercayaan, profesionalitas, integritas, keamanan dan terpercaya dengan berbasis digital dan menjadikan hal tersebut menjadi komitmen kami.</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -231,10 +230,9 @@
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Darat</h4>
-                  <p class="service__desc">We can arrange and provides with the comprehensive service in the sphere of
-                    urgent, valuable, fragile or any cargoes conscientious accelerated delivery by air.</p>
+                  <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik. </p>
                   <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
               </div><!-- /.service-item -->
@@ -246,10 +244,9 @@
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Laut</h4>
-                  <p class="service__desc">We provides with the main types of basic conditions International sea
-                    transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
+                  <p class="service__desc">RAI telah mendukung jasa ekspedisi untuk pengiriman via laut adalah solusi ekonomis dan lebih banyak fleksibilitas tentang barang yang akan dikirimkan.</p>
                   <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
               </div><!-- /.service-item -->
@@ -261,10 +258,9 @@
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Charter Truck</h4>
-                  <p class="service__desc">We provides with the main types of basic conditions International sea
-                    transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
+                  <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
                   <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
               </div><!-- /.service-item -->
@@ -276,10 +272,9 @@
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Charter Container</h4>
-                  <p class="service__desc">We can arrange and provides with the comprehensive service in the sphere of
-                    urgent, valuable, fragile or any cargoes conscientious accelerated delivery by air.</p>
+                  <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
                   <a href="#" class="btn btn__white">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
               </div><!-- /.service-item -->
