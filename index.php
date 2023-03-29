@@ -374,11 +374,9 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
             <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Join Us Today</span>
-              <h2 class="heading__title">Our Partners</h2>
-              <p class="heading__desc">Our skilled personnel, utilising the latest communications, tracking and
-                processing software, combined with decades of experience! Through integrated supply chain solutions,
-                Logisti drives sustainable competitive advantages to some of Australia's largest companies.</p>
+              <span class="heading__subtitle">Pengiriman Terbaik</span>
+              <h2 class="heading__title">Pelanggan Setia Kami</h2>
+              <p class="heading__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
