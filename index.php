@@ -174,15 +174,37 @@
       </div><!-- /.container -->
     </section><!-- /.Banner 2 -->
 
-      <div class="footer-newsletter">
+  </br>
+    <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+    <div class="cta-container-banner" align="center">
+      <div class="cta-banner-txt-item">
+        <div class="opacity">
+          <h2 id="angelkarten-kaufen">Text Baris 1</h2>
+        </div>
+        <div class="opacity">
+          <p>Text Baris<br /> 2</p>
+        </div>
+        <div class="cta-banner-button">
+          <div class="pulse-button">
+            <div class="pulse"><a class="cta-banner-button-link" href="https://hejfish.com/signup" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
+          </div>
+        </div>
+      </div>
+
+  <!--<div class="opacity"><img class="banner-logo" src="https://fischerhuette.hejfish.com/wp-content/uploads/2019/07/Hejfish-Logo_Pos_2c-1-e1548246502728-white-1.png" /*"https://fischerhuette.hejfish.com/wp-content/uploads/2019/01/Hejfish-Logo_Pos_2c-1-e1548246502728.png"*/ height="75">
+  </div>-->
+</div>
+
+
+      <!--<div class="footer-newsletter">
         <div class="container">
           <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-3">
               <div class="footer__newsletter-text">
                 <h5>Konsultasi Sekarang!</h6>
                 <p>Sign up for industry news & insights.</p>
-              </div><!-- /.footer-newsletter-text -->
-            </div><!-- /.col-xl-3-->
+              </div>
+            </div>
             <div class="col-sm-12 col-md-12 col-lg-9 col-xl-7">
               <form class="footer__newsletter-form d-flex flex-wrap">
                 <div class="form-group d-flex flex-1 mb-20 mr-1">
@@ -191,17 +213,17 @@
                 </div>
                 <button class="btn btn__primary btn__hover3 mb-20">Submit Now!</button>
               </form>
-            </div><!-- /.col-xl-7 -->
+            </div>
             <div class="col-sm-12 col-md-12 col-lg-3 col-xl-2">
               <div class="social__icons justify-content-end">
                 <a href="#"><i class="fa fa-facebook"></i></a>
                 <a href="#"><i class="fa fa-twitter"></i></a>
                 <a href="#"><i class="fa fa-instagram"></i></a>
-              </div><!-- /.social-icons -->
-            </div><!-- /.col-xl-2 -->
-          </div><!-- /.row -->
-        </div><!-- /.container -->
-      </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>-->
 
 
     <!-- ========================
@@ -525,3 +547,117 @@
 </body>
 
 </html>
+
+<style type="text/css">
+
+  .cta-container-banner {
+  overflow: hidden;
+  height: 250px;
+  display: flex;
+  background-color: #f2f2f2;
+  width: auto;
+  margin: auto;
+  border-radius: 5px;
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4); background-image:  url("https://fischerhuette.hejfish.com/wp-content/uploads/2019/09/banner-registrieren-bei-hejfish-angler-wathose-see.png"); background-position: left bottom;
+  justify-content:flex-start;
+ }*/
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+  background-image: url("https://fischerhuette.hejfish.com/wp-content/uploads/2019/07/DSC01088.jpg");
+  background-position: 50% 20%;
+  background-size: cover;
+  justify-content: flex-start;
+}
+
+.cta-banner-txt-item {
+  margin: auto;
+
+  text-align: center;
+
+}
+
+.cta-banner-button {
+  font-family: "Rubik";
+  font-size: 35px;
+}
+
+.cta-banner-button a {
+  color: #ffffff;
+  background-color: #178DF9;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.cta-banner-button a:hover {
+  color: #ffffff;
+  background-color: #D44060;
+}
+
+.cta-banner-button-link {
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+}
+
+.cta-banner-txt-item h2 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  font-family: "Rubik";
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.cta-banner-txt-item p {
+  margin-top: -5px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  font-family: "Rubik";
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.banner-logo {
+  animation-name: opacity-animation;
+  animation-duration: 3s;
+  display: flex;
+  position: relative;
+  top: 5%;
+  right: -200%;
+}
+
+@keyframes pulse_animation {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.pulse {
+  animation-name: pulse_animation;
+  animation-duration: 1.3s;
+  transform-origin: 10% 70%;
+  animation-iteration-count: 3;
+  animation-timing-function: linear;
+}
+
+.pulse:hover {
+  animation-play-state: paused;
+}
+
+@keyframes opacity-animation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.opacity {
+  animation-name: opacity-animation;
+  animation-duration: 3s;
+}
+
+</style>
