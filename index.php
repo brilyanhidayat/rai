@@ -555,7 +555,7 @@
   background-color: #f2f2f2;
   width: auto;
   margin: auto;
-  border-radius: 5px;
+  border-radius: 0px;
   /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4); background-image:  url("https://fischerhuette.hejfish.com/wp-content/uploads/2019/09/banner-registrieren-bei-hejfish-angler-wathose-see.png"); background-position: left bottom;
   justify-content:flex-start;
  }*/
