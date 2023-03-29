@@ -26,9 +26,9 @@
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
-                  <h2 class="slide__title">Flexible, Accelerated <br> & Improved Delivery Services For You! </h2>
-                  <p class="slide__desc">Competitive advantages to some of the largest companies allover the world.</p>
-                  <a href="#" class="btn btn__primary">Get Started</a>
+                  <h2 class="slide__title">Ongkir Murah, Paling Kompetitif & Paling Aman.</h2>
+                  <p class="slide__desc">Layanan Gratis Konsultasi, Servei Barang & Booking Jadwal</p>
+                  <a href="#" class="btn btn__primary">Tanya Sekarang</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
@@ -41,9 +41,9 @@
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
-                  <h2 class="slide__title">Flexible, Accelerated <br> & Improved Delivery Services For You! </h2>
-                  <p class="slide__desc">Competitive advantages to some of the largest companies allover the world.</p>
-                  <a href="#" class="btn btn__primary">Get Started</a>
+                  <h2 class="slide__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
+                  <p class="slide__desc">Ledtim Pengiriman Cepat, Didukung dengan Fit-Vechile dan Dijamin aman sampai tujuan.</p>
+                  <a href="#" class="btn btn__primary">BOOKING</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
@@ -396,11 +396,9 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8 offset-lg-2">
             <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Join Us Today</span>
-              <h2 class="heading__title">Our Partners</h2>
-              <p class="heading__desc">Our skilled personnel, utilising the latest communications, tracking and
-                processing software, combined with decades of experience! Through integrated supply chain solutions,
-                Logisti drives sustainable competitive advantages to some of Australia's largest companies.</p>
+              <span class="heading__subtitle">Pengiriman Terbaik</span>
+              <h2 class="heading__title">Pelanggan Setia Kami</h2>
+              <p class="heading__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->

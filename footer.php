@@ -37,70 +37,60 @@
           <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4 footer__widget footer__widget-about">
               <div class="footer__widget-content">
-                <img src="assets/images/logo/logo-small-1.png" alt="logo" class="footer-logo">
-                <p>Our global Optimecs expertise, advanced supply chain technology & customized Optimecs solutions
-                  will help you develop and implement successful supply.</p>
-                <ul class="contact__list list-unstyled">
-                  <li><span>Email:</span><span>marketing@raiexpedition.co.id</span></li>
-                  <li><span>Phone:</span><span>0822-8900-9708</span></li>
-                </ul>
+                <img src="assets/images/logo/logo-dark-1.png" alt="logo" class="footer-logo">
+                <p></p>
+                
               </div>
             </div><!-- /.col-lg-4 -->
             <div class="col-6 col-sm-6 col-md-3 col-lg-2 footer__widget footer__widget-nav">
-              <h6 class="footer__widget-title">Who We Are</h6>
+              <h6 class="footer__widget-title">RAI</h6>
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Meet Our Team</a></li>
-                    <li><a href="#">News & Media</a></li>
-                    <li><a href="#">Case Studies</a></li>
-                    <li><a href="#">Contacts</a></li>
-                    <li><a href="#">Careers</a></li>
+                    <li><a href="#">Sekilas</a></li>
+                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">Info</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
             </div><!-- /.col-lg-2 -->
             <div class="col-6 col-sm-6 col-md-3 col-lg-2 footer__widget footer__widget-nav">
-              <h6 class="footer__widget-title">What We Do</h6>
+              <h6 class="footer__widget-title">Layanan</h6>
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Warehousing</a></li>
-                    <li><a href="#">Air Freight</a></li>
-                    <li><a href="#">Ocean Freight</a></li>
-                    <li><a href="#">Road Freight</a></li>
-                    <li><a href="#">Supply Chain</a></li>
-                    <li><a href="#">Packaging</a></li>
+                    <li><a href="#">Eks. Darat</a></li>
+                    <li><a href="#">Eks. Laut</a></li>
+                    <li><a href="#">Charter Truck</a></li>
+                    <li><a href="#">Charter Container</a></li>
+
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
             </div><!-- /.col-lg-2 -->
             <div class="col-6 col-sm-6 col-md-3 col-lg-2 footer__widget footer__widget-nav">
-              <h6 class="footer__widget-title">Who We Serve</h6>
+              <h6 class="footer__widget-title">Sosial Media</h6>
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Retail & Consumer</a></li>
-                    <li><a href="#">Sciences & Healthcare</a></li>
-                    <li><a href="#">Industrial & Chemical</a></li>
-                    <li><a href="#">Power Generation</a></li>
-                    <li><a href="#">Food & Beverage</a></li>
-                    <li><a href="#">Oil & Gas</a></li>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Youtube</a></li>
+                    <li><a href="#">Linkedin</a></li>
+                    <li><a href="#">Tiktok</a></li>
+
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
             </div><!-- /.col-lg-2 -->
             <div class="col-6 col-sm-6 col-md-3 col-lg-2 footer__widget footer__widget-nav">
-              <h6 class="footer__widget-title">Quick Links</h6>
+              <h6 class="footer__widget-title">Hubungi Kami</h6>
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Request A Quote</a></li>
-                    <li><a href="#">Track & Trace</a></li>
-                    <li><a href="#">Find A Location</a></li>
-                    <li><a href="#">Global Agents</a></li>
-                    <li><a href="#">Help & FAQ</a></li>
+                    <li><a href="#">WhatsApp</a></li>
+                    <li><a href="#">Telepon</a></li>
+                    <li><a href="#">Email</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
