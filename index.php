@@ -128,13 +128,12 @@
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5">
             <div class="heading heading-3 pt-100">
-              <span class="heading__subtitle">Affordable Price, Certified Forwarders</span>
-              <h2 class="heading__title">Safe, Reliable Logistic Solutions That Saves Your Time!</h2>
-              <p class="heading__desc mb-30">We pride ourselves on providing the best transport and shipping services
-                available allover the world. Our skilled personnel, utilising the latest communications, tracking and
-                processing software, combined with decades of experience.</p>
+              <span class="heading__subtitle">Pengiriman Barang ke seluruh Indonesia</span>
+              <h2 class="heading__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
+              <p class="heading__desc mb-30">RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.
+</p>
               <img src="assets/images/about/singnture.png" alt="singnture" class="mr-30">
-              <a href="#" class="btn btn__primary btn__lg">Schedule An Appointment</a>
+              <a href="#" class="btn btn__primary btn__lg">Selengkapnya</a>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-5 -->
         </div><!-- /.row -->
@@ -150,25 +149,21 @@
           <div class="col-sm-12 col-md-12 col-lg-6 bg-theme">
             <div class="inner-padding">
               <div class="heading heading-3 heading-white mb-40">
-                <p class="heading__subtitle">Unbeatable Logistics & Transport Solutions!</p>
-                <h2 class="heading__title">Competitive Advantages To The Largest Companies!</h2>
-                <p class="heading__desc">Optime is a representative logistics operator providing full range of service
-                  in the sphere of customs clearance and transportation worldwide for any type of cargo. We pride
-                  ourselves on providing the best transport services currently available all over the world. Our skilled
-                  personnel, utilising the latest communications, tracking and processing software, combined with
-                  decades of experience utilising latest communications, tracking processing software, and decades of
-                  experience!</p>
+                <p class="heading__subtitle">Distribusi Barang Industri Terbaik & Terpercaya.</p>
+                <h2 class="heading__title">Ongkir Murah, Paling kompetitif dan Paling Aman.</h2>
+                <p class="heading__desc">Berbagai barang dengan volume yang beragam dapat dikirimkan bersama RAI dengan ongkir murah dan terpercaya di Indonesia. Tersedia berbagai macam pilihan armada untuk pengiriman barang via Darat atau Laut, karena bersama RAI :</p>
               </div><!-- /.heading -->
               <ul class="list-unstyled list-items list-items-white">
-                <li>Quality Control System</li>
-                <li>Unrivalled workmanship</li>
-                <li>Functional Objectives</li>
-                <li>100% Satisfaction Guarantee</li>
-                <li>Professional and Qualified</li>
-                <li>Highly Professional Staff</li>
-                <li> Environmental Sensitivity</li>
-                <li>Accurate Testing Processes</li>
-                <li>Personalised solutions</li>
+                <li>ONGKIR PALING MURAH</li>
+                <li>PROSES CLAIM GARANSI CEPAT</li>
+                <li>LEADTIME PENGIRIMAN CEPAT</li>
+                <li>DIDUKUNG ARMADA YANG FIT</li>
+                <li>LAYANAN FAST-RESPONSE</li>
+                <li>GRATIS KONSULTASI</li>
+                <li>GRATIS BOOKING / JADWAL PENGIRIMAN</li>
+                <li>DIJAMIN AMAN SAMPAI TUJUAN</li>
+                <li>GRATIS JEMPUT BARANG</li>
+                <li>GRATIS CEK & SURVEI BARANG</li>
               </ul>
             </div>
           </div><!-- /.col-lg-6 -->
