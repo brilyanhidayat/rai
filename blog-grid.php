@@ -6,14 +6,9 @@
       <div class="bg-img"><img src="assets/images/page-titles/14.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <h1 class="pagetitle__heading">Our Blog</h1>
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Our Blog</li>
-              </ol>
-            </nav>
+          <div class="col-sm-8 col-md-8 col-lg-8">
+            <h1 class="pagetitle__heading">Media Informasi Umum yang Wajib Anda Ketahui !</h1>
+
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -36,16 +31,15 @@
               <div class="blog__content">
                 <div class="blog__meta">
                   <div class="blog__meta-cat">
-                    <a href="#">Insights</a><a href="#">Management</a>
+                    <a href="#">Alur Proses</a>
                   </div><!-- /.blog-meta-cat -->
                 </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Importers achieve cost savings through the First Sale rule!</a></h4>
-                <span class="blog__meta-date">Jan 20, 2019</span>
-                <p class="blog__desc">The trade war currently ensuing between the US and several nations around the
-                  globe, most fiercely with China, shows no signs of the first set of tariffs levied against solar...
+                <h4 class="blog__title"><a href="#">Alur Proses Pemesanan Online bersama RAI</a></h4>
+                <span class="blog__meta-date">Jan 20, 2022</span>
+                <p class="blog__desc">Semua proses yang dijalankan oleh RAI merupakan proses pemesanan melalui call center saja, pesan online sekarang tidak ribet. Selain itu...
                 </p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
             </div><!-- /.blog-item -->
@@ -61,15 +55,14 @@
               <div class="blog__content">
                 <div class="blog__meta">
                   <div class="blog__meta-cat">
-                    <a href="#">Warehousing</a><a href="#">Industry</a>
+                    <a href="#">Syarat & Ketentuan Kirim Barang</a>
                   </div><!-- /.blog-meta-cat -->
                 </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Cargo flow through better supply chain visibility, control.</a></h4>
-                <span class="blog__meta-date">Oct 18, 2019</span>
-                <p class="blog__desc">Global provider connected products for consumers, and enterprises worldwide,
-                  supply chain control is everything, provide visibility and traceability needed for...</p>
+                <h4 class="blog__title"><a href="#">Syarat & Ketentuan Layanan RAI</a></h4>
+                <span class="blog__meta-date">Oct 18, 2021</span>
+                <p class="blog__desc">Mau kirim barang apapun tidak perlu repot, karena pengiriman RAI sangat fleksibel dan tidak banyak syarat dan ketentuan yang rumit. Dengan harga...</p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
             </div><!-- /.blog-item -->
@@ -85,92 +78,21 @@
               <div class="blog__content">
                 <div class="blog__meta">
                   <div class="blog__meta-cat">
-                    <a href="#">Logistics</a><a href="#">Distribution</a>
+                    <a href="#">Promosi</a>
                   </div><!-- /.blog-meta-cat -->
                 </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Importance of specialized focus in Projects, Oil & Gas
-                    Logistics?</a></h4>
-                <span class="blog__meta-date">Jan 20, 2019</span>
-                <p class="blog__desc">Our team provides highly skilled & experienced project managers who know the
-                  intricacies of this vertical and focus on providing innovative solutions in Oil & Gas sector...</p>
+                <h4 class="blog__title"><a href="#">Dapatkan Diskon Pengiriman semua Layanan* RAI</a></h4>
+                <span class="blog__meta-date">Apr 03, 2023</span>
+                <p class="blog__desc">Karena didukung dengan layanan terbaik dan terpecaya, RAI terus memberikan special gift untuk pelanggan setia RAI, dan...</p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
             </div><!-- /.blog-item -->
           </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #4 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/4.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">News</a><a href="#">Industry</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Changes to our Trade Credit Policy and Procedures</a></h4>
-                <span class="blog__meta-date">Oct 24, 2019</span>
-                <p class="blog__desc">The Atradius platform will provide us with a much deeper pool of research to
-                  assist with assessment of new credit applications and credit limits...</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #5 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/5.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">Insights</a><a href="#">Industry</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">New Additions to our great Metro trucks Fleet</a></h4>
-                <span class="blog__meta-date">Oct 27, 2019</span>
-                <p class="blog__desc">These new vehicles are all extra high body trucks, with a carrying height equal to
-                  that of a semi trailer. This allows us to accommodate our clients with high freight...</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #6 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/6.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">Logistics</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">The new Driver Training & Recruitment Program</a></h4>
-                <span class="blog__meta-date">Oct 24, 2019</span>
-                <p class="blog__desc">If you know of anyone looking for a bigger opportunity, a fresh start, or just
-                  something different, please have them contact our operations team now...</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
+
+          
+
         </div><!-- /.row -->
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12">

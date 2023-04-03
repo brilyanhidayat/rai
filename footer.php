@@ -95,7 +95,7 @@
             <div class="col-sm-12 col-md-6 col-lg-6">
               <div class="footer__copyright">
                 <span>&copy; 2023 RAI Web,</span>
-                <a href="http://themeforest.net/user/7oroof">ITICO PRoject</a>
+                <a href="http://themeforest.net/user/7oroof">ITICO Project</a>
               </div><!-- /.Footer-copyright -->
             </div><!-- /.col-lg-6 -->
             <div class="col-sm-12 col-md-6 col-lg-6">
