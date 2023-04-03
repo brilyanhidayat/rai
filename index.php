@@ -439,10 +439,9 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading  heading-white mb-30">
-              <span class="heading__subtitle color-heading">What Peoples Say!</span>
-              <h2 class="heading__title">Testimonials</h2>
-              <p class="heading__desc">See what our customers have to say about our products, people and services. We
-                are very proud of you all !</p>
+              <span class="heading__subtitle color-heading">Ini kata Mereka untuk Menilai RAI!</span>
+              <h2 class="heading__title">Testimoni</h2>
+              <p class="heading__desc">RAI selalu tidak merasa puas untuk saat ini, maka itu RAI terus melakukan pelayanan terbaik untuk pelanggan setia kami !</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -457,84 +456,69 @@
                   <img src="assets/images/testimonials/thumbs/2.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Optime Logistics International customer service is some of the best we
-                    have ever had with ocean forwarders we like to ship as much as possible with you all.</p>
+                  <p class="testimonial__desc">Barang aman sampai tujuan, sangat saya apresiasi untuk respon yang sangat cepat, sukses terus untuk RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature2.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Tapan Mas</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #2 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Beruntung bekerjasama dengan RAI, selain cepat harganya berani bersaing dan stafnya melayani baik dan ramah.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Bahagia Jaya</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #3 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/3.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">In my career, I’ve seen great companies serving logistics. But not to the
-                    point where you feel that comfort and trust that we get with Optime Company.</p>
+                  <p class="testimonial__desc">Di RAI tuh murah, gratis cek barang dan survei juga, udah gitu kalau kita masih bingung tinggal tanya sama admin, semua pokoknya beres sama RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature3.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Rintisan Global</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #4 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Bookingnya gampang cuma wa atau telpon doang, udah gitu gratis lagi gak perlu bayar DP dulu. MANTAP.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. BGR Logistic Indonesia</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
-              <!-- Testimonial #5 -->
+
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Saya paling suka selain pelayanan yang cepat ya.. Armadanya juga memadai banget, pengiriman saya juga sesuai waktu yang dijanjikan. Terima kasih RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Phona</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
-              <!-- Testimonial #6 -->
-              <div class=" testimonial-item">
-                <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/3.jpg" alt="author thumb">
-                </div><!-- /.testimonial-thumb -->
-                <div class="testimonial__content">
-                  <p class="testimonial__desc">In my career, I’ve seen great companies serving logistics. But not to the
-                    point where you feel that comfort and trust that we get with Optime Company.</p>
-                </div><!-- /.testimonial-content -->
-                <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature3.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
-                </div><!-- /.testimonial-meta -->
-              </div><!-- /. testimonial-item -->
+              
             </div><!-- /.carousel -->
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->

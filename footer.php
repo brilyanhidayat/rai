@@ -38,7 +38,8 @@
             <div class="col-sm-12 col-md-12 col-lg-4 footer__widget footer__widget-about">
               <div class="footer__widget-content">
                 <img src="assets/images/logo/logo-dark-1.png" alt="logo" class="footer-logo">
-                <p></p>
+                <p><b>PT Ridho Ayah Ibu</b></p>
+                <p>Ruko Pondok Ungu Permai Blok II No. 13, Kel. Kaliabang Tengah, Bekasi Utara, Jawa Barat.</p>
                 
               </div>
             </div><!-- /.col-lg-4 -->
@@ -103,16 +104,16 @@
           <div class="row align-items-center">
             <div class="col-sm-12 col-md-6 col-lg-6">
               <div class="footer__copyright">
-                <span>&copy; 2019 Optime, with Love by</span>
-                <a href="http://themeforest.net/user/7oroof">7oroof.com</a>
+                <span>&copy; 2023 RAI Web,</span>
+                <a href="http://themeforest.net/user/7oroof">ITICO PRoject</a>
               </div><!-- /.Footer-copyright -->
             </div><!-- /.col-lg-6 -->
             <div class="col-sm-12 col-md-6 col-lg-6">
               <nav>
                 <ul class="list-unstyled footer__copyright-links d-flex flex-wrap justify-content-end">
-                  <li><a href="#">Terms & Conditions </a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Sitemap</a></li>
+                  <li><a href="#"> </a></li>
+                  <li><a href="#"></a></li>
+                  <li><a href="#"></a></li>
                 </ul>
               </nav>
             </div><!-- /.col-lg-6 -->
