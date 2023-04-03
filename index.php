@@ -42,7 +42,7 @@
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
                 <div class="slide__content">
                   <h2 class="slide__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
-                  <p class="slide__desc">Ledtim Pengiriman Cepat, Didukung dengan Fit-Vechile dan Dijamin aman sampai tujuan.</p>
+                  <p class="slide__desc">Leadtime Pengiriman Cepat, Didukung dengan Fit-Vechile dan Dijamin aman sampai tujuan.</p>
                   <a href="#" class="btn btn__primary">BOOKING</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
@@ -132,7 +132,7 @@
               <h2 class="heading__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
               <p class="heading__desc mb-30">RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.
 </p>
-              <img src="assets/images/about/singnture.png" alt="singnture" class="mr-30">
+              
               <a href="#" class="btn btn__primary btn__lg">Selengkapnya</a>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-5 -->
@@ -179,14 +179,14 @@
     <div class="cta-container-banner" align="center">
       <div class="cta-banner-txt-item">
         <div class="opacity">
-          <h2 id="angelkarten-kaufen">Text Baris 1</h2>
+          <h2 id="angelkarten-kaufen">RAI Siap Kirim Barang Kemanapun !</h2>
         </div>
         <div class="opacity">
-          <p>Text Baris<br /> 2</p>
+          <p>Ongkir Paling Murah, Gratis Konsultasi, Gratis Booking, Gratis Jemput Barang dan Gratis Survei Barang !<br /> Konsultasi Sekarang !</p>
         </div>
         <div class="cta-banner-button">
           <div class="pulse-button">
-            <div class="pulse"><a class="cta-banner-button-link" href="https://hejfish.com/signup" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
+            <div class=""><a class="cta-banner-button-link" href="https://hejfish.com/signup" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
           </div>
         </div>
       </div>
@@ -319,10 +319,9 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading heading-white text-center mb-50">
-              <span class="heading__subtitle color-theme">Latest Case Studies</span>
-              <h2 class="heading__title">Featured Projects</h2>
-              <p class="heading__desc">We presents the following case studies that exemplify the type of solutions and
-                services we are providing across our customer base.</p>
+              <span class="heading__subtitle color-theme">PT Ridho Ayah Ibu</span>
+              <h2 class="heading__title">Ongkir Murah, Paling Kompetitif Dan Paling Aman.</h2>
+              <p class="heading__desc">Menjaga kepercayaan, profesionalitas, integritas, keamanan, dan terpercaya dengan berbasis digital dan menjadikan hal tersebut komitmen perusahaan.</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -333,15 +332,14 @@
               <div class="project__img">
                 <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
                 <div class="project__cat">
-                  <a href="#">Analystics</a><a href="#">Optimization</a>
+                  <a href="#">LAYANAN</a>
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                <p class="project__desc">We understand that data is the greatest asset when it comes to analyzing and
-                  optimizing your supply chain performance.</p>
+                <h4 class="project__title"><a href="#">Pelayanan Maksimal</a></h4>
+                <p class="project__desc">RAI memiliki staff marketing yang ramah dan akan membantu pengiriman kamu hingga sampai tujuan.</p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->
@@ -352,15 +350,14 @@
               <div class="project__img">
                 <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
                 <div class="project__cat">
-                  <a href="#">Warehousing</a><a href="#">Distribution</a>
+                  <a href="#">FASILITAS</a>
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                <p class="project__desc">We understand that data is the greatest asset when it comes to analyzing and
-                  optimizing your supply chain performance.</p>
+                <h4 class="project__title"><a href="#">Fit-Vechiles</a></h4>
+                <p class="project__desc">RAI terus melakukan perbaikan yang berkesinambungan terhadap armada agar selalu prima.</p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->
@@ -371,15 +368,14 @@
               <div class="project__img">
                 <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
                 <div class="project__cat">
-                  <a href="#">Logistics</a><a href="#">Analytics</a>
+                  <a href="#">KERJASAMA</a>
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall spend by
-                  utilizing an extensive .</p>
+                <h4 class="project__title"><a href="#">RAI siap untuk Bekerjasama</a></h4>
+                <p class="project__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
                 <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->

@@ -6,29 +6,19 @@
     <footer id="footer" class="footer">
       <div class="footer-newsletter">
         <div class="container">
-          <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-12 col-xl-3">
+          <div class="">
+            <div class="">
+
+              <center>
               <div class="footer__newsletter-text">
-                <h6>Our Newsletter</h6>
-                <p>Sign up for industry news & insights.</p>
+                <h3>Distribusi Barang Industri Terbaik & Terpercaya.</h3>
+                <p><h6>Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang !</h6></p>
+                <button class="btn btn__primary btn__lg">Konsultasi Sekarang!</button>
+
               </div><!-- /.footer-newsletter-text -->
+            </center>
             </div><!-- /.col-xl-3-->
-            <div class="col-sm-12 col-md-12 col-lg-9 col-xl-7">
-              <form class="footer__newsletter-form d-flex flex-wrap">
-                <div class="form-group d-flex flex-1 mb-20 mr-1">
-                  <input type="text" class="form-control" placeholder="Your Name">
-                  <input type="email" class="form-control" placeholder="Your Email Address">
-                </div>
-                <button class="btn btn__primary btn__hover3 mb-20">Submit Now!</button>
-              </form>
-            </div><!-- /.col-xl-7 -->
-            <div class="col-sm-12 col-md-12 col-lg-3 col-xl-2">
-              <div class="social__icons justify-content-end">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-instagram"></i></a>
-              </div><!-- /.social-icons -->
-            </div><!-- /.col-xl-2 -->
+            
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div>
