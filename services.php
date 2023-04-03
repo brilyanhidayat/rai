@@ -163,8 +163,8 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading mb-50">
-              <span class="heading__subtitle">What Peoples Say!</span>
-              <h2 class="heading__title">Testimonials</h2>
+              <span class="heading__subtitle">Ini kata Mereka untuk Menilai RAI!</span>
+              <h2 class="heading__title">Testimoni</h2>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -178,33 +178,69 @@
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
+
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">They are the best of the best, and expertly trained team members who take
-                    the extra step and go the extra mile, all to fulfill our dedicated promise to deliver innovative and
-                    dynamic solutions to our customers to fit the needs of a rapidly changing global environment.</p>
+                  <p class="testimonial__desc">Barang aman sampai tujuan, sangat saya apresiasi untuk respon yang sangat cepat, sukses terus untuk RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  <p class="testimonial__meta-desc">PT. Tapan Mas</p>
                 </div><!-- /.testimonial-meta -->
-              </div><!-- /. testimonial-item -->
-              <!-- Testimonial #2 -->
+            </div>
+
+            <div class=" testimonial-item">
+                <div class="testimonial__thumb">
+                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                </div><!-- /.testimonial-thumb -->
+
+                <div class="testimonial__content">
+                  <p class="testimonial__desc">Bookingnya gampang cuma wa atau telpon doang, udah gitu gratis lagi gak perlu bayar DP dulu. MANTAP.</p>
+                </div><!-- /.testimonial-content -->
+                <div class="testimonial__meta">
+                  <p class="testimonial__meta-desc">PT. BGR Logistic Indonesia</p>
+                </div><!-- /.testimonial-meta -->
+            </div>
+
+
+            <div class=" testimonial-item">
+                <div class="testimonial__thumb">
+                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                </div><!-- /.testimonial-thumb -->
+
+                <div class="testimonial__content">
+                  <p class="testimonial__desc">Saya paling suka selain pelayanan yang cepat ya.. Armadanya juga memadai banget, pengiriman saya juga sesuai waktu yang dijanjikan. Terima kasih RAI.</p>
+                </div><!-- /.testimonial-content -->
+                <div class="testimonial__meta">
+                  <p class="testimonial__meta-desc">PT. Phona</p>
+                </div><!-- /.testimonial-meta -->
+            </div>
+
+
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
+
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Logisti team is the best of the best, and expertly trained team members
-                    who take the extra step and go the extra mile, all to fulfill our dedicated promise to deliver
-                    innovative and dynamic solutions to our customers to fit the needs of a rapidly changing global
-                    environment.</p>
+                  <p class="testimonial__desc">Beruntung bekerjasama dengan RAI, selain cepat harganya berani bersaing dan stafnya melayani baik dan ramah.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  <p class="testimonial__meta-desc">PT. Bahagia Jaya</p>
                 </div><!-- /.testimonial-meta -->
-              </div><!-- /. testimonial-item -->
             </div>
+
+            <div class=" testimonial-item">
+                <div class="testimonial__thumb">
+                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                </div><!-- /.testimonial-thumb -->
+
+                <div class="testimonial__content">
+                  <p class="testimonial__desc">Di RAI tuh murah, gratis cek barang dan survei juga, udah gitu kalau kita masih bingung tinggal tanya sama admin, semua pokoknya beres sama RAI.</p>
+                </div><!-- /.testimonial-content -->
+                <div class="testimonial__meta">
+                  <p class="testimonial__meta-desc">PT. Rintisan Global</p>
+                </div><!-- /.testimonial-meta -->
+            </div>
+
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
