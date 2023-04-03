@@ -8,9 +8,9 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-8">
-            <h1 class="pagetitle__heading">Reliable & Express Logistic Solutions Saves Your Time!</h1>
-            <p class="pagetitle__desc">Competitive advantages to some of the largest companies allover the world.</p>
-            <a href="#" class="btn btn__white">Contact Us</a>
+            <h1 class="pagetitle__heading">Ongkir Murah, Paling Kompetitif & Paling Aman.</h1>
+            <p class="pagetitle__desc">Distribusi Barang Industri Terbaik & Terpecaya di Indonesia.</p>
+            <a href="#" class="btn btn__white">Booking Sekarang</a>
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -23,96 +23,66 @@
       <div class="container">
         <div class="row heading heading-2 mb-40">
           <div class="col-sm-12 col-md-12 col-lg-12">
-            <span class="heading__subtitle">Real Solutions, Real Fast!</span>
+            <span class="heading__subtitle">PT Ridho Ayah Ibu</span>
           </div><!-- /.col-lg-12 -->
           <div class="col-sm-12 col-md-12 col-lg-6">
-            <h2 class="heading__title">Delivering the Best Global Logistics Solutions.</h2>
+            <h2 class="heading__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
           </div><!-- /.col-lg-5 -->
           <div class="col-sm-12 col-md-12 col-lg-6 ">
-            <p class="heading__desc">Our global logistics expertise, advanced supply chain technology & customized
-              logistics solutions will help you analyze, develop and implement successful supply chain management
-              strategies.</p>
+            <p class="heading__desc">RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.</p>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row text-center">
-          <div class="col-sm-6 col-md-6 col-lg-4">
+          <div class="col">
             <div class="service-item">
-              <div class="service__icon"><i class="icon-air-freight"></i></div>
+              <div class="service__icon"><i class="icon-delivery"></i></div>
               <div class="service__content">
-                <h4 class="service__title">Air Freight</h4>
-                <p class="service__desc">We can arrange and provides with the comprehensive service in the sphere of
-                  urgent, valuable, fragile or any cargoes conscientious accelerated delivery by air.</p>
+                <h4 class="service__title">Ekspedisi Darat</h4>
+                <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik.</p>
                 <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
             </div><!-- /.service-item -->
           </div><!-- /.col-lg-4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
+          <div class="col">
             <div class="service-item">
               <div class="service__icon"><i class="icon-cargo-ship"></i></div>
               <div class="service__content">
-                <h4 class="service__title">Ocean Freight</h4>
-                <p class="service__desc">We provides with the main types of basic conditions International sea
-                  transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
+                <h4 class="service__title">Ekspedisi Laut</h4>
+                <p class="service__desc">RAI mendukung jasa ekspedisi untuk pengiriman via laut, solusi ekonomis lebih fleksibilitas barang yang dikirimkan.</p>
                 <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
             </div><!-- /.service-item -->
           </div><!-- /.col-lg-4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
+          <div class="col">
             <div class="service-item">
               <div class="service__icon"><i class="icon-truck"></i></div>
               <div class="service__content">
-                <h4 class="service__title">Road Freight</h4>
-                <p class="service__desc">We provides with the main types of basic conditions International sea
-                  transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
+                <h4 class="service__title">Charter Truck</h4>
+                <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
                 <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
             </div><!-- /.service-item -->
           </div><!-- /.col-lg-4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
+          <div class="col">
             <div class="service-item">
               <div class="service__icon"><i class="icon-forklift"></i></div>
               <div class="service__content">
-                <h4 class="service__title">Warehousing</h4>
-                <p class="service__desc">We provides with the main types of basic conditions International sea
-                  transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
+                <h4 class="service__title">Charter Container</h4>
+                <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
                 <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
+                  <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
             </div><!-- /.service-item -->
           </div><!-- /.col-lg-4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
-            <div class="service-item">
-              <div class="service__icon"><i class="icon-conveyor"></i></div>
-              <div class="service__content">
-                <h4 class="service__title">Supply Chain</h4>
-                <p class="service__desc">We provides with the main types of basic conditions International sea
-                  transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
-                <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div>
-            </div><!-- /.service-item -->
-          </div><!-- /.col-lg-4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
-            <div class="service-item">
-              <div class="service__icon"><i class="icon-box-2"></i></div>
-              <div class="service__content">
-                <h4 class="service__title">Packaging</h4>
-                <p class="service__desc">We provides with the main types of basic conditions International sea
-                  transportation is implemented by our partners’ vessels, the largest ocean carriers.</p>
-                <a href="#" class="btn btn__white">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div>
-            </div><!-- /.service-item -->
-          </div><!-- /.col-lg-4 -->
+
+
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.Services -->
@@ -127,35 +97,24 @@
             <div class="inner-padding">
               <div class="heading heading-3 mb-30">
                 <i class="icon-tag"></i>
-                <span class="heading__subtitle">Affordable Price, Certified Forwarders</span>
-                <h2 class="heading__title">Safe, Reliable & Express Logistic Solutions That Saves Your Time!</h2>
-                <p class="heading__desc">We pride ourselves on providing the best transport and shipping services
-                  available allover the world. Our skilled personnel, utilising the latest communications, tracking and
-                  processing software, combined with decades of experience.</p>
+                <span class="heading__subtitle">Pengiriman Barang ke Seluruh Indonesia</span>
+                <h2 class="heading__title">Ongkir Murah, Paling Kompetitif & Paling Aman.</h2>
+                <p class="heading__desc">Terus menjaga kepercayaan, profesionalitas, integritas, keamanan dan terpercaya dengan berbasis digital dan menjadikan hal tersebut menjadi komitmen kami.</p>
               </div><!-- /.heading -->
-              <a href="#" class="btn btn__primary">Schedule An Appointment</a>
+              <a href="#" class="btn btn__primary">Ajukan Penawaran!</a>
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6 bg-overlay  background-banner">
             <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
             <div class="skills skills-panel">
               <div class="heading mb-30">
-                <h2 class="heading__title">What We Achieved!</h2>
-                <p class="heading__desc">Fulfill our dedicated promise to deliver innovative & dynamic solutions to our
-                  customers to fit their needs.</p>
+                <h2 class="heading__title">RAI tetap terus Membantu Banyak Orang! </h2>
+                <p class="heading__desc">Menjaga kepercayaan, profesionalitas, integritas, keamanan, dan terpercaya dengan berbasis digital dan menjadikan hal tersebut komitmen perusahaan.</p>
               </div><!-- /.heading -->
-              <!-- progress 1 -->
-              <div class="progress-item">
-                <h6 class="progress__title">Warehousing</h6>
-                <span class="progress__percentage"></span>
-                <div class="progress">
-                  <div class="progress-bar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" role="progressbar">
-                  </div>
-                </div><!-- /.progress -->
-              </div><!-- /.progress-item  -->
+
               <!-- progress 2 -->
               <div class="progress-item">
-                <h6 class="progress__title">Air Freight</h6>
+                <h6 class="progress__title">Ekspedisi Darat</h6>
                 <span class="progress__percentage"></span>
                 <div class="progress">
                   <div class="progress-bar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100" role="progressbar">
@@ -164,7 +123,7 @@
               </div><!-- /.progress-item  -->
               <!-- progress 3 -->
               <div class="progress-item">
-                <h6 class="progress__title">Ocean Freight</h6>
+                <h6 class="progress__title">Ekspedisi Laut</h6>
                 <span class="progress__percentage"></span>
                 <div class="progress">
                   <div class="progress-bar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" role="progressbar">
@@ -173,7 +132,7 @@
               </div><!-- /.progress-item  -->
               <!-- progress 4 -->
               <div class="progress-item">
-                <h6 class="progress__title">Road Freight</h6>
+                <h6 class="progress__title">Charter Truck</h6>
                 <span class="progress__percentage"></span>
                 <div class="progress">
                   <div class="progress-bar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" role="progressbar">
@@ -182,7 +141,7 @@
               </div><!-- /.progress-item  -->
               <!-- progress 8 -->
               <div class="progress-item">
-                <h6 class="progress__title">Supply Chain</h6>
+                <h6 class="progress__title">Charter Container</h6>
                 <span class="progress__percentage"></span>
                 <div class="progress">
                   <div class="progress-bar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" role="progressbar">
@@ -287,66 +246,7 @@
     <!-- ========================= 
             contact 1
       =========================  -->
-    <section id="contact1" class="contact contact-1 p-0">
-      <div id="map"></div>
-      <script src="assets/js/google-map.js"></script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY" async defer></script>
-      <!-- CLICK HERE (https://developers.google.com/maps/documentation/embed/get-api-key) TO  LERAN MORE ABOUT GOOGLE MAPS API KEY -->
-      <div class="container">
-        <div class="contact-panel contact-panel-2">
-          <div class="contact__panel-header d-flex align-items-center">
-            <h4 class="contact__panel-title">Global Locations</h4>
-          </div>
-          <div id="accordion">
-            <div class="accordion-item">
-              <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
-                <a class="accordion__item-title" href="#">London Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse1" class="collapse  show" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                <a class="accordion__item-title" href="#">Berlin Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse2" class="collapse" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
-                <a class="accordion__item-title" href="#">Manchester Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse3" class="collapse" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-          </div>
-        </div><!-- /.contact-panel -->
-      </div><!-- /.container -->
-    </section><!-- /.contact -->
+
 
   <?php include 'footer.php';?>
 </body>
