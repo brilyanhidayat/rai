@@ -7,15 +7,9 @@
       <div class="bg-img"><img src="assets/images/page-titles/5.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <h1 class="pagetitle__heading">Our Gallery</h1>
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                <li class="breadcrumb-item"><a href="about-us.html">company</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Gallery</li>
-              </ol>
-            </nav>
+          <div class="col-sm-8 col-md-8 col-lg-8">
+            <h1 class="pagetitle__heading">Rangkai Aktivitas Apapun bersama RAI.</h1>
+
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
