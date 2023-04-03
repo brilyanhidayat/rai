@@ -2,13 +2,14 @@
     <!-- ========================= 
             Google Map
     =========================  -->
-    <section id="googleMap" class="google-map p-0">
-      <div id="map"></div>
-      <script src="assets/js/google-map.js"></script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY" async defer></script>
-      <!-- CLICK HERE (https://developers.google.com/maps/documentation/embed/get-api-key) TO  LERAN MORE ABOUT GOOGLE MAPS API KEY -->
-    </section><!-- /.GoogleMap -->
-
+      </br>
+      <div class="heading text-center mb-50">
+      <h2 class="heading__title">Our Location</h2>
+      </br>
+      <div class="map-responsive">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26925.25213345334!2d106.82504872122216!3d-6.5070208909802325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c19092657f6b%3A0x195ea53ba17dbb4f!2sPakansari%20Stadium!5e0!3m2!1sen!2sid!4v1680513965599!5m2!1sen!2sid" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
     <!-- ==========================
         contact 3
     =========================== -->
@@ -17,7 +18,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Our Locations</span>
+
               <h2 class="heading__title">Contact Us</h2>
               <p class="heading__desc">We understand the importance of approaching each work integrally and believe in
                 the power of simple and easy communication.</p>
@@ -135,3 +136,31 @@
 </body>
 
 </html>
+
+<style type="text/css">
+  .map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:30%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+</style>
