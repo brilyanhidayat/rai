@@ -26,15 +26,10 @@
               <span class="heading__subtitle">Pengiriman Barang ke seluruh Indonesia.</span>
               <h2 class="heading__title">Sekilas RAI.</h2>
               <p>PT. Ridho Ayah Ibu atau lebih dikenal dengan PT. RAI berdiri pada tahun 2022.
-Perusahaan kami hadir untuk melayani jasa pengiriman domestik darat dan laut ke seluruh Indonesia. PT RAI merupakan pengembangan dari PT. Bintang Bukit Silanjo berdiri sejak tahun 2018 yang berfokus pada ekspedisi, kontraktor, dan supplier.<br>
-PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang industri. Jangkauan pengiriman barang PT. RAI meliputi darat dan laut. Oleh karena itu, selain meningkatkan armada trucking, PT. RAI juga didukung oleh berbagai perusahaan pelayaran serta menjalin kerjasama dengan berbagai agen distribusi di seluruh Indonesia. Kepercayaan, profesionalitas, dan keamanan barang merupakan tanggung jawab dan komitmen perusahaan kami.</p>
+Perusahaan kami hadir untuk melayani jasa pengiriman domestik darat dan laut ke seluruh Indonesia. PT RAI merupakan pengembangan dari PT. Bintang Bukit Silanjo berdiri sejak tahun 2018 yang berfokus pada ekspedisi, kontraktor, dan supplier.<br><br>
+PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang industri. Jangkauan pengiriman barang PT. RAI meliputi darat dan laut. Oleh karena itu, selain meningkatkan armada trucking, PT. RAI juga didukung oleh berbagai perusahaan pelayaran serta menjalin kerjasama dengan berbagai agen distribusi di seluruh Indonesia. Kepercayaan, profesionalitas, dan keamanan barang merupakan tanggung jawab dan komitmen perusahaan kami.<br><br></p>
             </div><!-- /.heading -->
-            <ul class="list-items list-items-layout2 list-unstyled mb-30">
-              <li>Transparent Pricing, Environmental Sensitivity</li>
-              <li>24/7 Hours Support, Professional and Qualified</li>
-              <li>Real Time Tracking, Fast & Efficient Delivery</li>
-              <li>Warehouse Storage, Personalised solutions</li>
-            </ul>
+
             <a href="#" class="btn btn__primary mr-30 mb-20">Download Brosur</a>
             <a href="#" class="btn btn__primary mr-30 mb-20">Booking!</a>
           </div><!-- /.col-lg-6 -->
