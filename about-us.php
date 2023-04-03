@@ -8,8 +8,8 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
-            <span class="pagetitle__subheading">Affordable Price, Certified Forwarders</span>
-            <h1 class="pagetitle__heading">Advanced Supply Chain Technology & Customized Logistics Solutions!</h1>
+            <span class="pagetitle__subheading">PT Ridho Ayah Ibu</span>
+            <h1 class="pagetitle__heading">Ongkir Murah, Paling Kompetitif & Paling Aman.</h1>
           </div><!-- /.col-xl-8 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -23,11 +23,11 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="heading heading-3 mb-20 pt-60">
-              <span class="heading__subtitle">Supply Chain Technology & Customized Solutions.</span>
-              <h2 class="heading__title">Competitive Advantages For Largest Companies!</h2>
-              <p>Providing the best transport and shipping services available allover the world. Our skilled personnel,
-                utilising the latest communications, tracking and processing software, combined with decades of
-                experience.</p>
+              <span class="heading__subtitle">Pengiriman Barang ke seluruh Indonesia.</span>
+              <h2 class="heading__title">Sekilas RAI.</h2>
+              <p>PT. Ridho Ayah Ibu atau lebih dikenal dengan PT. RAI berdiri pada tahun 2022.
+Perusahaan kami hadir untuk melayani jasa pengiriman domestik darat dan laut ke seluruh Indonesia. PT RAI merupakan pengembangan dari PT. Bintang Bukit Silanjo berdiri sejak tahun 2018 yang berfokus pada ekspedisi, kontraktor, dan supplier.<br>
+PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang industri. Jangkauan pengiriman barang PT. RAI meliputi darat dan laut. Oleh karena itu, selain meningkatkan armada trucking, PT. RAI juga didukung oleh berbagai perusahaan pelayaran serta menjalin kerjasama dengan berbagai agen distribusi di seluruh Indonesia. Kepercayaan, profesionalitas, dan keamanan barang merupakan tanggung jawab dan komitmen perusahaan kami.</p>
             </div><!-- /.heading -->
             <ul class="list-items list-items-layout2 list-unstyled mb-30">
               <li>Transparent Pricing, Environmental Sensitivity</li>
@@ -35,8 +35,8 @@
               <li>Real Time Tracking, Fast & Efficient Delivery</li>
               <li>Warehouse Storage, Personalised solutions</li>
             </ul>
-            <a href="#" class="btn btn__primary mr-30 mb-20">More About Us</a>
-            <a href="#" class="btn btn__secondary btn__link btn__underlined mb-20">Find your solution</a>
+            <a href="#" class="btn btn__primary mr-30 mb-20">Download Brosur</a>
+            <a href="#" class="btn btn__primary mr-30 mb-20">Booking!</a>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-9 col-lg-6">
             <div class="about__img">
@@ -46,8 +46,8 @@
                   <div class="counter__icon">
                     <i class="icon-box"></i>
                   </div>
-                  <h4><span class="counter">6,1541</span></h4>
-                  <p class="counter__desc">Delivered Goods</p>
+                  <h4><span class="counter">20.458</span></h4>
+                  <p class="counter__desc">Pengiriman /Tahun</p>
                 </div>
               </div><!-- /.counter-item-wrapper-->
             </div><!-- /.about-img -->
@@ -77,30 +77,33 @@
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="inner-padding">
               <div class="heading heading-3 heading-white mb-50">
-                <h2 class="heading__title">Flexible Pricing Policy <br>& Decades Of Experience!</h2>
-                <p class="heading__desc">We believe that the services, offered by our company, should satisfy the high
-                  expectations of our customers. We are dedicated in creating added value for our customers by
-                  implementing modern technology in our work. That is why the desire of constant improvement is the
-                  driving force behind our transportation business.</p>
+                <h2 class="heading__title">Visi</h2>
+                <p class="heading__desc">Menjaga kepercayaan, profesionalitas, integritas, keamanan, dan terpercaya dengan berbasis digital dan menjadikan hal tersebut komitmen perusahaan.
+
+                </p>
+
+
+
+
               </div><!-- /.heading -->
-              <div class="counters-white d-flex flex-wrap justify-content-between">
-                <div class="counter-item">
-                  <h4><span class="counter">3,214</span><span>m</span></h4>
-                  <p class="counter__desc">Clients Worldwide</p>
-                </div>
-                <div class="counter-item">
-                  <h4><span class="counter">5,154</span><span>m</span></h4>
-                  <p class="counter__desc">Delivered Goods</p>
-                </div>
-                <div class="counter-item">
-                  <h4><span class="counter">8,845</span><span>m</span></h4>
-                  <p class="counter__desc">Miles Driven</p>
-                </div>
-              </div><!-- /.counters -->
-              <p class="color-white mb-20">Providing the best transport and shipping services currently available
-                allover the world. Our skilled personnel, utilising the latest communications, new tracking and
-                processing software, combined with decades of experience!</p>
-              <img src="assets/images/about/singnture2.png" alt="singnture">
+              
+
+              <div class="heading heading-3 heading-white mb-50">
+                <h2 class="heading__title">Misi</h2>
+                <p class="heading__desc">Dengan terus melakukan pelayanan terbaik dan terpercaya, RAI memiliki Misi sebagai berikut : 
+                </p><br>
+
+            <ul class="list-items color-white mb-20">
+              <li>Membangun kemitraan usaha dengan mitra kerja yang saling menguntungkan.</li>
+              <li>Mengembangkan infrastruktur, teknologi, dan SDM yang inovatif dan professional secara berkelanjutan.</li>
+              <li>Memberikan pelayanan prima kepada pelanggan.</li>
+              <li>Meningkatkan armada trucking yang dapat mendistribusikan barang agar dapat diterima secara cepat, aman, dan tepat.</li>
+            </ul>
+
+
+              </div><!-- /.heading -->
+              <p class="color-white mb-20"></p>
+              
             </div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -110,91 +113,7 @@
     <!-- ======================
            projects Carousel
       ========================= -->
-    <section id="projectsCarousel" class="projects-carousel">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
-            <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Latest Case Studies</span>
-              <h2 class="heading__title">Featured Projects</h2>
-              <p class="heading__desc">We presents the following case studies that exemplify the type of solutions and
-                services we are providing across our customer base.</p>
-            </div><!-- /.heading -->
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-md="2" data-slide-sm="1"
-              data-autoplay="true" data-nav="false" data-dots="true" data-space="30" data-loop="true" data-speed="800">
-              <div class="project-item">
-                <div class="project__img">
-                  <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                  <div class="project__cat">
-                    <a href="#">Analystics</a><a href="#">Optimization</a>
-                  </div><!-- /.project-cat -->
-                </div><!-- /.project-img -->
-                <div class="project__content">
-                  <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                  <p class="project__desc">We understand that data is the greatest asset when it comes to
-                    analyzing and optimizing your supply chain performance.</p>
-                  <a href="#" class="btn btn__secondary btn__link">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.project-content -->
-              </div><!-- /.project-item -->
-              <div class="project-item">
-                <div class="project__img">
-                  <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                  <div class="project__cat">
-                    <a href="#">Warehousing</a><a href="#">Distribution</a>
-                  </div><!-- /.project-cat -->
-                </div><!-- /.project-img -->
-                <div class="project__content">
-                  <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                  <p class="project__desc">We understand that data is the greatest asset when it comes to
-                    analyzing and optimizing your supply chain performance.</p>
-                  <a href="#" class="btn btn__secondary btn__link">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.project-content -->
-              </div><!-- /.project-item -->
-              <div class="project-item">
-                <div class="project__img">
-                  <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                  <div class="project__cat">
-                    <a href="#">Logistics</a><a href="#">Analytics</a>
-                  </div><!-- /.project-cat -->
-                </div><!-- /.project-img -->
-                <div class="project__content">
-                  <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                  <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                    spend by utilizing an extensive .</p>
-                  <a href="#" class="btn btn__secondary btn__link">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.project-content -->
-              </div><!-- /.project-item -->
-              <div class="project-item">
-                <div class="project__img">
-                  <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                  <div class="project__cat">
-                    <a href="#">Optimization</a><a href="#">Warehousing</a>
-                  </div><!-- /.project-cat -->
-                </div><!-- /.project-img -->
-                <div class="project__content">
-                  <h4 class="project__title"><a href="#">Regulatory Compliance</a></h4>
-                  <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                    spend by utilizing an extensive .</p>
-                  <a href="#" class="btn btn__secondary btn__link">
-                    <span>Read More</span><i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.project-content -->
-              </div><!-- /.project-item -->
-            </div><!-- /.carousel -->
-          </div><!-- /.col-lg-12 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.projects-carousel -->
+
 
     <!-- =====================
        Clients 1
@@ -238,10 +157,9 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading  heading-white mb-30">
-              <span class="heading__subtitle color-heading">What Peoples Say!</span>
-              <h2 class="heading__title">Testimonials</h2>
-              <p class="heading__desc">See what our customers have to say about our products, people and services. We
-                are very proud of you all !</p>
+              <span class="heading__subtitle color-heading">Ini kata Mereka untuk Menilai RAI!</span>
+              <h2 class="heading__title">Testimoni</h2>
+              <p class="heading__desc">RAI selalu tidak merasa puas untuk saat ini, maka itu RAI terus melakukan pelayanan terbaik untuk pelanggan setia kami !</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -256,84 +174,69 @@
                   <img src="assets/images/testimonials/thumbs/2.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Optime Logistics International customer service is some of the best we
-                    have ever had with ocean forwarders we like to ship as much as possible with you all.</p>
+                  <p class="testimonial__desc">Barang aman sampai tujuan, sangat saya apresiasi untuk respon yang sangat cepat, sukses terus untuk RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature2.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Tapan Mas</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #2 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Beruntung bekerjasama dengan RAI, selain cepat harganya berani bersaing dan stafnya melayani baik dan ramah.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Bahagia Jaya</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #3 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/3.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">In my career, I’ve seen great companies serving logistics. But not to the
-                    point where you feel that comfort and trust that we get with Optime Company.</p>
+                  <p class="testimonial__desc">Di RAI tuh murah, gratis cek barang dan survei juga, udah gitu kalau kita masih bingung tinggal tanya sama admin, semua pokoknya beres sama RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature3.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Rintisan Global</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
+
               <!-- Testimonial #4 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Bookingnya gampang cuma wa atau telpon doang, udah gitu gratis lagi gak perlu bayar DP dulu. MANTAP.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. BGR Logistic Indonesia</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
-              <!-- Testimonial #5 -->
+
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
                   <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
-                  <p class="testimonial__desc">Expertly trained members who take the step to fulfill dedicated promise
-                    to deliver innovative and solutions to customers to fit the needs of a changing world.</p>
+                  <p class="testimonial__desc">Saya paling suka selain pelayanan yang cepat ya.. Armadanya juga memadai banget, pengiriman saya juga sesuai waktu yang dijanjikan. Terima kasih RAI.</p>
                 </div><!-- /.testimonial-content -->
                 <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
+                  
+                  <p class="testimonial__meta-desc">PT. Phona</p>
                 </div><!-- /.testimonial-meta -->
               </div><!-- /. testimonial-item -->
-              <!-- Testimonial #6 -->
-              <div class=" testimonial-item">
-                <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/3.jpg" alt="author thumb">
-                </div><!-- /.testimonial-thumb -->
-                <div class="testimonial__content">
-                  <p class="testimonial__desc">In my career, I’ve seen great companies serving logistics. But not to the
-                    point where you feel that comfort and trust that we get with Optime Company.</p>
-                </div><!-- /.testimonial-content -->
-                <div class="testimonial__meta">
-                  <img src="assets/images/testimonials/signature3.png" alt="signature">
-                  <p class="testimonial__meta-desc">The Move Inc</p>
-                </div><!-- /.testimonial-meta -->
-              </div><!-- /. testimonial-item -->
+              
             </div><!-- /.carousel -->
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
@@ -343,162 +246,92 @@
     <!-- ======================
       Blog Grid
     ========================= -->
-    <section id="blogGrid" class="blog blog-grid pb-60">
+
+    <section id="serviceslayout2" class="services services-layout2 pb-80">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading text-center mb-50">
-              <span class="heading__subtitle">Insight and Trends</span>
-              <h2 class="heading__title">Recent Articles</h2>
-              <p class="heading__desc">Follow our latest news and thoughts which focuses exclusively on insight,
-                industry trends, top news headlines.</p>
+              <span class="heading__subtitle">PT Ridho Ayah Ibu</span>
+              <h2 class="heading__title">Layanan Terbaik dari RAI</h2>
+              <p class="heading__desc">Terus menjaga kepercayaan, profesionalitas, integritas, keamanan dan terpercaya dengan berbasis digital dan menjadikan hal tersebut menjadi komitmen kami.</p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row">
-          <!-- Blog Item #1 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/1.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">Insights</a><a href="#">Management</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Importers achieve cost savings through the First Sale rule!</a></h4>
-                <span class="blog__meta-date">Jan 20, 2019</span>
-                <p class="blog__desc">The trade war currently ensuing between the US and several nations around the
-                  globe, most fiercely with China, shows no signs of the first set of tariffs levied against solar...
-                </p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #2 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/2.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">Warehousing</a><a href="#">Industry</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Cargo flow through better supply chain visibility, control.</a></h4>
-                <span class="blog__meta-date">Oct 18, 2019</span>
-                <p class="blog__desc">Global provider connected products for consumers, and enterprises worldwide,
-                  supply chain control is everything, provide visibility and traceability needed for...</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
-          <!-- Blog Item #3 -->
-          <div class="col-sm-12 col-md-6 col-lg-4">
-            <div class="blog-item">
-              <div class="blog__img">
-                <a href="#">
-                  <img src="assets/images/blog/grid/3.jpg" alt="blog image">
-                </a>
-              </div><!-- /.entry-img -->
-              <div class="blog__content">
-                <div class="blog__meta">
-                  <div class="blog__meta-cat">
-                    <a href="#">Logistics</a><a href="#">Distribution</a>
-                  </div><!-- /.blog-meta-cat -->
-                </div><!-- /.blog-meta -->
-                <h4 class="blog__title"><a href="#">Importance of specialized focus in Projects, Oil & Gas
-                    Logistics?</a></h4>
-                <span class="blog__meta-date">Jan 20, 2019</span>
-                <p class="blog__desc">Our team provides highly skilled & experienced project managers who know the
-                  intricacies of this vertical and focus on providing innovative solutions in Oil & Gas sector...</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Read More</span><i class="icon-arrow-right"></i>
-                </a>
-              </div><!-- /.entry-content -->
-            </div><!-- /.blog-item -->
-          </div><!-- /.col-lg-4 -->
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <div class="carousel owl-carousel carousel-dots" data-slide="3" data-slide-md="2" data-slide-sm="1"
+              data-autoplay="true" data-nav="false" data-dots="true" data-space="30" data-loop="true" data-speed="800">
+
+              <!-- service item #1 -->
+              <div class="service-item">
+                <div class="service__img">
+                  <img src="assets/images/services/1.jpg" alt="service">
+                </div><!-- /.service-img -->
+                <div class="service__content">
+                  <h4 class="service__title">Ekspedisi Darat</h4>
+                  <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik. </p>
+                  <a href="#" class="btn btn__white">
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
+                  </a>
+                </div>
+              </div><!-- /.service-item -->
+
+              <!-- service item #2 -->
+              <div class="service-item">
+                <div class="service__img">
+                  <img src="assets/images/services/2.jpg" alt="service">
+                </div><!-- /.service-img -->
+                <div class="service__content">
+                  <h4 class="service__title">Ekspedisi Laut</h4>
+                  <p class="service__desc">RAI telah mendukung jasa ekspedisi untuk pengiriman via laut adalah solusi ekonomis dan lebih banyak fleksibilitas tentang barang yang akan dikirimkan.</p>
+                  <a href="#" class="btn btn__white">
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
+                  </a>
+                </div>
+              </div><!-- /.service-item -->
+
+              <!-- service item #3 -->
+              <div class="service-item">
+                <div class="service__img">
+                  <img src="assets/images/services/3.jpg" alt="service">
+                </div><!-- /.service-img -->
+                <div class="service__content">
+                  <h4 class="service__title">Charter Truck</h4>
+                  <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
+                  <a href="#" class="btn btn__white">
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
+                  </a>
+                </div>
+              </div><!-- /.service-item -->
+
+              <!-- service item #4 -->
+              <div class="service-item">
+                <div class="service__img">
+                  <img src="assets/images/services/2.jpg" alt="service">
+                </div><!-- /.service-img -->
+                <div class="service__content">
+                  <h4 class="service__title">Charter Container</h4>
+                  <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
+                  <a href="#" class="btn btn__white">
+                    <span>Pelajari</span><i class="icon-arrow-right"></i>
+                  </a>
+                </div>
+              </div><!-- /.service-item -->
+             
+
+            </div><!-- /.carousel -->
+          </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
-    </section>
+    </section><!-- /.Services layout 2 -->
+
     <!-- /.blog Grid -->
 
     <!-- ========================= 
           contact 1
     =========================  -->
-    <section id="contact1" class="contact contact-1 p-0">
-      <div id="map"></div>
-      <script src="assets/js/google-map.js"></script>
-      <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY" async defer></script>
-      <!-- CLICK HERE (https://developers.google.com/maps/documentation/embed/get-api-key) TO  LERAN MORE ABOUT GOOGLE MAPS API KEY -->
 
-      <div class="container">
-        <div class="contact-panel contact-panel-2">
-          <div class="contact__panel-header d-flex align-items-center">
-            <h4 class="contact__panel-title">Global Locations</h4>
-          </div>
-          <div id="accordion">
-            <div class="accordion-item">
-              <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
-                <a class="accordion__item-title" href="#">London Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse1" class="collapse  show" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                <a class="accordion__item-title" href="#">Berlin Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse2" class="collapse" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
-                <a class="accordion__item-title" href="#">Manchester Office</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse3" class="collapse" data-parent="#accordion">
-                <div class="accordion__item-body">
-                  <ul class="contact__list list-unstyled">
-                    <li>002 010123456789</li>
-                    <li>Email: Logisti@7oroof.com</li>
-                    <li>Address: 2307 Beverley Rd Brooklyn, NY</li>
-                    <li>Hours: Mon-Fri: 8am – 7pm</li>
-                  </ul>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-          </div>
-        </div><!-- /.contact-panel -->
-      </div><!-- /.container -->
-    </section><!-- /.contact 1 -->
 <?php include 'footer.php';?>
 </body>
 
