@@ -79,13 +79,13 @@
                       <div class="col-sm-6 dropdown-menu-col">
                         <h6>RAI Expedition</h6>
                         <ul class="nav flex-column">
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Darat</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.php">Darat</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Laut</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.php">Laut</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Charter Truck</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.php">Charter Truck</a>
                           </li> <!-- /.nav-item -->
-                          <li class="nav__item"><a class="nav__item-link" href="single-service.html">Charter Container</a>
+                          <li class="nav__item"><a class="nav__item-link" href="single-service.php">Charter Container</a>
                           </li> <!-- /.nav-item -->
 
                           <!-- /.nav-item -->
