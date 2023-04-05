@@ -48,11 +48,12 @@
                 <!-- Tabs content -->
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade shadow rounded bg-white show active p-5" id="v-darat" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
-                                <h5 class="text__block-title">Ekspedisi Darat</h5>
+                                <h5 class="text__block-title"><br>Ekspedisi Darat</h5>
                                 <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
                                   booking process for our customers.
                                   That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
@@ -241,92 +242,18 @@
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
-                            </div><!-- /.col-lg-12 -->
-                          </div><!-- /.row -->
-                          <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Case Studies</h5>
-                              <div class="projects-carousel">
-                                <div class="carousel owl-carousel carousel-arrows" data-slide="2" data-slide-md="2" data-slide-sm="1"
-                                  data-autoplay="true" data-nav="true" data-dots="true" data-space="30" data-loop="true"
-                                  data-speed="800">
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Analystics</a><a href="#">Optimization</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Warehousing</a><a href="#">Distribution</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Logistics</a><a href="#">Analytics</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Optimization</a><a href="#">Warehousing</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Regulatory Compliance</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                </div><!-- /.carousel -->
-                              </div><!-- /.projects-carousel -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-laut" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
-                                <h5 class="text__block-title">Ekspedisi Laut</h5>
+                                <h5 class="text__block-title"><br>Ekspedisi Laut</h5>
                                 <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
                                   booking process for our customers.
                                   That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
@@ -515,92 +442,18 @@
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
-                            </div><!-- /.col-lg-12 -->
-                          </div><!-- /.row -->
-                          <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Case Studies</h5>
-                              <div class="projects-carousel">
-                                <div class="carousel owl-carousel carousel-arrows" data-slide="2" data-slide-md="2" data-slide-sm="1"
-                                  data-autoplay="true" data-nav="true" data-dots="true" data-space="30" data-loop="true"
-                                  data-speed="800">
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Analystics</a><a href="#">Optimization</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Warehousing</a><a href="#">Distribution</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Logistics</a><a href="#">Analytics</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Optimization</a><a href="#">Warehousing</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Regulatory Compliance</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                </div><!-- /.carousel -->
-                              </div><!-- /.projects-carousel -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-truck" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
-                                <h5 class="text__block-title">Charter Truck</h5>
+                                <h5 class="text__block-title"><br>Charter Truck</h5>
                                 <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
                                   booking process for our customers.
                                   That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
@@ -789,92 +642,18 @@
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
-                            </div><!-- /.col-lg-12 -->
-                          </div><!-- /.row -->
-                          <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Case Studies</h5>
-                              <div class="projects-carousel">
-                                <div class="carousel owl-carousel carousel-arrows" data-slide="2" data-slide-md="2" data-slide-sm="1"
-                                  data-autoplay="true" data-nav="true" data-dots="true" data-space="30" data-loop="true"
-                                  data-speed="800">
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Analystics</a><a href="#">Optimization</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Warehousing</a><a href="#">Distribution</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Logistics</a><a href="#">Analytics</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Optimization</a><a href="#">Warehousing</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Regulatory Compliance</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                </div><!-- /.carousel -->
-                              </div><!-- /.projects-carousel -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-container" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
                           <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
-                                <h5 class="text__block-title">Charter Container</h5>
+                                <h5 class="text__block-title"><br>Charter Container</h5>
                                 <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
                                   booking process for our customers.
                                   That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
@@ -1063,81 +842,6 @@
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
-                            </div><!-- /.col-lg-12 -->
-                          </div><!-- /.row -->
-                          <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Case Studies</h5>
-                              <div class="projects-carousel">
-                                <div class="carousel owl-carousel carousel-arrows" data-slide="2" data-slide-md="2" data-slide-sm="1"
-                                  data-autoplay="true" data-nav="true" data-dots="true" data-space="30" data-loop="true"
-                                  data-speed="800">
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Analystics</a><a href="#">Optimization</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Lane Pairing Analysis</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Warehousing</a><a href="#">Distribution</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Warehouse Hand Inventory</a></h4>
-                                      <p class="project__desc">We understand that data is the greatest asset when it comes to
-                                        analyzing and optimizing your supply chain performance.</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Logistics</a><a href="#">Analytics</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Minimize Cost Manufacturing</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                  <div class="project-item">
-                                    <div class="project__img">
-                                      <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                                      <div class="project__cat">
-                                        <a href="#">Optimization</a><a href="#">Warehousing</a>
-                                      </div><!-- /.project-cat -->
-                                    </div><!-- /.project-img -->
-                                    <div class="project__content">
-                                      <h4 class="project__title"><a href="#">Regulatory Compliance</a></h4>
-                                      <p class="project__desc">Cost savings is crucial, innovative technology minimizes your overall
-                                        spend by utilizing an extensive .</p>
-                                      <a href="#" class="btn btn__secondary btn__link">
-                                        <span>Read More</span><i class="icon-arrow-right"></i>
-                                      </a>
-                                    </div><!-- /.project-content -->
-                                  </div><!-- /.project-item -->
-                                </div><!-- /.carousel -->
-                              </div><!-- /.projects-carousel -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
