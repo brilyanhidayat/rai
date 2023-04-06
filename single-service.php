@@ -30,15 +30,15 @@
                         <span class="font-weight-bold small text-uppercase">Charter Container</span></a>
                 </div>
               <div class="widget widget-download bg-theme">
-                <h5 class="widget__title color-white">Download Brochures</h5>
+                <h5 class="widget__title color-white">Perlu Bantuan?</h5>
                 <div class="widget__content">
                   <a href="#" class="btn btn__secondary btn__block mb-20">
-                    <img src="assets/images/icons/pdf.png" alt="pdf">
-                    <span>Brochure</span>
+                    
+                    <span>WhatsApp</span>
                   </a>
                   <a href="#" class="btn btn__secondary btn__block">
-                    <img src="assets/images/icons/pdf.png" alt="pdf">
-                    <span>Presentation </span>
+                    
+                    <span>Booking!</span>
                   </a>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-download -->
@@ -54,52 +54,28 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
                                 <h5 class="text__block-title"><br>Ekspedisi Darat</h5>
-                                <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
-                                  booking process for our customers.
-                                  That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
-                                  when the freight is available, what the required delivery date is, and if there’s potential to
-                                  save on
-                                  time or cost. Your answers to these and other questions help us decide if you should book the air
-                                  freight as direct. We'll also see if our sea-air service is a better solution for</p>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and the ability to offer you competitive rates - even during the high season.</p>
-                                <p class="text__block-desc">Where possible, we’ll erect and dismantle Unit Load Devices (ULDs),
-                                  reducing significantly the risk of damage to your shipment and saving you time and expense. We can
-                                  do this because many of our freight stations have their own ground transportation at or around the
-                                  airport. </p>
+                                <p class="text__block-desc">RAI Expedition sebagai Jasa Pengiriman layanan via Darat Paling Murah di Indonesia.</p>
+                                <p class="text__block-desc">Seperti namanya, jasa pengiriman via darat adalah pengiriman melalui armada menggunakan jalur darat. Pengiriman via darat biasanya dipilih untuk tujuan yang masih berada dalam satu daerah atau satu pulau.
+                                </p>
+                                <p class="text__block-desc">RAI menyediakan layanan ekspedisi darat unggulan dengan menggunakan armada darat berbagai pilihan. Dengan memilih ekspedisi melalui jalur darat tentunya biaya lebih murah, sehingga memilih menggunakan ekspedisi jalur darat sangat cocok bagi Anda yang mengirimkan barang yang ditujukan untuk area antar kota dan antar pulau di indonesia.
+                                </p>
+                                <p class="text__block-desc">Layanan Darat merupakan salah satu faktor yang dapat digunakan untuk mengirimkan barang dengan lokasi tujuan tidak terlalu jauh dari lokasi barang sebelumnya. Layanan ini dapat anda dapatkan hanya dengan booking saja, bersama RAI selain melayani layanan darat, kami pun melayani jasa layanan laut.
+
+                                </p>
                               </div><!-- /.text-block -->
                               <div class="row">
                                 <div class="col-sm-12 col-md-7 col-lg-7">
                                   <div class="text__block  mb-40">
-                                    <h5 class="text__block-title">Stats & Charts</h5>
-                                    <p class="text__block-desc">Our mix of company-owned and contractor assets allows us to retain
-                                      optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With
-                                      40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all
-                                      sizes and commodity types.</p>
-                                    <p class="text__block-desc">Our LTL service extends to all states and territories, and includes
-                                      multiple per-week services to places many others only serve occasionally, including Darwin,
-                                      Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
-                                    <p class="text__block-desc">We pride ourselves on providing the best transport and shipping
-                                      services currently available in Australia. Our skilled personnel, utilising the latest
-                                      communications, tracking and processing software, combined with decades of experience, ensure
-                                      all freight is are
-                                      shipped, trans-shipped and delivered as safely, securely, and promptly as possible.</p>
+                                    <h5 class="text__block-title">Kirim ke seluruh Indonesia</h5>
+                                    <p class="text__block-desc">Dengan beragam pilihan layanan yang tersedia dari RAI, kami terus perlahan mulai melakukan pengembangan dan kepercayaan dari setiap pengiriman. Didukung pengemudi yang handal dan profesional kami siap membantu segala kebutuhan serta akan mengantarkan barang kiriman dengan tepat waktu</p>
+                                    
                                   </div><!-- /.text-block -->
                                 </div><!-- /.col-lg-7 -->
                                 <div class="col-sm-12 col-md-5 col-lg-5">
-                                  <img src="assets/images/charts/2.png" alt="chart" class="img-fluid mt-50 mb-30">
+                                  <img src="assets/images/logo/logo-service.png" alt="chart" class="img-fluid mt-50 mb-30">
                                 </div><!-- /.col-lg-5 -->
                               </div><!-- /.row -->
-                              <div class="text__block">
-                                <h5 class="text__block-title">How It Works?!</h5>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and offer you competitive rates.
-                                </p>
-                              </div><!-- /.text-block -->
+
                               <div class="video-banner bg-overlay mb-50">
                                 <div class="bg-img"><img src="assets/images/banners/2.jpg" alt="background"></div>
                                 <div class="video__btn video__btn-white video__btn-left-bottom">
@@ -118,11 +94,8 @@
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block">
-                                <h5 class="text__block-title">Why Us!</h5>
-                                <p class="text__block-desc">We continue to pursue that same vision in today's complex, uncertain
-                                  world, working every day to earn our customers’ trust! During that time, we’ve become expert in
-                                  freight transportation by air and all its related services. We work closely with all major
-                                  airlines around the world.</p>
+                                <h5 class="text__block-title">Kenapa harus dengan RAI?</h5>
+                                <p class="text__block-desc">RAI memastikan bisnis Anda mendapatkan harga kirim yang terbaik di pasaran, dan RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.</p>
                               </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
@@ -134,7 +107,7 @@
                                   <i class="icon-wallet"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Transparent Pricing</h4>
+                                  <h4 class="fancybox__title">Ongkir Paling Murah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -145,7 +118,7 @@
                                   <i class="icon-search"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Real-Time Tracking</h4>
+                                  <h4 class="fancybox__title">SATSET Terus!</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -156,7 +129,7 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Warehouse Storage</h4>
+                                  <h4 class="fancybox__title">Fit-Vechile</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -167,7 +140,7 @@
                                   <i class="icon-package-6"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Security For Cargo</h4>
+                                  <h4 class="fancybox__title">Fast-Response</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -178,7 +151,7 @@
                                   <i class="icon-payment-method"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Easy Payment Methods</h4>
+                                  <h4 class="fancybox__title">Pembayaran Mudah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -189,60 +162,91 @@
                                   <i class="icon-call-center"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">24/7 Hours Support</h4>
+                                  <h4 class="fancybox__title">Call Center 24 Jam</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
                           </div><!-- /.row -->
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Key Benifits</h5>
+                              <h5>Keuntungan</h5>
                               <div id="accordion" class="mb-70">
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse1">
-                                    <a class="accordion__item-title" href="#">Which Plan Is Right For Me?</a>
+                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Konsultasi</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse1" class="collapse" data-parent="#accordion">
+                                  <div id="collapse1" class="collapse show" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI terus melakukan proses sistem yang berkesinambungan untuk operasional dan produktivitas, tak heran jika SDM profesional RAI memberikan solusi pengiriman Anda dengan gratis serta termurah.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
                                   <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                                    <a class="accordion__item-title" href="#">Do I have to commit to a contract?</a>
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Booking & Penjadwalan</a>
                                   </div><!-- /.accordion-item-header -->
                                   <div id="collapse2" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready
-                                        & created for all types of devices. York makes sure your website looks equally breathtaking
-                                        when viewed on all screen resolutions.</p>
+                                      <p>RAI menyediakan layanan booking dan penjadwalan Anda secara cuma-cuma, anda akan mengatur pengiriman selama 30 hari kedepan, RAI siap menerima penjadwalan kapanpun dan pengiriman kemanapun.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse3">
-                                    <a class="accordion__item-title" href="#">What Payment Methods Are Available?</a>
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
+                                    <a class="accordion__item-title" href="#">Proses Pengiriman Mudah</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse3" class="collapse show" data-parent="#accordion">
+                                  <div id="collapse3" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website looks equally breathtaking when viewed on all screen resolutions.Fully responsive,
-                                        retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI merupakan perusahaan yang sangat fleksibel namun tetap konsisten terhadap pelayanan terbaik dan kepercayaan pelanggan, dengan didukung tahapan mudah agar pengiriman jelas lebih efisien.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                  <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse4">
+                                    <a class="accordion__item-title" href="#">Gratis Jemput Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse4" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI pun mendukung area penjemputan barang secara gratis, tidak perlu repot-repot untuk mengirimkan pada depot atau warehouse RAI, area mana saja yang dijemput secara gratis? Konsultasikan sekarang!</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse5">
+                                    <a class="accordion__item-title" href="#">Gratis Cek & Survei Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse5" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>Sebelum melakukan pengiriman distribusi barang industri, RAI akan melakukan beberapa tahap agar sesuai dengan ketentuan yang berlaku di Indonesia, tapi Anda tidak perlu khawatir karena ini tidak ada biaya sama sekali.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse6">
+                                    <a class="accordion__item-title" href="#">Pembayaran Mudah</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse6" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI mengedepankan proses pembayaran kepada pelanggan, itulah yang RAI sangat apresiasi, dengan beragam pilihan metode pembayaran RAI akan melakukan kesepakatan bersama pelanggan, agar dapat bekerjasama dengan baik tentu lebih berguna.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
+
+                            <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                              <div class="text__block">
+                                <h5 class="text__block-title">Solusi Pengiriman Anda</h5>
+                                <p class="text__block-desc">RAI hadir memberikan solusi pengiriman logistik untuk para pelaku bisnis dengan harga yang kompetitif. Meskipun memiliki harga yang murah, RAI tetap melakukan pelayanan yang terbaik. Distribusi Barang Industri Terbaik & Terpercaya. Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang!</p>
+                              </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
+                          </div><!-- /.row -->
+                            </div><!-- /.col-lg-12 -->
+
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
@@ -254,52 +258,25 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
                                 <h5 class="text__block-title"><br>Ekspedisi Laut</h5>
-                                <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
-                                  booking process for our customers.
-                                  That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
-                                  when the freight is available, what the required delivery date is, and if there’s potential to
-                                  save on
-                                  time or cost. Your answers to these and other questions help us decide if you should book the air
-                                  freight as direct. We'll also see if our sea-air service is a better solution for</p>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and the ability to offer you competitive rates - even during the high season.</p>
-                                <p class="text__block-desc">Where possible, we’ll erect and dismantle Unit Load Devices (ULDs),
-                                  reducing significantly the risk of damage to your shipment and saving you time and expense. We can
-                                  do this because many of our freight stations have their own ground transportation at or around the
-                                  airport. </p>
+                                <p class="text__block-desc">RAI Expedition sebagai Pilihan Terbaik Jasa Ekspedisi Laut.</p>
+                                <p class="text__block-desc">Jasa pengiriman via laut ini merupakan pengiriman melalui armada menggunakan jalur laut. Pengiriman via laut biasanya dipilih karena tujuan yang harus melalui laut atau pengiriman antar pulau.</p>
+                                <p class="text__block-desc">RAI telah menyediakan layanan pengiriman barang besar via jalur laut berbasis ekspedisi murah dan terpercaya, telah bermitra dengan berbagai kapal di Indonesia (Pelni, Roro, Ferry dan sebagainya).</p>
+                                <p>RAI pun mempunyai jadwal teratur dan rutin yang mendukung jasa ekspedisi untuk pengiriman di Indonesia. Tak hanya itu RAI telah memberikan fokus terbaik, karena Anda tidak perlu repot untuk mengirimkannya sendiri, dan semua urusan sudah ditanggung dan dilaksanakan oleh RAI.</p>
+
                               </div><!-- /.text-block -->
                               <div class="row">
                                 <div class="col-sm-12 col-md-7 col-lg-7">
                                   <div class="text__block  mb-40">
-                                    <h5 class="text__block-title">Stats & Charts</h5>
-                                    <p class="text__block-desc">Our mix of company-owned and contractor assets allows us to retain
-                                      optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With
-                                      40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all
-                                      sizes and commodity types.</p>
-                                    <p class="text__block-desc">Our LTL service extends to all states and territories, and includes
-                                      multiple per-week services to places many others only serve occasionally, including Darwin,
-                                      Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
-                                    <p class="text__block-desc">We pride ourselves on providing the best transport and shipping
-                                      services currently available in Australia. Our skilled personnel, utilising the latest
-                                      communications, tracking and processing software, combined with decades of experience, ensure
-                                      all freight is are
-                                      shipped, trans-shipped and delivered as safely, securely, and promptly as possible.</p>
+                                    <h5 class="text__block-title">Kirim ke seluruh Indonesia</h5>
+                                    <p class="text__block-desc">Dengan beragam pilihan layanan yang tersedia dari RAI, kami terus perlahan mulai melakukan pengembangan dan kepercayaan dari setiap pengiriman. Didukung pengemudi yang handal dan profesional kami siap membantu segala kebutuhan serta akan mengantarkan barang kiriman dengan tepat waktu</p>
+                                    
                                   </div><!-- /.text-block -->
                                 </div><!-- /.col-lg-7 -->
                                 <div class="col-sm-12 col-md-5 col-lg-5">
-                                  <img src="assets/images/charts/2.png" alt="chart" class="img-fluid mt-50 mb-30">
+                                  <img src="assets/images/logo/logo-service.png" alt="chart" class="img-fluid mt-50 mb-30">
                                 </div><!-- /.col-lg-5 -->
                               </div><!-- /.row -->
-                              <div class="text__block">
-                                <h5 class="text__block-title">How It Works?!</h5>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and offer you competitive rates.
-                                </p>
-                              </div><!-- /.text-block -->
+
                               <div class="video-banner bg-overlay mb-50">
                                 <div class="bg-img"><img src="assets/images/banners/2.jpg" alt="background"></div>
                                 <div class="video__btn video__btn-white video__btn-left-bottom">
@@ -318,11 +295,8 @@
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block">
-                                <h5 class="text__block-title">Why Us!</h5>
-                                <p class="text__block-desc">We continue to pursue that same vision in today's complex, uncertain
-                                  world, working every day to earn our customers’ trust! During that time, we’ve become expert in
-                                  freight transportation by air and all its related services. We work closely with all major
-                                  airlines around the world.</p>
+                                <h5 class="text__block-title">Kenapa harus dengan RAI?</h5>
+                                <p class="text__block-desc">RAI memastikan bisnis Anda mendapatkan harga kirim yang terbaik di pasaran, dan RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.</p>
                               </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
@@ -334,7 +308,7 @@
                                   <i class="icon-wallet"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Transparent Pricing</h4>
+                                  <h4 class="fancybox__title">Ongkir Paling Murah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -345,7 +319,7 @@
                                   <i class="icon-search"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Real-Time Tracking</h4>
+                                  <h4 class="fancybox__title">SATSET Terus!</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -356,7 +330,7 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Warehouse Storage</h4>
+                                  <h4 class="fancybox__title">Fit-Vechile</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -367,7 +341,7 @@
                                   <i class="icon-package-6"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Security For Cargo</h4>
+                                  <h4 class="fancybox__title">Fast-Response</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -378,7 +352,7 @@
                                   <i class="icon-payment-method"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Easy Payment Methods</h4>
+                                  <h4 class="fancybox__title">Pembayaran Mudah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -389,60 +363,91 @@
                                   <i class="icon-call-center"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">24/7 Hours Support</h4>
+                                  <h4 class="fancybox__title">Call Center 24 Jam</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
                           </div><!-- /.row -->
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Key Benifits</h5>
+                              <h5>Keuntungan</h5>
                               <div id="accordion" class="mb-70">
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse1">
-                                    <a class="accordion__item-title" href="#">Which Plan Is Right For Me?</a>
+                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Konsultasi</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse1" class="collapse" data-parent="#accordion">
+                                  <div id="collapse1" class="collapse show" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI terus melakukan proses sistem yang berkesinambungan untuk operasional dan produktivitas, tak heran jika SDM profesional RAI memberikan solusi pengiriman Anda dengan gratis serta termurah.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
                                   <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                                    <a class="accordion__item-title" href="#">Do I have to commit to a contract?</a>
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Booking & Penjadwalan</a>
                                   </div><!-- /.accordion-item-header -->
                                   <div id="collapse2" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready
-                                        & created for all types of devices. York makes sure your website looks equally breathtaking
-                                        when viewed on all screen resolutions.</p>
+                                      <p>RAI menyediakan layanan booking dan penjadwalan Anda secara cuma-cuma, anda akan mengatur pengiriman selama 30 hari kedepan, RAI siap menerima penjadwalan kapanpun dan pengiriman kemanapun.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse3">
-                                    <a class="accordion__item-title" href="#">What Payment Methods Are Available?</a>
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
+                                    <a class="accordion__item-title" href="#">Proses Pengiriman Mudah</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse3" class="collapse show" data-parent="#accordion">
+                                  <div id="collapse3" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website looks equally breathtaking when viewed on all screen resolutions.Fully responsive,
-                                        retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI merupakan perusahaan yang sangat fleksibel namun tetap konsisten terhadap pelayanan terbaik dan kepercayaan pelanggan, dengan didukung tahapan mudah agar pengiriman jelas lebih efisien.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                  <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse4">
+                                    <a class="accordion__item-title" href="#">Gratis Jemput Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse4" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI pun mendukung area penjemputan barang secara gratis, tidak perlu repot-repot untuk mengirimkan pada depot atau warehouse RAI, area mana saja yang dijemput secara gratis? Konsultasikan sekarang!</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse5">
+                                    <a class="accordion__item-title" href="#">Gratis Cek & Survei Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse5" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>Sebelum melakukan pengiriman distribusi barang industri, RAI akan melakukan beberapa tahap agar sesuai dengan ketentuan yang berlaku di Indonesia, tapi Anda tidak perlu khawatir karena ini tidak ada biaya sama sekali.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse6">
+                                    <a class="accordion__item-title" href="#">Pembayaran Mudah</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse6" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI mengedepankan proses pembayaran kepada pelanggan, itulah yang RAI sangat apresiasi, dengan beragam pilihan metode pembayaran RAI akan melakukan kesepakatan bersama pelanggan, agar dapat bekerjasama dengan baik tentu lebih berguna.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
+
+                            <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                              <div class="text__block">
+                                <h5 class="text__block-title">Solusi Pengiriman Anda</h5>
+                                <p class="text__block-desc">RAI hadir memberikan solusi pengiriman logistik untuk para pelaku bisnis dengan harga yang kompetitif. Meskipun memiliki harga yang murah, RAI tetap melakukan pelayanan yang terbaik. Distribusi Barang Industri Terbaik & Terpercaya. Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang!</p>
+                              </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
+                          </div><!-- /.row -->
+                            </div><!-- /.col-lg-12 -->
+
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
@@ -454,52 +459,25 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
                                 <h5 class="text__block-title"><br>Charter Truck</h5>
-                                <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
-                                  booking process for our customers.
-                                  That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
-                                  when the freight is available, what the required delivery date is, and if there’s potential to
-                                  save on
-                                  time or cost. Your answers to these and other questions help us decide if you should book the air
-                                  freight as direct. We'll also see if our sea-air service is a better solution for</p>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and the ability to offer you competitive rates - even during the high season.</p>
-                                <p class="text__block-desc">Where possible, we’ll erect and dismantle Unit Load Devices (ULDs),
-                                  reducing significantly the risk of damage to your shipment and saving you time and expense. We can
-                                  do this because many of our freight stations have their own ground transportation at or around the
-                                  airport. </p>
+                                <p class="text__block-desc">RAI Expedition merupakan pilihan jasa pengiriman tanpa ribet!</p>
+                                <p class="text__block-desc">RAI sangat bertindak dalam kebutuhan semua pelanggan agar barang yang dikirimkan tepat waktu. Karena itulah layanan ini adalah solusi tepat untuk para pebisnis mengirimkan barang tanpa ada barang milik orang lain.</p>
+                                <p class="text__block-desc">Layanan ini biasanya diberikan untuk jasa pengiriman barang berat / volume barang yang cukup besar, atau dapat memenuhi isi truk. Anda dapat memilih jenis truk yang dianggap tepat, sesuai kebutuhan, berat atau volume barang yang akan dikirim. </p>
+                                <p>Dengan RAI charter truck ini tersedia berbagai pilihan armada yang berbasis Fit-Vehicle dari mulai berjenis van, pick-up, small box, engkel, double engkel hingga tronton.</p>
+
                               </div><!-- /.text-block -->
                               <div class="row">
                                 <div class="col-sm-12 col-md-7 col-lg-7">
                                   <div class="text__block  mb-40">
-                                    <h5 class="text__block-title">Stats & Charts</h5>
-                                    <p class="text__block-desc">Our mix of company-owned and contractor assets allows us to retain
-                                      optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With
-                                      40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all
-                                      sizes and commodity types.</p>
-                                    <p class="text__block-desc">Our LTL service extends to all states and territories, and includes
-                                      multiple per-week services to places many others only serve occasionally, including Darwin,
-                                      Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
-                                    <p class="text__block-desc">We pride ourselves on providing the best transport and shipping
-                                      services currently available in Australia. Our skilled personnel, utilising the latest
-                                      communications, tracking and processing software, combined with decades of experience, ensure
-                                      all freight is are
-                                      shipped, trans-shipped and delivered as safely, securely, and promptly as possible.</p>
+                                    <h5 class="text__block-title">Kirim ke seluruh Indonesia</h5>
+                                    <p class="text__block-desc">Dengan beragam pilihan layanan yang tersedia dari RAI, kami terus perlahan mulai melakukan pengembangan dan kepercayaan dari setiap pengiriman. Didukung pengemudi yang handal dan profesional kami siap membantu segala kebutuhan serta akan mengantarkan barang kiriman dengan tepat waktu</p>
+                                    
                                   </div><!-- /.text-block -->
                                 </div><!-- /.col-lg-7 -->
                                 <div class="col-sm-12 col-md-5 col-lg-5">
-                                  <img src="assets/images/charts/2.png" alt="chart" class="img-fluid mt-50 mb-30">
+                                  <img src="assets/images/logo/logo-service.png" alt="chart" class="img-fluid mt-50 mb-30">
                                 </div><!-- /.col-lg-5 -->
                               </div><!-- /.row -->
-                              <div class="text__block">
-                                <h5 class="text__block-title">How It Works?!</h5>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and offer you competitive rates.
-                                </p>
-                              </div><!-- /.text-block -->
+
                               <div class="video-banner bg-overlay mb-50">
                                 <div class="bg-img"><img src="assets/images/banners/2.jpg" alt="background"></div>
                                 <div class="video__btn video__btn-white video__btn-left-bottom">
@@ -518,11 +496,8 @@
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block">
-                                <h5 class="text__block-title">Why Us!</h5>
-                                <p class="text__block-desc">We continue to pursue that same vision in today's complex, uncertain
-                                  world, working every day to earn our customers’ trust! During that time, we’ve become expert in
-                                  freight transportation by air and all its related services. We work closely with all major
-                                  airlines around the world.</p>
+                                <h5 class="text__block-title">Kenapa harus dengan RAI?</h5>
+                                <p class="text__block-desc">RAI memastikan bisnis Anda mendapatkan harga kirim yang terbaik di pasaran, dan RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.</p>
                               </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
@@ -534,7 +509,7 @@
                                   <i class="icon-wallet"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Transparent Pricing</h4>
+                                  <h4 class="fancybox__title">Ongkir Paling Murah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -545,7 +520,7 @@
                                   <i class="icon-search"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Real-Time Tracking</h4>
+                                  <h4 class="fancybox__title">SATSET Terus!</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -556,7 +531,7 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Warehouse Storage</h4>
+                                  <h4 class="fancybox__title">Fit-Vechile</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -567,7 +542,7 @@
                                   <i class="icon-package-6"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Security For Cargo</h4>
+                                  <h4 class="fancybox__title">Fast-Response</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -578,7 +553,7 @@
                                   <i class="icon-payment-method"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Easy Payment Methods</h4>
+                                  <h4 class="fancybox__title">Pembayaran Mudah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -589,60 +564,91 @@
                                   <i class="icon-call-center"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">24/7 Hours Support</h4>
+                                  <h4 class="fancybox__title">Call Center 24 Jam</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
                           </div><!-- /.row -->
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Key Benifits</h5>
+                              <h5>Keuntungan</h5>
                               <div id="accordion" class="mb-70">
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse1">
-                                    <a class="accordion__item-title" href="#">Which Plan Is Right For Me?</a>
+                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Konsultasi</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse1" class="collapse" data-parent="#accordion">
+                                  <div id="collapse1" class="collapse show" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI terus melakukan proses sistem yang berkesinambungan untuk operasional dan produktivitas, tak heran jika SDM profesional RAI memberikan solusi pengiriman Anda dengan gratis serta termurah.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
                                   <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                                    <a class="accordion__item-title" href="#">Do I have to commit to a contract?</a>
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Booking & Penjadwalan</a>
                                   </div><!-- /.accordion-item-header -->
                                   <div id="collapse2" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready
-                                        & created for all types of devices. York makes sure your website looks equally breathtaking
-                                        when viewed on all screen resolutions.</p>
+                                      <p>RAI menyediakan layanan booking dan penjadwalan Anda secara cuma-cuma, anda akan mengatur pengiriman selama 30 hari kedepan, RAI siap menerima penjadwalan kapanpun dan pengiriman kemanapun.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse3">
-                                    <a class="accordion__item-title" href="#">What Payment Methods Are Available?</a>
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
+                                    <a class="accordion__item-title" href="#">Proses Pengiriman Mudah</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse3" class="collapse show" data-parent="#accordion">
+                                  <div id="collapse3" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website looks equally breathtaking when viewed on all screen resolutions.Fully responsive,
-                                        retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI merupakan perusahaan yang sangat fleksibel namun tetap konsisten terhadap pelayanan terbaik dan kepercayaan pelanggan, dengan didukung tahapan mudah agar pengiriman jelas lebih efisien.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                  <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse4">
+                                    <a class="accordion__item-title" href="#">Gratis Jemput Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse4" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI pun mendukung area penjemputan barang secara gratis, tidak perlu repot-repot untuk mengirimkan pada depot atau warehouse RAI, area mana saja yang dijemput secara gratis? Konsultasikan sekarang!</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse5">
+                                    <a class="accordion__item-title" href="#">Gratis Cek & Survei Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse5" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>Sebelum melakukan pengiriman distribusi barang industri, RAI akan melakukan beberapa tahap agar sesuai dengan ketentuan yang berlaku di Indonesia, tapi Anda tidak perlu khawatir karena ini tidak ada biaya sama sekali.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse6">
+                                    <a class="accordion__item-title" href="#">Pembayaran Mudah</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse6" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI mengedepankan proses pembayaran kepada pelanggan, itulah yang RAI sangat apresiasi, dengan beragam pilihan metode pembayaran RAI akan melakukan kesepakatan bersama pelanggan, agar dapat bekerjasama dengan baik tentu lebih berguna.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
+
+                            <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                              <div class="text__block">
+                                <h5 class="text__block-title">Solusi Pengiriman Anda</h5>
+                                <p class="text__block-desc">RAI hadir memberikan solusi pengiriman logistik untuk para pelaku bisnis dengan harga yang kompetitif. Meskipun memiliki harga yang murah, RAI tetap melakukan pelayanan yang terbaik. Distribusi Barang Industri Terbaik & Terpercaya. Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang!</p>
+                              </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
+                          </div><!-- /.row -->
+                            </div><!-- /.col-lg-12 -->
+
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
@@ -654,52 +660,24 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block mb-40">
                                 <h5 class="text__block-title"><br>Charter Container</h5>
-                                <p class="text__block-desc">Our airfreight staff attaches great importance to customizing the
-                                  booking process for our customers.
-                                  That’s why we strive to find the air freight solution that best suits your needs. We’ll ask you
-                                  when the freight is available, what the required delivery date is, and if there’s potential to
-                                  save on
-                                  time or cost. Your answers to these and other questions help us decide if you should book the air
-                                  freight as direct. We'll also see if our sea-air service is a better solution for</p>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and the ability to offer you competitive rates - even during the high season.</p>
-                                <p class="text__block-desc">Where possible, we’ll erect and dismantle Unit Load Devices (ULDs),
-                                  reducing significantly the risk of damage to your shipment and saving you time and expense. We can
-                                  do this because many of our freight stations have their own ground transportation at or around the
-                                  airport. </p>
+                                <p class="text__block-desc">RAI Expedition merupakan pilihan jasa pengiriman Ongkir Murah, Kompetitif dan Paling Aman.</p>
+                                <p class="text__block-desc">RAI sangat bertindak dalam kebutuhan semua pelanggan agar barang yang dikirimkan tepat waktu. Karena itulah layanan ini adalah solusi tepat untuk para pebisnis mengirimkan barang tanpa ada barang milik orang lain.</p>
+                                <p class="text__block-desc">Layanan charter container biasanya dikenal juga dengan FCL (Full Charter Loader) artinya barang pengiriman bermuatan 1 kontainer penuh, layanan ini juga sangat cocok untuk para pebisnis dengan keadaan pengiriman yang bersifat berat dan memiliki kubikasi yang besar serta memenuhi isi kontainer.</p>
+                                <p>Anda dapat memilih ukuran kontainer yang dianggap tepat, sesuai kebutuhan, berat atau volume barang yang akan dikirim. Dengan RAI charter container ini tersedia berbagai ukuran dan varian yaitu berukuran 20 feet, 40 feet atau 45 feet dengan varian kontainer Standard Container, High Cube Container, Open Top Container hingga Flats Container. </p>
                               </div><!-- /.text-block -->
                               <div class="row">
                                 <div class="col-sm-12 col-md-7 col-lg-7">
                                   <div class="text__block  mb-40">
-                                    <h5 class="text__block-title">Stats & Charts</h5>
-                                    <p class="text__block-desc">Our mix of company-owned and contractor assets allows us to retain
-                                      optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With
-                                      40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all
-                                      sizes and commodity types.</p>
-                                    <p class="text__block-desc">Our LTL service extends to all states and territories, and includes
-                                      multiple per-week services to places many others only serve occasionally, including Darwin,
-                                      Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
-                                    <p class="text__block-desc">We pride ourselves on providing the best transport and shipping
-                                      services currently available in Australia. Our skilled personnel, utilising the latest
-                                      communications, tracking and processing software, combined with decades of experience, ensure
-                                      all freight is are
-                                      shipped, trans-shipped and delivered as safely, securely, and promptly as possible.</p>
+                                    <h5 class="text__block-title">Kirim ke seluruh Indonesia</h5>
+                                    <p class="text__block-desc">Dengan beragam pilihan layanan yang tersedia dari RAI, kami terus perlahan mulai melakukan pengembangan dan kepercayaan dari setiap pengiriman. Didukung pengemudi yang handal dan profesional kami siap membantu segala kebutuhan serta akan mengantarkan barang kiriman dengan tepat waktu</p>
+                                    
                                   </div><!-- /.text-block -->
                                 </div><!-- /.col-lg-7 -->
                                 <div class="col-sm-12 col-md-5 col-lg-5">
-                                  <img src="assets/images/charts/2.png" alt="chart" class="img-fluid mt-50 mb-30">
+                                  <img src="assets/images/logo/logo-service.png" alt="chart" class="img-fluid mt-50 mb-30">
                                 </div><!-- /.col-lg-5 -->
                               </div><!-- /.row -->
-                              <div class="text__block">
-                                <h5 class="text__block-title">How It Works?!</h5>
-                                <p class="text__block-desc">We have more than twenty years of experience. During that time, we’ve
-                                  become expert in freight transportation by air and all its related services. We work closely with
-                                  all major airlines around the world. Ongoing negotiations ensure that we always have the cargo
-                                  space we need and offer you competitive rates.
-                                </p>
-                              </div><!-- /.text-block -->
+
                               <div class="video-banner bg-overlay mb-50">
                                 <div class="bg-img"><img src="assets/images/banners/2.jpg" alt="background"></div>
                                 <div class="video__btn video__btn-white video__btn-left-bottom">
@@ -718,11 +696,8 @@
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
                               <div class="text__block">
-                                <h5 class="text__block-title">Why Us!</h5>
-                                <p class="text__block-desc">We continue to pursue that same vision in today's complex, uncertain
-                                  world, working every day to earn our customers’ trust! During that time, we’ve become expert in
-                                  freight transportation by air and all its related services. We work closely with all major
-                                  airlines around the world.</p>
+                                <h5 class="text__block-title">Kenapa harus dengan RAI?</h5>
+                                <p class="text__block-desc">RAI memastikan bisnis Anda mendapatkan harga kirim yang terbaik di pasaran, dan RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.</p>
                               </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
                           </div><!-- /.row -->
@@ -734,7 +709,7 @@
                                   <i class="icon-wallet"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Transparent Pricing</h4>
+                                  <h4 class="fancybox__title">Ongkir Paling Murah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -745,7 +720,7 @@
                                   <i class="icon-search"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Real-Time Tracking</h4>
+                                  <h4 class="fancybox__title">SATSET Terus!</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -756,7 +731,7 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Warehouse Storage</h4>
+                                  <h4 class="fancybox__title">Fit-Vechile</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -767,7 +742,7 @@
                                   <i class="icon-package-6"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Security For Cargo</h4>
+                                  <h4 class="fancybox__title">Fast-Response</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -778,7 +753,7 @@
                                   <i class="icon-payment-method"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Easy Payment Methods</h4>
+                                  <h4 class="fancybox__title">Pembayaran Mudah</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -789,63 +764,95 @@
                                   <i class="icon-call-center"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">24/7 Hours Support</h4>
+                                  <h4 class="fancybox__title">Call Center 24 Jam</h4>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
                           </div><!-- /.row -->
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h5>Key Benifits</h5>
+                              <h5>Keuntungan</h5>
                               <div id="accordion" class="mb-70">
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse1">
-                                    <a class="accordion__item-title" href="#">Which Plan Is Right For Me?</a>
+                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse1">
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Konsultasi</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse1" class="collapse" data-parent="#accordion">
+                                  <div id="collapse1" class="collapse show" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI terus melakukan proses sistem yang berkesinambungan untuk operasional dan produktivitas, tak heran jika SDM profesional RAI memberikan solusi pengiriman Anda dengan gratis serta termurah.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
                                   <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse2">
-                                    <a class="accordion__item-title" href="#">Do I have to commit to a contract?</a>
+                                    <a class="accordion__item-title" href="#">Gratis Layanan Booking & Penjadwalan</a>
                                   </div><!-- /.accordion-item-header -->
                                   <div id="collapse2" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website
-                                        looks equally breathtaking when viewed on all screen resolutions.Fully responsive, retina
-                                        ready
-                                        & created for all types of devices. York makes sure your website looks equally breathtaking
-                                        when viewed on all screen resolutions.</p>
+                                      <p>RAI menyediakan layanan booking dan penjadwalan Anda secara cuma-cuma, anda akan mengatur pengiriman selama 30 hari kedepan, RAI siap menerima penjadwalan kapanpun dan pengiriman kemanapun.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                                 <div class="accordion-item">
-                                  <div class="accordion__item-header opened" data-toggle="collapse" data-target="#collapse3">
-                                    <a class="accordion__item-title" href="#">What Payment Methods Are Available?</a>
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse3">
+                                    <a class="accordion__item-title" href="#">Proses Pengiriman Mudah</a>
                                   </div><!-- /.accordion-item-header -->
-                                  <div id="collapse3" class="collapse show" data-parent="#accordion">
+                                  <div id="collapse3" class="collapse" data-parent="#accordion">
                                     <div class="accordion__item-body">
-                                      <p>Fully responsive, retina ready & created for all types of devices. York makes sure your
-                                        website looks equally breathtaking when viewed on all screen resolutions.Fully responsive,
-                                        retina
-                                        ready & created for all types of devices. York makes sure your website looks equally
-                                        breathtaking when viewed on all screen resolutions.</p>
+                                      <p>RAI merupakan perusahaan yang sangat fleksibel namun tetap konsisten terhadap pelayanan terbaik dan kepercayaan pelanggan, dengan didukung tahapan mudah agar pengiriman jelas lebih efisien.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                  <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse4">
+                                    <a class="accordion__item-title" href="#">Gratis Jemput Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse4" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI pun mendukung area penjemputan barang secara gratis, tidak perlu repot-repot untuk mengirimkan pada depot atau warehouse RAI, area mana saja yang dijemput secara gratis? Konsultasikan sekarang!</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse5">
+                                    <a class="accordion__item-title" href="#">Gratis Cek & Survei Barang</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse5" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>Sebelum melakukan pengiriman distribusi barang industri, RAI akan melakukan beberapa tahap agar sesuai dengan ketentuan yang berlaku di Indonesia, tapi Anda tidak perlu khawatir karena ini tidak ada biaya sama sekali.</p>
+                                    </div><!-- /.accordion-item-body -->
+                                  </div>
+                                </div><!-- /.accordion-item -->
+
+                                <div class="accordion-item">
+                                  <div class="accordion__item-header" data-toggle="collapse" data-target="#collapse6">
+                                    <a class="accordion__item-title" href="#">Pembayaran Mudah</a>
+                                  </div><!-- /.accordion-item-header -->
+                                  <div id="collapse6" class="collapse" data-parent="#accordion">
+                                    <div class="accordion__item-body">
+                                      <p>RAI mengedepankan proses pembayaran kepada pelanggan, itulah yang RAI sangat apresiasi, dengan beragam pilihan metode pembayaran RAI akan melakukan kesepakatan bersama pelanggan, agar dapat bekerjasama dengan baik tentu lebih berguna.</p>
                                     </div><!-- /.accordion-item-body -->
                                   </div>
                                 </div><!-- /.accordion-item -->
                               </div>
+
+                            <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                              <div class="text__block">
+                                <h5 class="text__block-title">Solusi Pengiriman Anda</h5>
+                                <p class="text__block-desc">RAI hadir memberikan solusi pengiriman logistik untuk para pelaku bisnis dengan harga yang kompetitif. Meskipun memiliki harga yang murah, RAI tetap melakukan pelayanan yang terbaik. Distribusi Barang Industri Terbaik & Terpercaya. Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang!</p>
+                              </div><!-- /.text-block -->
                             </div><!-- /.col-lg-12 -->
+                          </div><!-- /.row -->
+                            </div><!-- /.col-lg-12 -->
+
                           </div><!-- /.row -->
                         </div><!-- /.col-lg-8 -->
                     </div>
+
                 </div>
             </div>
         </div>

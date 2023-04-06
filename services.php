@@ -176,7 +176,7 @@
               <!-- Testimonial #1 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
 
                 <div class="testimonial__content">
@@ -189,7 +189,7 @@
 
             <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi4.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
 
                 <div class="testimonial__content">
@@ -203,7 +203,7 @@
 
             <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi5.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
 
                 <div class="testimonial__content">
@@ -217,7 +217,7 @@
 
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi2.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
 
                 <div class="testimonial__content">
@@ -230,7 +230,7 @@
 
             <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi3.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
 
                 <div class="testimonial__content">
@@ -256,23 +256,21 @@
             <div class="carousel owl-carousel" data-slide="6" data-slide-md="4" data-slide-sm="2" data-autoplay="true"
               data-nav="false" data-dots="false" data-space="20" data-loop="true" data-speed="700">
               <div class="client">
-                <a href="#"><img src="assets/images/clients/9.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/1.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/10.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/2.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/11.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/3.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/12.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/4.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/13.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/5.jpg" alt="client"></a>
               </div><!-- /.client -->
-              <div class="client">
-                <a href="#"><img src="assets/images/clients/11.png" alt="client"></a>
-              </div><!-- /.client -->
+
             </div><!-- /.carousel -->
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->

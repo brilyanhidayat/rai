@@ -8,7 +8,16 @@
         data-loop="true" data-speed="3000" data-transition="fade" data-animate-out="fadeOut" data-animate-in="fadeIn">
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner1.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/banner-1-min.jpg" alt="slide img"></div>
+          <div class="container">
+            <div class="row">
+
+            </div><!-- /.row -->
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -23,7 +32,7 @@
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/6.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -325,9 +334,7 @@
               <div class="project__content">
                 <h4 class="project__title"><a href="#">Pelayanan Maksimal</a></h4>
                 <p class="project__desc">RAI memiliki staff marketing yang ramah dan akan membantu pengiriman kamu hingga sampai tujuan.</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Pelajari</span><i class="icon-arrow-right"></i>
-                </a>
+
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
@@ -343,9 +350,7 @@
               <div class="project__content">
                 <h4 class="project__title"><a href="#">Fit-Vechiles</a></h4>
                 <p class="project__desc">RAI terus melakukan perbaikan yang berkesinambungan terhadap armada agar selalu prima.</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Pelajari</span><i class="icon-arrow-right"></i>
-                </a>
+
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
@@ -361,9 +366,7 @@
               <div class="project__content">
                 <h4 class="project__title"><a href="#">RAI siap untuk Bekerjasama</a></h4>
                 <p class="project__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
-                <a href="#" class="btn btn__secondary btn__link">
-                  <span>Pelajari</span><i class="icon-arrow-right"></i>
-                </a>
+
               </div><!-- /.project-content -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
@@ -390,23 +393,21 @@
             <div class="carousel owl-carousel" data-slide="6" data-slide-md="4" data-slide-sm="2" data-autoplay="true"
               data-nav="false" data-dots="false" data-space="20" data-loop="true" data-speed="700">
               <div class="client">
-                <a href="#"><img src="assets/images/clients/9.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/1.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/10.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/2.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/11.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/3.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/12.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/4.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
-                <a href="#"><img src="assets/images/clients/13.png" alt="client"></a>
+                <a href="#"><img src="assets/images/clients/5.jpg" alt="client"></a>
               </div><!-- /.client -->
-              <div class="client">
-                <a href="#"><img src="assets/images/clients/11.png" alt="client"></a>
-              </div><!-- /.client -->
+
             </div><!-- /.carousel -->
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
@@ -436,7 +437,7 @@
               <!-- Testimonial #1 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/2.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi1.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
                   <p class="testimonial__desc">Barang aman sampai tujuan, sangat saya apresiasi untuk respon yang sangat cepat, sukses terus untuk RAI.</p>
@@ -450,7 +451,7 @@
               <!-- Testimonial #2 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi2.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
                   <p class="testimonial__desc">Beruntung bekerjasama dengan RAI, selain cepat harganya berani bersaing dan stafnya melayani baik dan ramah.</p>
@@ -464,7 +465,7 @@
               <!-- Testimonial #3 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/3.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi3.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
                   <p class="testimonial__desc">Di RAI tuh murah, gratis cek barang dan survei juga, udah gitu kalau kita masih bingung tinggal tanya sama admin, semua pokoknya beres sama RAI.</p>
@@ -478,7 +479,7 @@
               <!-- Testimonial #4 -->
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi4.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
                   <p class="testimonial__desc">Bookingnya gampang cuma wa atau telpon doang, udah gitu gratis lagi gak perlu bayar DP dulu. MANTAP.</p>
@@ -491,7 +492,7 @@
 
               <div class=" testimonial-item">
                 <div class="testimonial__thumb">
-                  <img src="assets/images/testimonials/thumbs/1.jpg" alt="author thumb">
+                  <img src="assets/images/testimonials/thumbs/testi5.jpg" alt="author thumb">
                 </div><!-- /.testimonial-thumb -->
                 <div class="testimonial__content">
                   <p class="testimonial__desc">Saya paling suka selain pelayanan yang cepat ya.. Armadanya juga memadai banget, pengiriman saya juga sesuai waktu yang dijanjikan. Terima kasih RAI.</p>
