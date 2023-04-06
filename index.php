@@ -326,7 +326,7 @@
           <div class="col-sm-12 col-md-4 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
+                <img src="assets/images/case-studies/grid/home1.jpg" alt="project img">
                 <div class="project__cat">
                   <a href="#">LAYANAN</a>
                 </div><!-- /.project-cat -->
@@ -342,7 +342,7 @@
           <div class="col-sm-12 col-md-4 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
+                <img src="assets/images/case-studies/grid/home2.jpg" alt="project img">
                 <div class="project__cat">
                   <a href="#">FASILITAS</a>
                 </div><!-- /.project-cat -->
@@ -358,7 +358,7 @@
           <div class="col-sm-12 col-md-4 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
+                <img src="assets/images/case-studies/grid/home3.jpg" alt="project img">
                 <div class="project__cat">
                   <a href="#">KERJASAMA</a>
                 </div><!-- /.project-cat -->
