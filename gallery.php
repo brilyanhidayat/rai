@@ -4,7 +4,7 @@
        page title 
     =========================== -->
     <section id="page-title" class="page-title bg-overlay bg-parallax">
-      <div class="bg-img"><img src="assets/images/page-titles/5.jpg" alt="background"></div>
+      <div class="bg-img"><img src="assets/images/sliders/banner-4-min.jpg" alt="background"></div>
       <div class="container">
         <div class="row">
           <div class="col-sm-8 col-md-8 col-lg-8">
