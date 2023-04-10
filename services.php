@@ -10,7 +10,7 @@
           <div class="col-sm-12 col-md-12 col-lg-8">
             <h1 class="pagetitle__heading">Ongkir Murah, Paling Kompetitif & Paling Aman.</h1>
             <p class="pagetitle__desc">Distribusi Barang Industri Terbaik & Terpecaya di Indonesia.</p>
-            <a href="#" class="btn btn__white">Booking Sekarang</a>
+            <a href="https://wa.me/6282289009708?text=Hallo%20RAI%20Expedition%2C%20saya%20ingin%20melakukan%20booking%20untuk%20pengiriman%2C%0A-%20Asal%20%3A%0A-%20Tujuan%20%3A%0A-%20Tanggal%20%3A%0A%0ATerimakasih%0A" class="btn btn__white">Booking Sekarang</a>
           </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -39,7 +39,7 @@
               <div class="service__content">
                 <h4 class="service__title">Ekspedisi Darat</h4>
                 <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik.</p>
-                <a href="#" class="btn btn__white">
+                <a href="single-service#v-darat" class="btn btn__white">
                   <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
@@ -51,7 +51,7 @@
               <div class="service__content">
                 <h4 class="service__title">Ekspedisi Laut</h4>
                 <p class="service__desc">RAI mendukung jasa ekspedisi untuk pengiriman via laut, solusi ekonomis lebih fleksibilitas barang yang dikirimkan.</p>
-                <a href="#" class="btn btn__white">
+                <a href="single-service#v-laut" class="btn btn__white">
                   <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
@@ -63,7 +63,7 @@
               <div class="service__content">
                 <h4 class="service__title">Charter Truck</h4>
                 <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
-                <a href="#" class="btn btn__white">
+                <a href="single-service#v-truck" class="btn btn__white">
                   <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
@@ -75,7 +75,7 @@
               <div class="service__content">
                 <h4 class="service__title">Charter Container</h4>
                 <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
-                <a href="#" class="btn btn__white">
+                <a href="single-service#v-container" class="btn btn__white">
                   <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
               </div>
@@ -101,7 +101,7 @@
                 <h2 class="heading__title">Ongkir Murah, Paling Kompetitif & Paling Aman.</h2>
                 <p class="heading__desc">Terus menjaga kepercayaan, profesionalitas, integritas, keamanan dan terpercaya dengan berbasis digital dan menjadikan hal tersebut menjadi komitmen kami.</p>
               </div><!-- /.heading -->
-              <a href="#" class="btn btn__primary">Ajukan Penawaran!</a>
+              <a href="https://wa.me/6282289009708?text=Hallo%20RAI%20Expedition%2C%20mohon%20untuk%20kirimkan%20saya%20pricelist%20terbaiknya.%20Terimakasih" class="btn btn__primary">Kirim Pricelist!</a>
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6 bg-overlay  background-banner">
