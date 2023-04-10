@@ -13,8 +13,10 @@
               <div class="footer__newsletter-text">
                 <h3>Distribusi Barang Industri Terbaik & Terpercaya.</h3>
                 <p><h6>Layanan Bebas Konsultasi 24 Jam, Gratis Booking, Gratis Survei Barang !</h6></p>
-                <button class="btn btn__primary btn__lg">Konsultasi Sekarang!</button>
 
+                <a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_blank">
+                <button class="btn btn__primary btn__lg">Konsultasi Sekarang!</button>
+                </a>
               </div><!-- /.footer-newsletter-text -->
             </center>
             </div><!-- /.col-xl-3-->
@@ -38,9 +40,9 @@
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Sekilas</a></li>
-                    <li><a href="#">Gallery</a></li>
-                    <li><a href="#">Info</a></li>
+                    <li><a href="about-us.php">Sekilas</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="blog-grid.php">Info</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
@@ -50,10 +52,10 @@
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Eks. Darat</a></li>
-                    <li><a href="#">Eks. Laut</a></li>
-                    <li><a href="#">Charter Truck</a></li>
-                    <li><a href="#">Charter Container</a></li>
+                    <li><a href="single-service.php">Eks. Darat</a></li>
+                    <li><a href="single-service.php">Eks. Laut</a></li>
+                    <li><a href="single-service.php">Charter Truck</a></li>
+                    <li><a href="single-service.php">Charter Container</a></li>
 
                   </ul>
                 </nav>
@@ -79,9 +81,9 @@
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">WhatsApp</a></li>
-                    <li><a href="#">Telepon</a></li>
-                    <li><a href="#">Email</a></li>
+                    <li><a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_blank" >WhatsApp</a></li>
+                    <li> <a href="tel:082289009708">Telepon</a></li>
+                    <li><a href="mailto:arketing@raiexpedition.co.id">Email</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget-content -->
@@ -95,7 +97,7 @@
             <div class="col-sm-12 col-md-6 col-lg-6">
               <div class="footer__copyright">
                 <span>&copy; 2023 RAI Web,</span>
-                <a href="http://themeforest.net/user/7oroof">ITICO Project</a>
+                <a href="http://brilyanhidayat.com">ITICO Project</a>
               </div><!-- /.Footer-copyright -->
             </div><!-- /.col-lg-6 -->
             <div class="col-sm-12 col-md-6 col-lg-6">

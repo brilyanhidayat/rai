@@ -28,7 +28,7 @@
               <ul class="contact__list list-unstyled">
                 <li><i class="icon-call"></i><span>Phone: 0822-8900-9708</span></li>
                 <li><i class="icon-envelope"></i>
-                  <span>Email: <a href="mailto:optime@7oroof.com">marketing@raiexpedition.co.id</a></span>
+                  <span>Email: <a href="mailto:arketing@raiexpedition.co.id">marketing@raiexpedition.co.id</a></span>
                 </li>
               </ul>
             </div><!-- /.col-lg-7 -->
@@ -110,7 +110,7 @@
             <ul class="modules__wrapper d-flex align-items-center list-unstyled">
 
               <li class="d-none d-lg-block">
-                <a href="https://wa.me/082289009708?text=Hallo%20%20RAI%20Expeditions" class="module__btn btn__request btn">
+                <a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_blank" class="module__btn btn__request btn">
                   <span>WhatsApp</span><i class="fa fa-whatsapp"></i>
                 </a>
               </li>

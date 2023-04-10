@@ -77,13 +77,14 @@
                 <h4 class="contact__panel-title">RAI Bekasi</h4>
               </div><!-- /.contact-panel-header -->
               <ul class="contact__list list-unstyled">
-                <li>Hotline : <br><b>0822 8900 9708 (Faradila) / 0852 6348 2283 (Zulhid)</b></li><br>
-                <li>Email : <br> <b>marketing@raiexpedition.co.id</b><a href="milto:marketing@raiexpedition.co.id"></a></li><br>
+                <li>Hotline : <br><b><a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_blank" >0822 8900 9708 (Faradila) </a> / <a href="https://wa.me/6285263482283?text=Hallo%20%20RAI%20Expeditions" target="_blank" >0852 6348 2283 (Zulhid) </a></b></li><br>
+                <li>Email : <br> <a href="mailto:marketing@raiexpedition.co.id"><b>marketing@raiexpedition.co.id</b>
+                        </a></li><br>
                 <li>Operasional : <br> <b>08:00 - 17:00 WIB</b></li>
               </ul><!-- /.contact-list -->
-              <a href="#" class="btn btn__primary btn__hover3">
+              <!--<a href="#" class="btn btn__primary btn__hover3">
                 <span>WhatsApp</span><i class="icon-arrow-right"></i>
-              </a>
+              </a>-->
             </div><!-- /.contact-panel -->
           </div><!-- /.col-lg-4 -->
 

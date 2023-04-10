@@ -32,13 +32,11 @@
               <div class="widget widget-download bg-theme">
                 <h5 class="widget__title color-white">Perlu Bantuan?</h5>
                 <div class="widget__content">
-                  <a href="#" class="btn btn__secondary btn__block mb-20">
-                    
-                    <span>WhatsApp</span>
+                  <a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_blank" class="btn btn__secondary btn__block mb-20">
+                   <span>WhatsApp</span>
                   </a>
-                  <a href="#" class="btn btn__secondary btn__block">
-                    
-                    <span>Booking!</span>
+                  <a href="mailto: marketing@raiexpedition.co.id" target="_blank" class="btn btn__secondary btn__block">
+                    <span>Email</span>
                   </a>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-download -->
