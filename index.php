@@ -244,7 +244,7 @@
               <!-- service item #1 -->
               <div class="service-item">
                 <div class="service__img">
-                  <img src="assets/images/services/1.jpg" alt="service">
+                  <img src="assets/images/services/layanan-1.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Darat</h4>
@@ -258,7 +258,7 @@
               <!-- service item #2 -->
               <div class="service-item">
                 <div class="service__img">
-                  <img src="assets/images/services/2.jpg" alt="service">
+                  <img src="assets/images/services/layanan-2.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Laut</h4>
@@ -272,7 +272,7 @@
               <!-- service item #3 -->
               <div class="service-item">
                 <div class="service__img">
-                  <img src="assets/images/services/3.jpg" alt="service">
+                  <img src="assets/images/services/layanan-3.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Charter Truck</h4>
@@ -286,7 +286,7 @@
               <!-- service item #4 -->
               <div class="service-item">
                 <div class="service__img">
-                  <img src="assets/images/services/2.jpg" alt="service">
+                  <img src="assets/images/services/layanan-4.jpg" alt="service">
                 </div><!-- /.service-img -->
                 <div class="service__content">
                   <h4 class="service__title">Charter Container</h4>
