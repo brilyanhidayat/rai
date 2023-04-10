@@ -24,7 +24,7 @@
                 <div class="slide__content">
                   <h2 class="slide__title">Ongkir Murah, Paling Kompetitif & Paling Aman.</h2>
                   <p class="slide__desc">Layanan Gratis Konsultasi, Survei Barang & Booking Jadwal</p>
-                  <a href="#" class="btn btn__primary">Tanya Sekarang</a>
+                  <a href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" class="btn btn__primary">Tanya Sekarang</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
@@ -39,7 +39,7 @@
                 <div class="slide__content">
                   <h2 class="slide__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
                   <p class="slide__desc">Leadtime Pengiriman Cepat, Didukung dengan Fit-Vechile dan Dijamin aman sampai tujuan.</p>
-                  <a href="#" class="btn btn__primary">BOOKING</a>
+                  <a href="https://wa.me/6282289009708?text=Hallo%20RAI%20Expedition%2C%20saya%20ingin%20melakukan%20booking%20untuk%20pengiriman%2C%0A-%20Asal%20%3A%0A-%20Tujuan%20%3A%0A-%20Tanggal%20%3A%0A%0ATerimakasih%0A" class="btn btn__primary">BOOKING</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
@@ -111,15 +111,7 @@
           <div class="col-sm-12 col-md-12 col-lg-7">
             <div class="video-banner p-0">
               <img src="assets/images/banners/6.jpg" alt="background">
-              <div class="video__btn video__btn-right-center">
-                <a class="popup-video" href="https://www.youtube.com/watch?4=&amp;v=TKnufs85hXk">
-                  <span class="video__player-animation"></span>
-                  <span class="video__player-animation video__player-animation-2"></span>
-                  <div class="video__player">
-                    <i class="fa fa-play"></i>
-                  </div>
-                </a>
-              </div>
+              
             </div><!-- /.video -->
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-5">
@@ -127,9 +119,9 @@
               <span class="heading__subtitle">Pengiriman Barang ke seluruh Indonesia</span>
               <h2 class="heading__title">Distribusi Barang Industri Terbaik & Terpercaya.</h2>
               <p class="heading__desc mb-30">RAI telah membangun Kepercayaan, profesionalitas, keamanan barang merupakan tanggung jawab serta komitmen perusahaan kami dan telah di akui oleh beberapa perusahaan di Indonesia.
-</p>
+              </p>
               
-              <a href="#" class="btn btn__primary btn__lg">Selengkapnya</a>
+              <a href="about-us.php" class="btn btn__primary btn__lg">Selengkapnya</a>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-5 -->
         </div><!-- /.row -->
@@ -182,7 +174,7 @@
         </div>
         <div class="cta-banner-button">
           <div class="pulse-button">
-            <div class=""><a class="cta-banner-button-link" href="https://hejfish.com/signup" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
+            <div class=""><a class="cta-banner-button-link" href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
           </div>
         </div>
       </div>
@@ -249,7 +241,7 @@
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Darat</h4>
                   <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik. </p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-darat" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -263,7 +255,7 @@
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Laut</h4>
                   <p class="service__desc">RAI telah mendukung jasa ekspedisi untuk pengiriman via laut adalah solusi ekonomis dan lebih banyak fleksibilitas tentang barang yang akan dikirimkan.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-laut" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -277,7 +269,7 @@
                 <div class="service__content">
                   <h4 class="service__title">Charter Truck</h4>
                   <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-truck" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -291,7 +283,7 @@
                 <div class="service__content">
                   <h4 class="service__title">Charter Container</h4>
                   <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-container" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -332,7 +324,7 @@
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">Pelayanan Maksimal</a></h4>
+                <h4 class="project__title"><a href="services.php">Pelayanan Maksimal</a></h4>
                 <p class="project__desc">RAI memiliki staff marketing yang ramah dan akan membantu pengiriman kamu hingga sampai tujuan.</p>
 
               </div><!-- /.project-content -->
@@ -348,7 +340,7 @@
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">Fit-Vechiles</a></h4>
+                <h4 class="project__title"><a href="blog-grid.php">Fit-Vechiles</a></h4>
                 <p class="project__desc">RAI terus melakukan perbaikan yang berkesinambungan terhadap armada agar selalu prima.</p>
 
               </div><!-- /.project-content -->
@@ -364,7 +356,7 @@
                 </div><!-- /.project-cat -->
               </div><!-- /.project-img -->
               <div class="project__content">
-                <h4 class="project__title"><a href="#">RAI siap untuk Bekerjasama</a></h4>
+                <h4 class="project__title"><a href="contact.php">RAI siap untuk Bekerjasama</a></h4>
                 <p class="project__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
 
               </div><!-- /.project-content -->
