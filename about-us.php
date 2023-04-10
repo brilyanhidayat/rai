@@ -31,7 +31,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
             </div><!-- /.heading -->
 
             <a href="#" class="btn btn__primary mr-30 mb-20">Download Brosur</a>
-            <a href="#" class="btn btn__primary mr-30 mb-20">Booking!</a>
+            <a href="https://wa.me/6282289009708?text=Hallo%20RAI%20Expedition%2C%20saya%20ingin%20melakukan%20booking%20untuk%20pengiriman%2C%0A-%20Asal%20%3A%0A-%20Tujuan%20%3A%0A-%20Tanggal%20%3A%0A%0ATerimakasih%0A" class="btn btn__primary mr-30 mb-20">Booking!</a>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-9 col-lg-6">
             <div class="about__img">
@@ -59,15 +59,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 background-banner bg-overlay">
             <div class="bg-img"><img src="assets/images/banners/7.jpg" alt="background"></div>
-            <div class="video__btn video__btn-white video__btn-right-center">
-              <a class="popup-video" href="https://www.youtube.com/watch?4=&v=TKnufs85hXk">
-                <span class="video__player-animation"></span>
-                <span class="video__player-animation video__player-animation-2"></span>
-                <div class="video__player">
-                  <i class="fa fa-play"></i>
-                </div>
-              </a>
-            </div><!-- /.video -->
+
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="inner-padding">
@@ -124,9 +116,6 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
               </div><!-- /.client -->
               <div class="client">
                 <a href="#"><img src="assets/images/clients/2.jpg" alt="client"></a>
-              </div><!-- /.client -->
-              <div class="client">
-                <a href="#"><img src="assets/images/clients/3.jpg" alt="client"></a>
               </div><!-- /.client -->
               <div class="client">
                 <a href="#"><img src="assets/images/clients/3.jpg" alt="client"></a>
@@ -266,7 +255,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Darat</h4>
                   <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik. </p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-darat" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -280,7 +269,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
                 <div class="service__content">
                   <h4 class="service__title">Ekspedisi Laut</h4>
                   <p class="service__desc">RAI telah mendukung jasa ekspedisi untuk pengiriman via laut adalah solusi ekonomis dan lebih banyak fleksibilitas tentang barang yang akan dikirimkan.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-laut" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -294,7 +283,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
                 <div class="service__content">
                   <h4 class="service__title">Charter Truck</h4>
                   <p class="service__desc">Penggunaan layanan ini lebih efisien karena penggunaan kendaraan yang dikhususkan tanpa ada barang milik orang lain.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-truck" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
@@ -308,7 +297,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
                 <div class="service__content">
                   <h4 class="service__title">Charter Container</h4>
                   <p class="service__desc">Layanan sewa container FCL (Full Container Loaded) ke Seluruh Indonesia, dengan pilihan 20 feet atau 40 feet.</p>
-                  <a href="#" class="btn btn__white">
+                  <a href="single-service#v-container" class="btn btn__white">
                     <span>Pelajari</span><i class="icon-arrow-right"></i>
                   </a>
                 </div>
