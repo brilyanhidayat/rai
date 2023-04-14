@@ -46,7 +46,7 @@
                 <!-- Tabs content -->
                 <div class="tab-content" id="v-pills-tabContent">
                     <div class="tab-pane fade shadow rounded bg-white show active p-5" id="v-darat" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
+                      <img src="assets/images/services/isilayanan1-min.jpg" width="750" height="responsive">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -250,7 +250,7 @@
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-laut" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
+                      <img src="assets/images/services/isilayanan2-min.jpg" width="750" height="responsive">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -451,7 +451,7 @@
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-truck" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
+                      <img src="assets/images/services/isilayanan3-min.jpg" width="750" height="responsive">
                       <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -652,7 +652,7 @@
                     </div>
                     
                     <div class="tab-pane fade shadow rounded bg-white p-5" id="v-container" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                      <img src="assets/images/case-studies/grid/1.jpg" width="750" height="300">
+                      <img src="assets/images/services/isilayanan4-min.jpg" width="750" height="responsive">
                           <div class="col-sm-12 col-md-12 col-lg-8 tab-pane active show" id="tab-1">
                           <div class="row">
                             <div class="col-sm-12 col-md-12 col-lg-12">
