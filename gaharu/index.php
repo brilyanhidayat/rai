@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/lightcase.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <title>Haldaa</title>
+    <title>Kayu Gaharu</title>
 </head>
 
 <body class="bg-home6">
@@ -44,15 +44,14 @@
                     <div class="menu">
                         <ul>
                             <li><a href="#home" class="active">Home</a></li>
-                            <li><a href="#about">Fakta</a></li>
-                            <li><a href="#treatment">Manfaat</a></li>
-                            <li><a href="#doctor">Ciri</a></li>
-                            <li><a href="#testimonial">Kegunaan</a></li>
-                            <li><a href="contact.html">Jenis</a></li>
-                            <li><a href="contact.html">Kontak</a></li>
+                            <li><a href="#manfaat">Manfaat</a></li>
+                            <li><a href="#ciri">Ciri</a></li>
+                            <li><a href="#kegunaan">Kegunaan</a></li>
+                            <li><a href="#jenis">Jenis</a></li>
+                            <li><a href="#kontak">Kontak</a></li>
                         </ul>
                         <div class="header__btn">
-                            <a href="appointment.html" class="lab-btn">Hubungi Kami</a>
+                            <a href="https://wa.me/6282289009708?text=Hallo" class="lab-btn bg-title">Hubungi Kami</a>
                         </div>
                     </div>
                     <div class="header__bararea">
@@ -67,8 +66,6 @@
         </div>
     </header>
     <!-- ==========Header Section Ends Here========== -->
-
-
 
     
     <!-- ==========Banner Section Starts Here========== -->
@@ -116,11 +113,11 @@
 
 
     <!-- ==========Feature Section Starts Here========== -->
-    <div class="feature feature--five padding-tb bg-home6">
+    <div class="feature feature--five padding-tb bg-home6" id="manfaat">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h3>Fakta dari <span>Kayu Gaharu</span></h3>
-                <p>Berikut ini beberapa fakta unik mengenai kayu gaharu.</p>
+                <h3>Manfaat <span>Kayu Gaharu</span></h3>
+                <p></p>
             </div>
             <div class="section__wrapper">
                 <div class="row g-4 justify-content-center">
@@ -130,8 +127,8 @@
                                 <img src="assets/images/feature/04.jpg" alt="rajibraj">
                             </div>
                             <div class="feature__content">
-                                <h5>Berguna untuk Bahan Pembuatan Obat</h5>
-                                <p align="justify">Bahan yang terkandung di dalam kayu gaharu dipercaya dapat menyembuhkan berbagai macam penyakit. Hal ini membuat kayu gaharu sering diekspor untuk dijadikan obat-obatan.</p>
+                                <h5>Bahan Dasar Parfum</h5>
+                                <p align="justify">kayu gaharu digunakan sebagai bahan parfum dan lilin aromaterapi karena dinilai memiliki efek yang menenangkan dan mampu menghilangkan stres.</p>
                             </div>
                         </div>
                     </div>
@@ -141,8 +138,8 @@
                                 <img src="assets/images/feature/05.jpg" alt="rajibraj">
                             </div>
                             <div class="feature__content">
-                                <h5>Memiliki Aroma yang Khas</h5>
-                                <p align="justify">Kayu gaharu memiliki aroma yang harum dan khas, sehingga jenis kayu ini sering dijadikan bahan parfum atau lilin aromaterapi. Aroma harum yang khas pada resin kayu gaharu berasal dari mikroba khusus, yaitu fusarium sp.</p>
+                                <h5>Obat Herbal</h5>
+                                <p align="justify">Kayu gaharu bermanfaat sebagai obat. Beberapa bagian pohon gaharu, seperti daun, akar, kulit, dan buahnya kerap digunakan sebagai campuran ramuan obat tradisional atau jamu.</p>
                             </div>
                         </div>
                     </div>
@@ -152,8 +149,8 @@
                                 <img src="assets/images/feature/06.jpg" alt="rajibraj">
                             </div>
                             <div class="feature__content">
-                                <h5>Dipercaya Berasal dari Surga</h5>
-                                <p align="justify">Dalam ajaran islam, kayu gaharu dipercaya sebagai jenis kayu yang berasal dari surga. Hal ini terdapat dalam sabda Rasulullah dari hadits yang diriwayatkan Imam Bukhari.</p>
+                                <h5>Bahan Pengawet</h5>
+                                <p align="justify">Beberapa negara memanfaatkan kayu gaharu sebagai bahan pengawet untuk produk kosmetik. Karena memiliki kandungan zat antitoksin dan anti mikroba yang aman untuk digunakan.</p>
                             </div>
                         </div>
                     </div>
@@ -163,8 +160,8 @@
                                 <img src="assets/images/feature/07.jpg" alt="rajibraj">
                             </div>
                             <div class="feature__content">
-                                <h5>Seluruh Bagian Pohonnya dapat Dimanfaatkan</h5>
-                                <p align="justify">Seluruh bagian pohon gaharu ini dapat dimanfaatkan. Bagian daunnya dapat dijadikan bahan pelengkap untuk teh herbal yang berkhasiat untuk tubuh. Selain itu, bagian batangnya juga dapat diolah untuk dijadikan sebagai minyak yang memiliki nilai jual yang tinggi.</p>
+                                <h5>Aroma Khas</h5>
+                                <p align="justify">Dipercaya mampu untuk menyucikan tempat upacara dan peralatan ibadah keagamaan. Karena memiliki wangi yang sangat unik, untuk wewangian.</p>
                             </div>
                         </div>
                     </div>
@@ -177,7 +174,7 @@
 
 
     <!-- ==========About Section Starts Here========== -->
-    <div class="about about--four padding-tb" id="about">
+    <div class="about about--four padding-tb" id="manfaat_">
         <div class="container">
             <div class="row g-5 justify-content-center align-items-center">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
@@ -187,10 +184,9 @@
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="about__content">
-                        <h3>We’re Haldaa <span>Hair Clinic</span></h3>
-                        <p>Continually productize compelling quality for packed with  elated productize compelling quality for packed in  with all elated Them Setting up to website and creating pages. </p>
-                        <p>Continually productize compelling quality for packed with  elated productize compelling quality for packed in  with all elated Them aroductize compelling quality for packed in  with all elated Them Setting up to website and creating pages. </p>
-                        <a href="appointment.html" class="lab-btn">Appointment Now</a>
+                        <h3>Adakah manfaat lain dari <span>Kayu Gaharu? </span></h3>
+                        <p>Tentu masih banyak manfaat dari Kayu Gaharu, salah satu fakta unik yang membuat kayu gaharu memiliki permintaan yang tinggi di pasar adalah karena kayu gaharu dapat dimanfaatkan sebagai bahan untuk pembuatan obat-obatan medis maupun tradisional. </p>
+                        <a href="https://wa.me/6282289009708?text=Hallo" class="lab-btn bg-title">Hubungi Kami</a>
                     </div>
                 </div>
             </div>
@@ -201,10 +197,10 @@
 
 
     <!-- ==========Treatment Section Starts Here========== -->
-    <div class="treatment padding-tb" id="treatment">
+    <div class="treatment padding-tb" id="ciri">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h3>Haldaa <span>Treatment Options</span></h3>
+                <h3>Ciri-ciri <span>Kayu Gaharu</span></h3>
                 <p>Conveniently customize proactive services leveraged without continualliery aggregate fricctionle ou wellies</p>
             </div>
             <div class="section__wrapper">
@@ -287,7 +283,7 @@
 
 
     <!-- ==========FAQ Section Start Here========== -->
-    <div class="faq faq--two faq--six padding-tb">
+    <div class="faq faq--two faq--six padding-tb" id="kegunaan">
         <div class="container">
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
@@ -298,7 +294,7 @@
                 <div class="col-lg-6 col-12">
                     <div class="faq__content">
                         <div class="section__header wow fadeInUp" data-wow-delay=".5s">
-                            <h3>Post Your Questions <span>Our Expart Ready to Answer</span></h3>
+                            <h3>Kegunaan <span>Kayu Gaharu</span></h3>
                             <p class="ms-0">Conveniently customize proactive services leveraged without continualliery aggregate fricctionle ou wellies</p>
                         </div>
                         <div class="section__wrapper">
@@ -354,10 +350,10 @@
 
 
     <!-- ==========Team Section Start Here========== -->
-    <div class="team team--two padding-tb bg-home6" id="doctor">
+    <div class="team team--two padding-tb bg-home6" id="jenis">
         <div class="container">
             <div class="section__header text-center wow fadeInUp" data-wow-delay=".5s">
-                <h3>Our Hair <span>Expert Team</span></h3>
+                <h3>Jenis <span>Kayu Gaharu</span></h3>
                 <p>Conveniently customize proactive services leveraged without continualliery aggregate fricctionle ou wellies</p>
             </div>
             <div class="section__wrapper">
@@ -446,13 +442,13 @@
 
 
     <!-- ==========FunFact Section Starts Here========== -->
-    <div class="fanfuct padding-tb overflow-hidden">
+    <div class="fanfuct padding-tb overflow-hidden" id="kontak">
         <div class="container">
             <div class="row g-4 align-items-center">
                 <div class="col-lg-6 col-12">
                     <div class="section__header">
                         <div class="section__header wow fadeInUp" data-wow-delay=".5s">
-                            <h3>World's most advanced <span>hair transplant system</span></h3>
+                            <h3>CTA <span></span></h3>
                             <p>Continually productize compelling quality for packed with  elated productize compelling quality for packed in  with all elated Them Setting up to website and creating pages.</p>
                         </div>
                     </div>
