@@ -1,0 +1,243 @@
+.footer {
+    &__title {
+        h5 {
+            @extend %mb-15, %text-600 ;
+            @include breakpoint(lg) {
+                margin-bottom: 30px;
+            }
+        }
+    }
+    &__body {
+        ul {
+            li {
+                a {
+                    padding-block: 10px;
+                    @extend %d-inline-block, %text-capitalize;
+                    &:hover {
+                        @extend %theme-color;
+                    }
+                }
+            }
+        }
+    }
+    &__about {
+        p {
+            line-height: 28px;
+        }
+        ul {
+            @extend %mt-30;
+            li {
+                @extend %flex;
+                padding-block: 5px;
+                .icon {
+                    width: 20px;
+                    @include font-size(20px);
+                    @extend %theme-color;
+                }
+                .text {
+                    width: calc(100% - 20px);
+                    @extend %pl-10;
+                }
+            }
+        }
+    }
+    &__timetable {
+        .footer {
+            &__body {
+                ul {
+                    @include breakpoint(lg) {
+                        max-width: 90%;
+                    }
+                    li {
+                        @extend %flex, %justify-between;
+                        padding-block: 10px;
+                        .left {}
+                        .right {}
+                    }
+                }
+            }
+        }
+    }
+    &__newsletter {
+        .footer {
+            &__body {
+                p {
+                    @extend %mb-30;
+                }
+            }
+        }
+        
+        form {
+            @extend %rel;
+            input {
+                border: 1px solid rgba($title-color, $alpha: .1);
+                height: 50px;
+            }
+            button {
+                @extend %abs, %bg-theme2, %text-center, %border-none, %white-color;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                right: 0;
+                top: 0;
+                @include font-size(24px);
+            }
+        }
+    }
+
+    &__bottom {
+        padding-block: 30px;
+        border-top: 1px solid rgba($title-color, $alpha: .1);
+        @extend %text-center;
+        p {
+            @extend %mb-0;
+            a {
+                @extend %theme-color, %text-500;
+                &:hover {
+                    @extend %theme-color;
+                }
+            }
+        }
+    }
+    &--two {
+        .footer {
+            &__body {
+                ul {
+                    li {
+                        a {
+                            &:hover {
+                                @extend %theme-color2;
+                            }
+                        }
+                        i {
+                            @extend %theme-color2;
+                        }
+                    }
+                }
+            }
+            &__bottom {
+                p {
+                    a {
+                        @extend %theme-color2;
+                    }
+                }
+            }
+        }
+    }
+    &--three {
+        .footer {
+            &__top {
+                @extend %bg-white;
+            }
+            &__bottom {
+                background: #F5F5F5;
+                @extend %border-none;
+                p {
+                    a {
+                        @extend %theme-color3;
+                    }
+                }
+            }
+            &__body {
+                ul {
+                    li {
+                        i {
+                            @extend %theme-color3;
+                        }
+                        a {
+                            &:hover {
+                                @extend %theme-color3;
+                            }
+                        }
+                    }
+                }
+            }
+            &__newsletter {
+                form {
+                    button {
+                        @extend %bg-theme3;
+                    }
+                }
+            }
+            &__bottom {
+                p {
+                    a {
+                        @extend %theme-color3;
+                    }
+                }
+            }
+        }
+    }
+    &--four {
+        .footer {
+            &__top {
+                background: #F5F5F5;
+            }
+            &__bottom {
+                background: #FAF3E8;
+                @extend %border-none;
+                p {
+                    a {
+                        @extend %theme-color6;
+                    }
+                }
+            }
+            &__body {
+                ul {
+                    li {
+                        a {
+                            &:hover {
+                                @extend %theme-color6;
+                            }
+                        }
+                        i {
+                            @extend %theme-color6;
+                        }
+                    }
+                }
+            }
+            &__newsletter {
+                form {
+                    button {
+                        @extend %bg-theme6;
+                    }
+                }
+            }
+            &__bottom {
+                p {
+                    a {
+                        @extend %theme-color6;
+                    }
+                }
+            }
+        }
+    }
+    &--dark {
+        .footer {
+            &__top {
+                @extend %bg-title2;
+                * {
+                    @extend %white-color;
+                }
+                a {
+                    &:hover {
+                        @extend %theme-color5;
+                    }
+                }
+            }
+            &__bottom {
+                @extend %bg-title3;
+                * {
+                    @extend %white-color;
+                }
+                a {
+                    @extend %theme-color5;
+                    &:hover {
+                        @extend %theme-color5;
+                    }
+                }
+            }
+        }
+    }
+}
+

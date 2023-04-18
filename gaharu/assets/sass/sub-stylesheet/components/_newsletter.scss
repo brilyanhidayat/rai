@@ -1,0 +1,116 @@
+.newsletter {
+    background-color: #fff;
+    @include breakpoint(lg) {
+        @include breakpoint(max-xl) {
+            background-position: 85%;
+        }
+    }
+    &__content {
+        // padding-top: 80px;
+        h3 {
+            @extend %text-600, %mb-20;
+        }
+        form {
+            @extend %rel;
+            input {
+                padding: 17px 30px;
+                padding-right: 180px;
+                @extend %bg-white;
+                @include border-radius(50px);
+                @include breakpoint(sm) {
+                    padding-right: 200px;
+                }
+            }
+            button {
+                @extend %abs, %bg-theme, %white-color, %border-none, %text-center;
+                @include border-radius(50px);
+                width: 160px;
+                height: 60px;
+                right: 0;
+                top: 0;
+                @include breakpoint(sm) {
+                    width: 180px;
+                }
+            }
+        }
+    }
+    &--one {
+        @extend %rel;
+        &::after {
+            @extend %abs;
+            right: 200px;
+            bottom: 0;
+            background: url(../../assets/images/offer/02.png);
+            width: 285px;
+            height: 130%;
+            @include breakpoint(max-lg) {
+                display: none;
+            }
+        }
+    }
+    &--two {
+        @include breakpoint(md) {
+            @include breakpoint(max-lg) {
+                background-position: 30%;
+            }
+        }
+        @include breakpoint(lg) {
+            @include breakpoint(max-xl) {
+                background-position: 50%;
+            }
+        }
+        .newsletter {
+            &__content {
+                @extend %pt-0;
+                form {
+                    input {}
+                    button {
+                        @extend %bg-theme4;
+                    }
+                }
+            }
+        }
+    }
+    &--three {
+        @include breakpoint(lg) {
+            @include breakpoint(max-xxl) {
+                background-position: 80%;
+            }
+        }
+        .newsletter {
+            &__content {
+                @extend %pt-0;
+                h3 {
+                    @extend %white-color, %text-600;
+                }
+                form {
+                    input {}
+                    button {
+                        @extend %bg-theme5;
+                    }
+                }
+            }
+        }
+    }
+    &--four {
+        background-color: #FAF3E8;
+        .newsletter {
+            &__content {
+                @extend %text-center, %pt-0;
+                h3 {
+                    @extend %mb-30;
+                }
+                form {
+                    @extend %rel;
+                    input {
+                        @include border-radius(4px);
+                    }
+                    button {
+                        @include border-radius(0px 4px 4px 0px);
+                        @extend %bg-theme6;
+                    }
+                }
+            }
+        }
+    }
+}

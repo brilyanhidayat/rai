@@ -1,0 +1,546 @@
+.banner {
+    &--one {
+        padding-top: 150px;
+        background: #E0F4F4;
+        @extend %hidden;
+        @include breakpoint(max-xl) {
+            padding-bottom: 80px;
+        }
+        @include breakpoint(max-lg) {
+            padding-bottom: 0px;
+        }
+        .shape {
+            &__item {
+                &:nth-child(1) {
+                    top: 30px;
+                    left: 30px;
+                }
+                &:nth-child(2) {
+                    top: 0px;
+                    right: 0px;
+                    animation: pulse 5s linear infinite;
+                }
+                &:nth-child(3) {
+                    bottom: 0px;
+                    left: 0px;
+                    animation: pulse 5s linear infinite;
+                }
+                &:nth-child(4) {
+                    bottom: 0px;
+                    left: 450px;
+                }
+                img {}
+            }
+        }
+        .banner {
+            &__content {
+                @extend %rel;
+                z-index: 1;
+                @include breakpoint(lg) {
+                    margin-top: -80px;
+                }
+                h3 {
+                    @extend %text-400;
+                }
+                h2 {
+                    @include font-size(62px);
+                    @extend %text-400;
+                    line-height: 1.1;
+                    span {
+                        @extend %text-700;
+                    }
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 48px;
+                        }
+                    }
+                }
+                p {
+                    @extend %mb-30;
+                    // line-height: 1.7;
+                    @include breakpoint(xl) {
+                        // max-width: 90%;
+                    }
+                }
+            }
+            &__thumb {
+                img {
+                    animation: pulse 20s linear infinite;
+                    @include breakpoint(xl) {
+                        max-width: none;
+                    }
+                }
+            }
+        }
+    }
+    &--two {
+        padding-top: 150px;
+        background: #FFF3EF;
+        @extend %hidden;
+        @include breakpoint(max-xl) {
+            padding-bottom: 0px;
+        }
+        .banner {
+            &__content {
+                @include breakpoint(lg) {
+                    margin-top: -80px;
+                }
+                h2 {
+                    @include font-size(56px);
+                    @extend %text-400;
+                    span {
+                        @extend %text-600;
+                    }
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 42px;
+                        }
+                    }
+                }
+                p {
+                    @extend %mb-30;
+                    line-height: 28px;
+                    @include breakpoint(xl) {
+                        max-width: 90%;
+                    }
+                }
+            }
+            &__groupbtn {
+                @extend %flex;
+                gap: 30px;
+                .lab-btn {
+                    @extend %bg-theme2;
+                    padding: 13px 16px;
+                    &:hover {
+                        @extend %bg-title;
+                        i {
+                            @extend %white-color;
+                        }
+                    }
+                    i {
+                        @extend %mr-5, %theme-color2, %ml-0;
+                        @include transition($transition);
+                    }
+                    &.bg-white {
+                        @extend %theme-color2;
+                        &:hover {
+                            @extend %white-color;
+                            background: $title-color !important;
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                img {
+                    
+                    animation: pulse 30s linear infinite;
+                    @include breakpoint(xl) {
+                        max-width: none;
+                    }
+                }
+            }
+        }
+        .shape {
+            @include breakpoint(max-xxl) {
+                display: none;
+            }
+            &__item {
+                @extend %p-10, %bg-white, %flex, %align-items-center;
+                @include border-radius(8px);
+                .thumb {
+                    width: 60px;
+                    height: 60px;
+                    line-height: 60px;
+                    box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                    @extend %text-center;
+                    @include border-radius(8px);
+                }
+                .content {
+                    h5 {
+                        @extend %mb-0, %text-600;
+                        margin-inline: 15px;
+                    }
+                }
+                &:nth-child(1) {
+                    bottom: 30%;
+                    left: -10%;
+                    animation: tada 25s linear infinite;
+                }
+                &:nth-child(2) {
+                    right: -30%;
+                    top: 35%;
+                    animation: swing 30s linear infinite;
+                    @include breakpoint(xxl) {
+                        right: -50%;
+                    }
+                }
+                &:nth-child(3) {
+                    right: -30%;
+                    bottom: 15%;
+                    animation: flash 35s linear infinite;
+                }
+            }
+        }
+    }
+    &--three {
+        padding-top: 150px;
+        background: #FFF7F0;
+        @extend %hidden;
+        @include breakpoint(max-xl) {
+            padding-bottom: 80px;
+        }
+        .shape {
+            &__item {
+                @extend %w-100, %text-center;
+                animation: tada 75s linear infinite;
+            }
+            &--two {
+                @include breakpoint(max-xxl) {
+                    display: none;
+                }
+                .shape {
+                    &__item {
+                        width: auto;
+                        @extend %p-10, %bg-white, %flex, %align-items-center;
+                        @include border-radius(8px);
+                        .thumb {
+                            width: 60px;
+                            height: 60px;
+                            line-height: 60px;
+                            box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                            @extend %text-center, %hidden;
+                            @include border-radius(8px);
+                        }
+                        .content {
+                            @extend %text-left;
+                            margin-inline: 15px;
+                            h6 {
+                                @extend %mb-0, %text-600;
+                            }
+                            p {
+                                @extend %mb-0;
+                                i {
+                                    @extend %theme-color6;
+                                    @include font-size(13px);
+                                }
+                            }
+                        }
+                        &:nth-child(1) {
+                            top: 55%;
+                            left: -15%;
+                            animation: pulse 10s linear infinite;
+                        }
+                        &:nth-child(2) {
+                            top: 42%;
+                            right: -25%;
+                            animation: pulse 15s linear infinite;
+                        }
+                    }
+                }
+            }
+        }
+        .container {
+            @extend %rel;
+            z-index: 999;
+        }
+        .banner {
+            &__content {
+                @include breakpoint(lg) {
+                    margin-top: -130px;
+                }
+                h2 {
+                    @include font-size(60px);
+                    @extend %text-400;
+                    span {
+                        @extend %text-600;
+                    }
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 48px;
+                        }
+                    }
+                }
+                p {
+                    @extend %mb-30;
+                    line-height: 28px;
+                    @include breakpoint(xl) {
+                        max-width: 90%;
+                    }
+                }
+            }
+            &__groupbtn {
+                @extend %flex;
+                gap: 30px;
+                .lab-btn {
+                    @extend %bg-theme3;
+                    padding: 11px 27px;
+                    &:hover {
+                        @extend %bg-title;
+                    }
+                    i {
+                        @extend %mr-5, %theme-color3, %ml-0;
+                    }
+                    &.bg-white {
+                        @extend %title-color;
+                        &:hover {
+                            color: $white-color;
+                            background: $theme-color3 !important;
+                            i {
+                                @extend %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                img {
+                    @include breakpoint(xl) {
+                        max-width: none;
+                    }
+                }
+            }
+        }
+        .product {
+            @extend %flex;
+            justify-content: flex-end;
+            gap: 30px;
+            background: transparent;
+            @include transform(translate(125px, -140px));
+            @include breakpoint(max-xxl) {
+                display: none;
+            }
+            &__item {
+                @extend %d-inline-block, %rel;
+            }
+            &__thumb {
+                height: 80px !important;
+                line-height: 1 !important;
+                margin-bottom: -30px !important;
+            }
+            &__content {
+                padding: 45px 15px 15px !important;
+                h6 {
+                    @extend %mb-0;
+                }
+                >span {
+                    @extend %d-block, %mb-5;
+                }
+            }
+            &__price {
+                @extend %abs, %bg-theme3, %text-600;
+                bottom: 0;
+                right: 0;
+                padding: 2px 5px;
+                margin-bottom: 0 !important;
+                color: $white-color !important;
+                @include border-radius(8px 0 8px 0);
+            }
+        }
+    }
+    &--four {
+        padding-top: 280px;
+        padding-bottom: 200px;
+        background-position: center;
+        @extend %hidden, %rel;
+        @include breakpoint(max-xl) {
+            padding-block: 80px;
+        }
+        
+        .banner {
+            &__thumb {
+                @extend %rel;
+                z-index: 1;
+                >img {
+                    animation: tada 80s linear infinite;
+                    @include breakpoint(xl) {
+                        max-width: none;
+                    }
+                }
+            }
+        }
+        .shape {
+            &__item {
+                img {
+                    width: auto;
+                }
+                &:nth-child(1) {
+                    bottom: 45%;
+                    left: -5%;
+                    animation: flash 25s linear infinite;
+                }
+                &:nth-child(2) {
+                    right: 18%;
+                    top: -30%;
+                    animation: flash 30s linear infinite;
+                }
+                &:nth-child(3) {
+                    right: -5%;
+                    bottom: -30%;
+                    animation: flash 35s linear infinite;
+                }
+            }
+        }
+    }
+    &--five {
+        padding-block: 250px;
+        background: #F1F1F1;
+        @extend %hidden;
+        @include breakpoint(max-xl) {
+            padding-block: 130px;
+        }
+        @include breakpoint(lg) {
+            @include breakpoint(max-xxl) {
+                background-position: 80%;
+            }
+        }
+        .banner {
+            &__content {
+                h3 {
+                    @extend %white-color;
+
+                }
+                h2 {
+                    @extend %white-color, %text-400, %mb-15;
+                    span {
+                        @extend %text-600;
+
+                    }
+                }
+                p {
+                    @extend %white-color, %mb-30;
+                    line-height: 1.7;
+                    @include breakpoint(xl) {
+                        max-width: 90%;
+                    }
+                }
+            }
+            &__groupbtn {
+                @extend %flex;
+                gap: 30px;
+                .lab-btn {
+                    @extend %bg-theme5;
+                    padding: 11px 30px;
+                    &:hover {
+                        background: $white-color !important;
+                        @extend %theme-color5;
+                        i {
+                            @extend %theme-color5;
+                        }
+                    }
+                    &.text-btn {
+                        @extend %white-color;
+                        background: transparent;
+                        padding: 10px;
+                        i {
+                            @extend %mr-10, %white-color, %ml-0;
+                            @include font-size(24px);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &--six {
+        background: #FAF3E8;
+        @extend %hidden;
+        @include breakpoint(max-lg) {
+            padding-top: 150px !important;
+        }
+        .banner {
+            &__content {
+                @include breakpoint(lg) {
+                    margin-top: 60px;
+                }
+                h2 {
+                    @include font-size(60px);
+                    @extend %text-400;
+                    span {
+                        @extend %text-600;
+                    }
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 42px;
+                        }
+                    }
+                }
+                p {
+                    @extend %mb-30;
+                    line-height: 28px;
+                    @include breakpoint(xl) {
+                        max-width: 90%;
+                    }
+                }
+            }
+            &__groupbtn {
+                @extend %flex;
+                gap: 30px;
+                .lab-btn {
+                    @extend %bg-theme6;
+                    padding: 13px 16px;
+                    &:hover {
+                        @extend %bg-title;
+                    }
+                    i {
+                        @extend %mr-5, %white-color, %ml-0;
+                    }
+                    &.bg-title {
+                        @extend %white-color, %bg-title;
+                        &:hover {
+                            @extend %bg-theme6;
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %rel;
+                img {
+                    // animation: pulse 30s linear infinite;
+                    @include breakpoint(xl) {
+                        max-width: none;
+                        transform: translateY(50px);
+                    }
+                }
+            }
+        }
+        .shape {
+            @include breakpoint(max-xl) {
+                // display: block;
+            }
+            &__item {
+                img {
+                    width: auto;
+                }
+                &:nth-child(1) {
+                    top: 22%;
+                    left: 15%;
+                    animation: tada 8s linear infinite;
+                }
+                &:nth-child(2) {
+                    left: 30%;
+                    top: 35%;
+                    animation: tada 10s linear infinite;
+                }
+                &:nth-child(3) {
+                    right: -5%;
+                    top: 15%;
+                    animation: tada 12s linear infinite;
+                }
+                &:nth-child(4) {
+                    right: 12%;
+                    top: 25%;
+                    animation: tada 15s linear infinite;
+                }
+            }
+        }
+    }
+}
+
+
+.shape {
+    @include breakpoint(max-xl) {
+        display: none;
+    }
+    &__item {
+        @extend %abs;
+    }
+}

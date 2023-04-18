@@ -1,0 +1,88 @@
+.team {
+    @extend %bg-white;
+    &__item {
+        @extend %p-15, %text-center;
+        @include border-radius(4px);
+        box-shadow: 0px 0px 10px rgba(11, 34, 57, 0.1);
+        &:hover {
+            .team {
+                &__thumb {
+                    img {
+                        @include transform(scale(1.1));
+                    }
+                }
+                &__content {
+                    h5 {
+                        @extend %theme-color2;
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        @include border-radius(4px);
+        @extend %hidden;
+        img {
+            @extend %w-100, %h-100;
+            object-fit: cover;
+        }
+    }
+    &__content {
+        padding: 25px 0 15px;
+        h5 {
+            @extend %text-600, %mb-5;
+        }
+    }
+    &__social {
+        @extend %pb-15;
+        ul {
+            @extend %flex, %justify-center;
+            gap: 10px;
+            li {
+                @extend %d-inline-block;
+                a {
+                    @include font-size(20px);
+                }
+            }
+        }
+    }
+    &--two {
+        .team {
+            &__item {
+                @extend %p-0;
+                @include border-radius(10px);
+                box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                &:hover {
+                    .team {
+                        &__content {
+                            h5 {
+                                @extend %theme-color6;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                background: #FAF3E8;
+                @extend %pt-15;
+                img {
+                    width: auto;
+                    height: auto;
+                }
+            }
+            &__content {
+                @extend %pb-10;
+            }
+            &__social {
+                ul {
+                    li {
+                        a {
+                            @extend %theme-color6;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+}

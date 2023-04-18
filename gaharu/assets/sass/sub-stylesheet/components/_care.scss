@@ -1,0 +1,111 @@
+.care {
+    ul {
+        li {
+            @extend %flex;
+            padding-block: 15px;
+            @include breakpoint(xl) {
+                padding-block: 30px;
+            }
+            &:hover {
+                .care {
+                    &__thumb, &__icon {
+                        img {
+                            @include transform(scale(1.2));
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__icon {
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        box-shadow: 0px 6px 24px #D5D5D5;
+        @extend %text-center, %bg-theme;
+        @include border-radius(4px);
+    }
+    &__content {
+        width: calc(100% - 75px);
+        padding-left: 20px;
+        h5 {
+            @extend  %text-600, %mb-5;
+        }
+        p {
+            @include breakpoint(sm) {
+                // max-width: 90%;
+            }
+        }
+    }
+    &__thumb {
+        img {
+            animation: flash 40s linear infinite;
+            @include breakpoint(xl) {
+                max-width: none;
+                margin-left: -75px;
+            }
+        }
+    }
+}
+
+// htu
+.htu {
+    background-position: right;
+    @include breakpoint(lg) {
+        background-position: center;
+    }
+    &__content {
+        h3 {
+            span {
+                @extend %text-600;
+            }
+        }
+    }
+    &__lists {
+        ul {
+            li {
+                @extend %flex;
+                padding-block: 15px;
+                @include breakpoint(xl) {
+                    padding-block: 30px;
+                }
+                &:last-child {
+                    padding-bottom: 0;
+                }
+                &:hover {
+                    .htu {
+                        &__icon {
+                            img {
+                                @include transform(scale(1.2));
+                            }
+                        }
+                    }
+                }
+                .htu__content {
+                    width: calc(100% - 75px);
+                    padding-left: 20px;
+                    p {
+                        @extend %mb-0;
+                        @include breakpoint(sm) {
+                            max-width: 65%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__icon {
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        box-shadow: 0px 6px 24px #D5D5D5;
+        @extend %text-center, %bg-theme;
+        @include border-radius(4px);
+    }
+    &__content {
+        h5 {
+            @extend  %text-600, %mb-5;
+        }
+        p {}
+    }
+}

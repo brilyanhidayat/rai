@@ -1,0 +1,96 @@
+.cart {
+    &__top {
+        @include breakpoint(max-lg) {
+            overflow-x: auto;
+        }
+        table {
+            @extend %w-100, %text-600;
+            @include breakpoint(max-lg) {
+                width: 800px;
+            }
+            thead {
+                @extend %bg-white;
+                tr {
+                    th {
+                        @extend %border-none, %text-capitalize;
+                        border: .5px solid $border-color;
+                        margin-bottom: -1px;
+                        margin-right: -1px;
+                        padding: 20px 30px;
+                        &:nth-child(3) {
+                            @extend %text-center;
+                        }
+                        &:last-child {
+                            @extend %text-right;
+                        }
+                    }
+                }
+            }
+            tbody {
+                @extend %bg-white;
+                tr {
+                    &:nth-last-child(1){
+                        td {
+                            &:nth-child(1) {
+                                margin-bottom: 0;
+                            }
+                        }
+                    }
+                    td {
+                        padding: 20px 30px;
+                        border: .5px solid $border-color;
+                        margin-bottom: -1px;
+                        margin-right: -1px;
+                        &:last-child {
+                            @extend %text-center;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__bottom {
+        @extend %bg-white, %p-30;
+        border: 1px solid $border-color;
+        border-top: none;
+        form {
+            @extend %flex, %justify-between;
+            @include breakpoint(max-sm) {
+                gap: 15px;
+            }
+            input {
+                border: 1px solid rgba($title-color, $alpha: .1);
+                &::placeholder {
+                    @extend %text-capitalize;
+                }
+                @include breakpoint(sm) {
+                    width: calc(100% - 175px);
+                }
+            }
+            .lab-btn {
+                @extend %border-none, %bg-theme6;
+                &:hover {
+                    @extend %bg-title;
+                }
+            }
+        }
+    }
+    &__item {
+        @extend %flex, %mb-0, %align-items-center;
+        box-shadow: none;
+    }
+    &__thumb {
+        width: 60px;
+    }
+    &__content {
+        width: calc(100% - 60px);
+        @extend %text-left, %pl-10;
+        a {
+            @extend %title-color, %text-2;
+            @include transition($transition);
+            &:hover {
+                @extend %theme-color6;
+            }
+        }
+    }
+}

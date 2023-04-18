@@ -1,0 +1,174 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: $body-color;
+	font-family: $font_body;
+	scroll-behavior: auto !important;
+	scroll-behavior: smooth;
+}
+
+:root {
+	scroll-behavior: smooth;
+}
+
+/*--------------------------------------------------------------
+# Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+optgroup,
+textarea {
+	color: $desc-color;
+	font-size: $fs-base;
+	line-height: 1.5;
+	font-family: $font_body;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+a h1,
+a h2,
+a h3,
+a h4,
+a h5,
+a h6 {
+	clear: both;
+	@extend %text-400;
+	line-height: 1.3;
+	font-family: $font;
+	color: $title-color;
+	@extend %text-capitalize;
+	@include transition($transition);
+}
+
+h1 {
+	@include font-size(64px);
+}
+
+h2 {
+	@include font-size(50px);
+}
+
+h3 {
+	@include font-size(36px);
+}
+
+h4 {
+	@include font-size(30px);
+}
+
+h5 {
+	@include font-size(20px);
+}
+
+h6 {
+	@include font-size(18px);
+}
+
+// @include breakpoint(sm) {
+// 	h1 {
+// 		font-size: $fs-h1;
+// 	}
+
+// 	h2 {
+// 		font-size: $fs-h2;
+// 	}
+
+// 	h3 {
+// 		font-size: $fs-h3;
+// 	}
+
+// 	h4 {
+// 		font-size: $fs-h4;
+// 	}
+
+// 	h5 {
+// 		font-size: $fs-h5;
+// 	}
+
+// 	h6 {
+// 		font-size: $fs-h6;
+// 	}
+// }
+
+p {
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: $fs-base;
+	line-height: 1.7;
+}
+
+a {
+	color: $title-color;
+	@include transition($transition);
+	text-decoration: none;
+}
+
+a:visited {
+	outline: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+	text-decoration: none;
+	outline: none;
+}
+
+a:focus {
+	outline: thin dotted;
+	outline: none;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+	@include transition($transition);
+}
+
+select {
+	border: 1px solid $border-color;
+}
+
+ul {
+	@extend %p-0;
+	@extend %m-0;
+
+	li {
+		@extend %list-none;
+	}
+}
+
+
+input, textarea, select {
+	@extend %w-100, %p-15;
+	outline: none;
+	border: 1px solid rgba($white-color, $alpha: .1);
+  	background: rgba($white-color, $alpha: .1);
+	&::placeholder {
+		@extend %text-capitalize;
+	}
+}

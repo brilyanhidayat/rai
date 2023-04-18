@@ -1,0 +1,503 @@
+.sidebar {
+    .head {
+        @extend %p-20;
+        border-bottom: 1px solid $border-color;
+        @include breakpoint(sm) {
+            padding-inline: 30px;
+        }
+        h5 {
+            @extend %mb-0, %text-600;
+        }
+    }
+    .body {
+        ul {
+            padding-block: 15px;
+            li {
+                @extend %flex, %align-items-center ;
+                padding: 20px 20px;
+                border-bottom: 1px solid $border-color;
+                @include breakpoint(sm) {
+                    padding-inline: 30px;
+                }
+                &:last-child {
+                    border-bottom: none;
+                }
+                &:hover {
+                    .content {
+                        h5 {
+                            a {
+                                color: $theme-color6;
+                            }
+                        }
+                    }
+                }
+                .thumb {
+                    width: 40px;
+                }
+                .content {
+                    @extend %pl-15;
+                    width: calc(100% - 40px);
+                    h6 {
+                        @extend %mb-0;
+                        a {
+                            @extend %text-2;
+                        }
+                    }
+                    h5 {
+                        @include font-size(18px);
+                    }
+                    span {
+                        @extend %desc-color;
+                    }
+                }
+            }
+        }
+    }
+    &__author {
+        @extend %bg-white, %text-center, %p-30;
+        border: 1px solid $border-color;
+        .thumb {
+            width: 200px !important;
+            height: 200px;
+            border-radius: 100%;
+            margin-inline: auto;
+            @extend %hidden, %mb-25;
+        }
+        .content {
+            h5 {
+                @extend %mb-5, %text-600;
+            }
+            span {
+                @extend %d-block, %mb-10, %text-capitalize;
+            }
+            ul {
+                li {
+                    @extend %d-inline-block;
+                    a {
+                        @extend %d-inline-block, %bg-color, %title-color, %text-center;
+                        width: 30px;
+                        height: 30px;
+                        line-height: 30px;
+                        margin: 2px;
+                        @include font-size(13px);
+                        @include border-radius(100%);
+                        &:hover {
+                            @extend %white-color, %bg-theme6;
+                        }
+                    }
+                }
+            }
+        }
+        .body {
+            @extend %flex;
+            .thumb {
+                @extend %w-100;
+                @include breakpoint(sm) {
+                    width: 120px !important;
+                    height: 120px;
+                    margin-bottom: 0;
+                }
+                img {
+                    @extend %w-100, %h-100;
+                    object-fit: cover;
+                }
+            }
+            .content {
+                @extend %w-100, %text-left;
+                @include breakpoint(sm) {
+                    width: calc(100% - 135px);
+                    padding-left: 15px;
+                }
+                ul {
+                    li {
+                        @extend %d-inline-block, %border-none, %p-0, %m-0;
+                    }
+                }
+            }
+        }
+    }
+    &__search {
+        border: 1px solid $border-color;
+        @extend %bg-white;
+        .body {
+            @extend %p-20;
+            @include breakpoint(sm) {
+                padding: 30px;
+            }
+        }
+        form {
+            @extend %rel;
+            input {
+                @extend %p-15, %bg-white;
+                padding-right: 40px;
+            }
+            button {
+                @extend %abs;
+                top: 50%;
+                right: 10px;
+                border: none;
+                outline: none;
+                background-color: transparent;
+                @include transform(translateY(-50%));
+            }
+        }
+    }
+    &__recentpost {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            ul {
+                li {
+                    &:hover {
+                        .thumb {
+                            img {
+                                @include transform(scale(1.1));
+                            }
+                        }
+                        .content {
+                            h6 {
+                                a {
+                                    @extend %theme-color6;
+                                }
+                            }
+                        }
+                    }
+                    .thumb {
+                        width: 80px;
+                        @extend %hidden;
+                    }
+                    .content {
+                        width: calc(100% - 80px);
+                        h6 {
+                            @include font-size(1rem);
+                            a {
+                                @extend %text-600;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__categorie {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            ul {
+                li {
+                    @extend %flex, %justify-between;
+                    margin: 0;
+                    &:hover {
+                        a, span {
+                            @extend %theme-color6;
+                        }
+                    }
+                    a {
+                        i {
+                            @extend %mr-5, %desc-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__tags {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            @extend %p-20;
+            @include breakpoint(sm) {
+                padding: 30px;
+            }
+            ul {
+                padding-block: 0;
+                li {
+                    display: inline-block;
+                    padding: 0;
+                    border: none;
+                    margin-block: 0 !important;
+                    a {
+                        padding: 8px;
+                        border: 1px solid $border-color;
+                        margin: 5px;
+                        @extend %text-capitalize, %d-inline-block;
+                        &:hover {
+                            @extend %white-color;
+                            background-color: $theme-color6;
+                            border-color: $theme-color6;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__comment {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            ul {
+                li {
+                    align-items: flex-start;
+                    .thumb {
+                        width: 80px;
+                        margin-bottom: 15px;
+                        @include breakpoint(sm) {
+                            width: 80px !important;
+                            margin-bottom: 0;
+                        }
+                    }
+                    .content {
+                        width: 100%;
+                        padding-left: 0;
+                        @include breakpoint(sm) {
+                            width: calc(100% - 80px);
+                            padding-left: 15px;
+                        }
+                        &__top {
+                            @extend %flex, %justify-between, %align-items-center, %mb-10 ;
+                            gap: 10px;
+                            .name {
+                                h6 {
+                                    @extend %mb-5, %text-600;
+                                }
+                            }
+                        }
+                        .reply {
+                            @include breakpoint(max-sm) {
+                                margin: 10px 0 15px;
+                            }
+                            a {
+                                @extend %white-color, %text-capitalize;
+                                padding: 5px 15px;
+                                background-color: $theme-color6;
+                                @include font-size(14px);
+                                &:hover {
+                                    @extend %bg-title;
+                                }
+                            }
+                        }
+                    }
+                    ul {
+                        li {
+                            border-top: 1px solid $border-color;
+                            border-bottom: none;
+                            @include breakpoint(max-sm) {
+                                padding-inline: 0;
+                            }
+                            &:last-child {
+                                margin-bottom: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__commentForm {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        form {
+            @extend %flex, %justify-between, %p-30;
+            input, textarea {
+                border: 1px solid rgba($title-color, $alpha: .1);
+                @extend %mb-30;
+            }
+            input {
+                @extend %w-100;
+                @include breakpoint(sm) {
+                    width: calc(100% / 2 - 15px);
+                }
+            }
+            button {
+                @extend %border-none, %bg-theme6;
+            }
+        }
+    }
+    &__relatedpost {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            @extend %p-20;
+            @include breakpoint(sm) {
+                padding: 30px;
+            }
+            ul {
+                @extend %flex, %justify-between;
+                gap: 15px;
+                li {
+                    @extend %w-100;
+                    border: none;
+                    padding: 0;
+                    margin: 0;
+                    @include breakpoint(sm) {
+                        width: calc(100% / 2 - 15px);
+                    }
+                    &:hover {
+                        .thumb {
+                            img {
+                                @include transform(scale(1.1));
+                            }
+                        }
+                        .content {
+                            h6 {
+                                a {
+                                    @extend %theme-color6;
+                                }
+                            }
+                        }
+                    }
+                    .thumb {
+                        width: 100px;
+                        @extend %hidden;
+                        img {
+                            @extend %w-100;
+                        }
+                    }
+                    .content {
+                        width: calc(100% - 100px);
+                        h6 {
+                            a {
+                                @extend %text-600;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__recentproduct {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+        .body {
+            ul {
+                li {
+                    &:hover {
+                        .thumb {
+                            img {
+                                @include transform(scale(1.1));
+                            }
+                        }
+                        .content {
+                            h6 {
+                                a {
+                                    @extend %theme-color6;
+                                }
+                            }
+                        }
+                    }
+                    .thumb {
+                        width: 80px;
+                        @extend %hidden;
+                    }
+                    .content {
+                        width: calc(100% - 80px);
+                        h6 {
+                            @include font-size(1rem);
+                            @extend %text-1;
+                        }
+                        .price {
+                            @extend %mb-0;
+                        }
+                        .rating {
+                            span {
+                                @include font-size(12px);
+                                @extend %theme-color6;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__cartamount {
+        // @extend %bg-white;
+        border: 1px solid $border-color;
+    }
+    &__subtotal {
+        @extend %flex, %justify-between;
+        padding: 20px 30px;
+        border-bottom: 1px solid rgba($title-color, $alpha: .1);
+        p {
+            @extend %mb-0, %text-capitalize, %text-700;
+        }
+        span {
+            @extend %theme-color6;
+        }
+    }
+    &__shipping {
+        @extend %p-30, %pb-25;
+        p {
+            @extend %text-capitalize, %text-700;
+        }
+        
+    }
+    &__radiolist {
+        .form-check {
+            padding-block: 5px;
+            input {
+                @extend %p-5, %bg-body;
+                box-shadow: none;
+                :focus {
+                    outline: none;
+                }
+                &:checked {
+                    background-color: $theme-color6;
+                    border-color: $theme-color6;
+                    border-width: 2px;
+                    box-shadow: 0 0 5px rgba($title-color, $alpha: .1);
+                }
+            }
+            .formcheck {
+                @extend %flex, %justify-between;
+                label {
+                    @extend %text-capitalize;
+                }
+                span {
+                    @extend %title-color;
+                }
+            }
+        }
+    }
+    &__calculate {
+        padding-inline: 30px;
+        @extend %mb-15;
+        p {
+            @extend %text-capitalize, %text-700;
+        }
+        select, input {
+            border: 1px solid $border-color;
+            @extend %mb-20;
+            &::placeholder {
+                @extend %text-capitalize;
+            }
+        }
+        button {
+            @extend %text-center, %bg-body, %title-color, %border-none, %d-block, %text-capitalize;
+            padding: 10px 30px;
+            @include transition($transition);
+            &:hover {
+                @extend %bg-theme6, %white-color;
+            }
+        }
+    }
+    &__totalamaunt {
+        @extend %p-30;
+        .top {
+            @extend %flex, %justify-between, %mb-15;
+            p {
+                @extend %text-capitalize, %text-700;
+            }
+            span {
+                @extend %theme-color6;
+            }
+        }
+        .bottom {
+            .lab-btn {
+                @extend %bg-theme6;
+                &:hover {
+                    @extend %bg-title;
+                }
+            }
+        }
+    }
+}

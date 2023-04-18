@@ -1,0 +1,167 @@
+.about {
+    padding-top: 80px;
+    @extend %hidden;
+    &__content {
+        h3 {
+            @extend %mb-20;
+            span {
+                @extend %text-700;
+            }
+        }
+        p {
+            @include breakpoint(xl) {
+                // max-width: 88%;
+            }
+        }
+        .lab-btn {
+            @extend %mt-30;
+        }
+    }
+    &--one {
+        .about {
+            &__content {
+                @include breakpoint(lg) {
+                    margin-top: -80px;
+                }
+            }
+            &__thumb {
+                @include transition($transition);
+                @include breakpoint(lg) {
+                    // transform: translateX(50px);
+                    margin-right: -50px;
+                }
+            }
+        }
+    }
+    &--two {
+        // background: #F5F5F5;
+        .about {
+            &__content {
+                h6 {
+                    @extend %theme-color2, %text-500;
+                }
+                p {
+                    @include breakpoint(xl) {
+                        // max-width: 95%;
+                    }
+                }
+                ul {
+                    @extend %flex;
+                    gap: 15px;
+                    margin-top: 40px;
+                    li {
+                        @extend %flex;
+                        @include breakpoint(xl) {
+                            width: calc(100% / 2 - 15px);
+                        }
+                        &:hover {
+                            .thumb {
+                                img {
+                                    @include transform(scaleX(-1));
+                                }
+                            }
+                        }
+                        .thumb {
+                            width: 60px;
+                            img {
+                                box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                                @extend %hidden;
+                                @include border-radius(8px);
+                            }
+                        }
+                        .content {
+                            width: calc(100% - 60px);
+                            @extend %pl-20;
+                            h6 {
+                                @extend %title-color, %text-600;
+                            }
+                            p {
+                                @include breakpoint(xl) {
+                                    max-width: 100%;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .shape {
+            &__item {
+                &:nth-child(1) {
+                    bottom: -35%;
+                    right: -40%;
+                    animation: pulse 10s linear infinite;
+                }
+                &:nth-child(2) {
+                    top: 0;
+                    right: -15%;
+                    animation: tada 10s linear infinite;
+                }
+                img {}
+            }
+        }
+    }
+    &--three {
+        @extend %bg-title2;
+        .about {
+            &__thumb {}
+            &__content {
+                h3 {
+                    @extend %white-color;
+                }
+                p {
+                    @extend %white-color;
+                    line-height: 1.7;
+                }
+            }
+            &__lists {
+                li {
+                    @extend %white-color;
+                    padding-block: 5px;
+                    i {
+                        @extend %mr-5;
+                    }
+                }
+            }
+        }
+        
+        .counter {
+            background: transparent !important;
+            @extend %flex, %mt-30;
+            justify-content: space-between;
+            @include breakpoint(max-sm) {
+                gap: 30px;
+            }
+            li {
+                @extend %d-inline-block;
+                h3 {
+                    @extend %mb-5;
+                    @include font-size(36px);
+                }
+                >span {
+                    @extend %d-inline-block, %text-700, %white-color;
+                    @include font-size(24px);
+                }
+                p {
+                    @extend %white-color, %mb-0;
+                }
+            }
+        }
+    }
+    &--four {
+        background: #FAF3E8;
+        .about {
+            &__content {
+                p {
+                    line-height: 1.7;
+                }
+                .lab-btn {
+                    @extend %bg-theme6;
+                    &:hover {
+                        @extend %bg-title;
+                    }
+                }
+            }
+        }
+    }
+}

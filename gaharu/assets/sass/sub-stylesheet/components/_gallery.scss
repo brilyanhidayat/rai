@@ -1,0 +1,35 @@
+.gallery {
+    @extend %bg-white;
+    &__item {}
+    &__thumb {
+        @extend %hidden;
+        @include border-radius(8px);
+        &:hover {
+            a {
+                img {
+                    transform: scale(1.2);
+                }
+            }
+        }
+        a {
+            @extend %d-block;
+            img {
+                @extend %w-100, %hidden;
+                @include border-radius(8px);
+            }
+        }
+    }
+    &--two {
+        @extend %bg-title2;
+        .gallery {
+
+        }
+        .section {
+            &__header {
+                h3, p {
+                    @extend %white-color;
+                }
+            }
+        }
+    }
+}

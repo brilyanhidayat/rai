@@ -1,0 +1,217 @@
+.appointment {
+    @extend %bg-theme2;
+    padding-block: 80px;
+    &__thumb {
+        @extend %rel, %h-100;
+        img {
+            @extend %abs;
+            bottom: -50%;
+            left: 20%;
+        }
+    }
+    &__form {
+        h4 {
+            @extend %text-600;
+        }
+    }
+    &__content {
+        h2 {
+            @extend %white-color, %text-600, %mb-30;
+            @include font-size(50px);
+        }
+        .lab-btn {
+            @extend %bg-white, %theme-color2;
+            &:hover {
+                @extend %white-color;
+            }
+        }
+    }
+    &--two {
+        background: $title-color2;
+        @extend %rel;
+        &::after {
+            @extend %abs, %d-none;
+            width: 340px;
+            height: 100%;
+            bottom: 0;
+            right: 10%;
+            background: url(../../assets/images/appointment/02.png) no-repeat;
+            background-position: bottom;
+            @include breakpoint(lg) {
+                display: block;
+                @include breakpoint(max-xxl) {
+                    right: 0;
+                }
+            }
+        }
+        .appointment {
+            &__content {
+                h4 {
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 22px;
+                        }
+                    }
+                }
+            }
+            &__form {
+                z-index: 1;
+                @extend %p-30, %bg-white, %rel;
+                @include border-radius(8px);
+                @include breakpoint(lg) {
+                    max-width: 80%;
+                }
+                h4 {
+                    @extend %mb-30;
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 22px;
+                        }
+                    }
+                    @include breakpoint(xl) {
+                        @include breakpoint(max-xxl) {
+                            font-size: 28px;
+                        }
+                    }
+                }
+                form {
+                    input, select {
+                        @extend %mb-30, %bg-ash;
+                        &::placeholder {
+                            // color: rgba($title-color, $alpha: .9);
+                        }
+                    }
+                    select {
+                        // @extend %title-color;
+                        option {
+                            @extend %title-color;
+                        }
+                    }
+                    .lab-btn {
+                        border: none;
+                        @extend %bg-theme5;
+                        &:hover {
+                            @extend %bg-title;
+                        }
+                    }
+                }
+            }
+            
+        }
+        .section {
+            &__header {
+                h3, p {
+                    @extend %white-color;
+                }
+                p {
+                    @include breakpoint(xl) {
+                        max-width: 550px;
+                    }
+                }
+            }
+            &__wrapper {
+                ul {
+                    li {
+                        @extend %flex;
+                        padding-block: 15px;
+                        .icon {
+                            width: 60px;
+                        }
+                        .text {
+                            width: calc(100% - 60px);
+                            @extend %pl-15;
+                            p {
+                                @extend %mb-0, %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &--three {
+        background: #FAF3E8;
+        @extend %rel, %hidden;
+        &::after {
+            @extend %abs, %d-none;
+            width: 450px;
+            height: 100%;
+            bottom: 0;
+            right: 5%;
+            background: url(../../assets/images/appointment/03.png) no-repeat;
+            background-position: bottom;
+            @include breakpoint(lg) {
+                display: block;
+                @include breakpoint(max-xl) {
+                    right: -15%;
+                }
+            }
+        }
+        .appointment {
+            &__form {
+                z-index: 1;
+                @extend %p-30, %bg-white, %rel;
+                @include border-radius(8px);
+                @include breakpoint(lg) {
+                    max-width: 80%;
+                }
+                h4 {
+                    @extend %mb-30, %text-600;
+                    @include font-size(26px);
+                    @include breakpoint(lg) {
+                        @include breakpoint(max-xl) {
+                            font-size: 22px;
+                        }
+                    }
+                }
+                form {
+                    input, select {
+                        @extend %mb-30, %bg-ash;
+                    }
+                    select {
+                        option {
+                            @extend %title-color;
+                        }
+                    }
+                    .lab-btn {
+                        border: none;
+                        @extend %bg-theme5;
+                        &.bg-theme6 {
+                            &:hover {
+                                background: $title-color !important;
+                            }
+                        }
+                    }
+                }
+            }
+            
+        }
+        .section {
+            &__header {
+                p {
+                    @include breakpoint(xl) {
+                        max-width: 550px;
+                    }
+                }
+            }
+            &__wrapper {
+                ul {
+                    li {
+                        @extend %flex;
+                        padding-block: 15px;
+                        .icon {
+                            width: 60px;
+                        }
+                        .text {
+                            width: calc(100% - 60px);
+                            @extend %pl-15;
+                            p {
+                                @extend %mb-0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

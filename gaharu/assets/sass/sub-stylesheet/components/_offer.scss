@@ -1,0 +1,110 @@
+.offer {
+    @extend %rel, %bg-white;
+    &__content {
+        @extend %rel;
+        z-index: 1;
+        h2 {
+            @extend %mb-15;
+            span {
+                @extend %text-600;
+            }
+        }
+        p {
+            @extend %mb-30;
+            line-height: 28px;
+            @include breakpoint(xl) {
+                max-width: 80%;
+            }
+        }
+    }
+    &--one {
+        @extend %rel;
+        &::after {
+            @extend %abs, %d-none;
+            width: 50%;
+            height: 100%;
+            top: 50%;
+            left: 0;
+            @include transform(translateY(-50%));
+            background: url(../../assets/images/bg/01.png) no-repeat;
+            background-position: 0% 15%;
+            background-size: cover;
+            @include breakpoint(lg) {
+                display: block;
+                @include breakpoint(max-xl) {
+                    background-position: 100% 15%;
+                    top: 60%;
+                }
+            }
+        }
+        .offer {
+            &__content {
+                @include breakpoint(lg) {
+                    // margin-top: 80px;
+                }
+            }
+        }
+    }
+    &--two {
+        background: #F5F5F5;
+        &::after {
+            display: none !important;
+        }
+        .offer {
+            &__content {
+                h2 {
+                    @extend %text-600;
+                    @include breakpoint(xxl) {
+                        max-width: 96%;
+                    }
+                }
+
+            }
+            &__groupbtn {
+                @extend %flex;
+                gap: 15px;
+                .lab-btn {
+                    @extend %bg-theme3, %white-color;
+                    &:hover {
+                        background: $title-color !important;
+                    }
+                    &.bg-white {
+                        @extend %theme-color3;
+                        box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                        i {
+                            @extend %m-0;
+                        }
+                        &:hover {
+                            @extend %white-color;
+                            background: $theme-color3 !important;
+                            i {
+                                @extend %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                animation: pulse 15s linear infinite;
+                @include breakpoint(lg) {
+                    text-align: right;
+                }
+            }
+        }
+    }
+    &--three {
+        &::after {
+            display: none !important;
+        }
+        .offer {
+            &__thumb {
+                a {
+                    @extend %d-block;
+                    img {
+                        @extend %w-100;
+                    }
+                }
+            }
+        }
+    }
+}

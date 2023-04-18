@@ -1,0 +1,392 @@
+.product {
+    &__item {
+        box-shadow: 0px 0px 24px rgba(178, 180, 187, 0.42);
+        padding: 30px 15px;
+        @extend %text-center, %bg-white;
+        @include border-radius(6px);
+        &:hover {
+            .product {
+                &__thumb {
+                    img {
+                        @include transform(scaleX(-1.0));
+                    }
+                }
+                &__content {
+                    h5 {
+                        a {
+                            @extend %theme-color;
+                        }
+                    }
+                    .lab-btn {
+                        @extend %bg-theme, %white-color;
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        @extend %mb-30, %hidden;
+    }
+    &__content {
+        h5 {
+            @extend %text-600;
+            a {
+                @extend %text-600;
+            }
+        }
+    }
+    &__rating {
+        @extend %mb-5;
+        ul {
+            li {
+                @extend %d-inline-block, %theme-color;
+                span {
+                    @extend %title-color;
+                }
+            }
+        }
+    }
+    &__price {
+        @extend %d-block, %theme-color, %mb-15;
+        del {
+            @extend %desc-color;
+        }
+    }
+    .lab-btn {
+        @extend %theme-color;
+        padding: 8px 18px;
+        border: 2px solid $theme-color;
+    }
+    &--two {
+        background: #FFF7F0;
+        .section {
+            &__header {
+                @extend %flex, %justify-between, %align-items-center;
+                max-width: 100%;
+                .left {}
+                .right {
+                    @extend %flex;
+                    justify-content: flex-end;
+                    gap: 15px;
+                    @include breakpoint(max-sm) {
+                        margin-top: 30px;
+                    }
+                    .product {
+                        &__slider {
+                            &--next, &--prev {
+                                width: 40px;
+                                height: 40px;
+                                line-height: 40px;
+                                @extend %text-center, %bg-theme3, %white-color;
+                                @include border-radius(4px);
+                                @include transition($transition);
+                                &:hover {
+                                    @extend %bg-title;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .product {
+            &__slider {
+                @extend %hidden, %p-20;
+            }
+            &__item {
+                @extend %p-15;
+                box-shadow: none;
+                @include transition($transition);
+                &:hover {
+                    box-shadow: 0px 0px 24px rgba(178, 180, 187, 0.42);
+                    .product {
+                        &__thumb {
+                            img {}
+                        }
+                        &__content {
+                            h5 {
+                                a {
+                                    @extend %theme-color3;
+                                }
+                            }
+                            .lab-btn {
+                                @extend %bg-theme3, %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                background: #FFF7F0;
+                @extend %mb-15;
+                height: 230px;
+                line-height: 230px;
+            }
+            &__content {
+                @extend %p-15, %text-left;
+            }
+            &__rating {
+                ul {
+                    li {
+                        @extend %theme-color3;
+                        span {
+                            @include font-size(12px);
+                        }
+                    }
+                }
+            }
+            &__price {
+                @extend %theme-color3;
+            }
+        }
+        
+        .lab-btn {
+            @extend %theme-color3;
+            border-color: $theme-color3;
+        }
+    }
+    &--three {
+        background: #FFF7F0;
+        .section {
+            &__header {
+                max-width: 100%;
+            }
+        }
+        .product {
+            &__item {
+                @extend %p-0;
+                box-shadow: none;
+                background: transparent;
+                @include transition($transition);
+                &:hover {
+                    .product {
+                        &__thumb {
+                            img {}
+                        }
+                        &__content {
+                            h6 {
+                                a {
+                                    @extend %theme-color3;
+                                }
+                            }
+                            .lab-btn {
+                                @extend %bg-theme3, %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                margin-bottom: -65px;
+                @extend %rel;
+                z-index: 1;
+                height: 170px;
+                line-height: 170px;
+            }
+            &__content {
+                @extend %p-30, %text-left, %bg-white, %rel;
+                padding-top: 70px;
+                box-shadow: 0px 6px 24px #E6E6E6;
+                @include border-radius(8px);
+                h6 {
+                    a {
+                        @extend %text-600;
+                    }
+                }
+            }
+            &__rating {
+                span {
+                    @extend %text-capitalize;
+                }
+                ul {
+                    @extend %d-inline-block;
+                    li {
+                        @extend %theme-color3;
+                    }
+                }
+            }
+            &__price {
+                @extend %title-color, %mb-0;
+                b {
+                    @extend %theme-color3;
+                }
+            }
+        }
+        
+        .lab-btn {
+            @extend %white-color, %bg-theme3, %abs, %text-center;
+            border-color: $theme-color3;
+            padding: 0px;
+            bottom: 30px;
+            right: 30px;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            @include font-size(20px);
+            @include border-radius(100%);
+            i {
+                @extend %white-color, %m-0;
+            }
+            &:hover {
+                background: $title-color !important;
+                border-color: $title-color;
+            }
+        }
+    }
+    &--four {
+        background: #f8f8f8;
+        .section {
+            &__header {
+                max-width: 100%;
+            }
+        }
+        .product {
+            &__item {
+                @extend %p-15;
+                // @include transition($transition);
+                &:hover {
+                    .lab-btn {
+                        opacity: 1;
+                    }
+                    .product {
+                        &__thumb {
+                            img {}
+                        }
+                        &__content {
+                            h6 {
+                                a {
+                                    @extend %theme-color3;
+                                }
+                            }
+                            .lab-btn {
+                                @extend %bg-theme3, %white-color;
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %mb-15;
+                height: 287px;
+                line-height: 287px;
+                // background: #F8F8F8;
+                a {
+                    @extend %d-block, %h-100;
+                }
+                img {
+                    @extend %w-100, %h-100;
+                    object-fit: cover;
+                    object-position: center;
+                }
+            }
+            &__content {
+                @extend %text-left, %rel, %p-15;
+                h6 {
+                    a {
+                        @extend %text-600, %text-2;
+                    }
+                }
+                .dot {
+                    @extend %flex, %mt-10;
+                    gap: 5px;
+                    &__list {
+                        width: 12px;
+                        height: 12px;
+                        background: rgba($title-color, $alpha: .1);
+                        @extend %d-inline-block, %pointer;
+                        @include border-radius(100%);
+                    }
+                }
+            }
+            &__price {
+                @extend %theme-color4, %mb-0;
+            }
+        }
+        
+        .lab-btn {
+            @extend %white-color, %bg-theme3, %abs, %text-center;
+            border-color: $theme-color3;
+            padding: 0px;
+            bottom: 15px;
+            right: 15px;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            opacity: 0;
+            @include font-size(20px);
+            @include border-radius(100%);
+            @include transition($transition);
+            i {
+                @extend %white-color, %m-0;
+            }
+            &:hover {
+                background: $title-color !important;
+                border-color: $title-color;
+            }
+        }
+    }
+    &--five {
+        &.pt-0 {
+            padding-top: 0 !important;
+        }
+        .section {
+            &__header {
+                p {
+                    max-width: 540px;
+                }
+            }
+            &__wrapper {
+                ul {
+                    @extend %border-none;
+                    li {
+                        @extend %d-block, %w-100;
+                        @include transition($transition);
+                        &:hover {
+                            @extend %pl-15;
+                        }
+                        .nav-link {
+                            @extend %flex, %border-none, %pointer;
+                            padding: 0;
+                            padding-block: 15px;
+                            @include transition($transition);
+                            // &.active {
+                            //     @extend %pl-15, %bg-ash;
+
+                            // }
+                        }
+                        
+                        .thumb {
+                            width: 70px;
+                            height: 70px;
+                            @extend %hidden;
+                            @include border-radius(100%);
+                            img {}
+                        }
+                        .content {
+                            width: calc(100% - 70px);
+                            @extend %pl-30;
+                            h6 {
+                                @extend %text-600;
+                            }
+                            p {
+                                @include breakpoint(lg) {
+                                    max-width: 350px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .product {
+            
+            &__thumb {
+                @include border-radius(10px);
+                @extend %hidden;
+                img {
+                    @extend %w-100;
+                }
+            }
+        }
+    }
+}

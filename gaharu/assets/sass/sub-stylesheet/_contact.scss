@@ -1,0 +1,56 @@
+.contact {
+    .section__header {
+        @include breakpoint(xl) {
+            max-width: 800px;
+        }
+    }
+    form {
+        input, textarea {
+            // @extend %bg-white;
+            border: 1px solid $border-color;
+        }
+        .lab-btn {
+            @extend %bg-theme6;
+            &:hover {
+                @extend %bg-title;
+            }
+        }
+    }
+    
+    &__item {
+        @extend %text-center, %bg-ash;
+        padding: 60px 30px;
+        &:hover {
+            .contact {
+                &__icon {
+                    @include transform(scaleX(-1));
+                }
+            }
+        }
+    }
+    &__icon {
+        @extend %text-center, %bg-white, %theme-color6;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        margin: 0 auto 30px;
+        @include font-size(24px);
+        @include border-radius(100%);
+        @include transition($transition);
+        box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+    }
+    &__content {
+        h5 {
+            @extend %mb-20, %text-600;
+        }
+        p {
+            @extend %mb-0;
+            span {
+                @extend %d-block;
+            }
+            b {
+                @extend %d-block, %text-400;
+            }
+        }
+    }
+}

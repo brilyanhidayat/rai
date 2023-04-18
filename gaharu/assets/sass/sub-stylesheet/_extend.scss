@@ -1,0 +1,611 @@
+/*!
+Template Name: Haldaa
+Template Url: 
+Author: labartisan.net
+Author Url: 
+Description: Description
+Version: 1.0.0
+Text Domain: haldaa
+Tags: accountant, advertising, adviser, agency, broker, consultant, consulting, figma-template, finance, insurance, multipurpose
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Global CSS
+# Header CSS
+# Page Header
+# Banner
+# Main
+# Blog
+# Blog Widget
+# Contact Us
+#Footer
+--------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+/* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
+%flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+%rel, %p-rel {
+    position: relative;
+}
+%fixed, %p-fixed {
+    position: fixed;
+}
+
+%abs, %p-abs {
+    position: absolute;
+    content: "";
+}
+
+%mp-0 {
+    padding: 0;
+    margin: 0;
+}
+
+%hidden, %of-hidden {
+    overflow: hidden;
+}
+
+%pointer {
+    cursor: pointer;
+}
+
+%w-100 {
+    width: 100%;
+}
+
+%h-100 {
+    height: 100%;
+}
+
+
+%text-900 {
+    font-weight: 900;
+}
+%text-800 {
+    font-weight: 800;
+}
+%text-700 {
+    font-weight: 700;
+}
+%text-600 {
+    font-weight: 600;
+}
+%text-500 {
+    font-weight: 500;
+}
+%text-400 {
+    font-weight: 400;
+}
+
+%center {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+%justify-center {
+    justify-content: center;
+}
+
+%justify-between {
+    justify-content: space-between;
+}
+
+%justify-start {
+    justify-content: flex-start;
+}
+
+%align-items-center {
+    align-items: center;
+}
+%z-index-1 {
+    z-index: 1;
+}
+%bg-body {
+    background: $body-color;
+}
+
+/* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
+
+%text-clamp-3, %text-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    @extend %hidden;
+    text-overflow: ellipsis;
+}
+
+%text-clamp-2, %text-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    @extend %hidden;
+    text-overflow: ellipsis;
+}
+
+%text-clamp-1, %text-1 {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    @extend %hidden;
+    text-overflow: ellipsis;
+}
+
+
+%d-none {
+    display: none;
+}
+
+%d-block {
+    display: block;
+}
+
+%d-inline-block {
+    display: inline-block;
+}
+
+%border-radius-2 {
+    border-radius: 2px;
+}
+
+/* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
+
+%border-none {
+    border: none;
+}
+
+%text-capitalize {
+    text-transform: capitalize;
+}
+
+%text-uppercase {
+    text-transform: uppercase;
+}
+%text-lowercase {
+    text-transform: lowercase;
+}
+
+
+/* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
+%white-color {
+    color: $white-color;
+}
+
+%black-color {
+    color: $black-color;
+}
+
+%bg-white {
+    background-color: $white-color;
+}
+
+%bg-color {
+    background-color: $bg-color;
+}
+
+%title-color {
+    color: $title-color;
+}
+
+%title-color2 {
+    color: $title-color2;
+}
+%title-color3 {
+    color: $title-color3;
+}
+
+%bg-title {
+    background: $title-color;
+}
+%bg-title2 {
+    background: $title-color2;
+}
+%bg-title3 {
+    background: $title-color3;
+}
+
+%theme-color {
+    color: $theme-color;
+}
+%theme-color2 {
+    color: $theme-color2;
+}
+%theme-color3 {
+    color: $theme-color3;
+}
+%theme-color4 {
+    color: $theme-color4;
+}
+%theme-color5 {
+    color: $theme-color5;
+}
+%theme-color6 {
+    color: $theme-color6;
+}
+
+%bg-theme {
+    background: $theme-color;
+}
+%bg-theme2 {
+    background: $theme-color2;
+}
+%bg-theme3 {
+    background: $theme-color3;
+}
+%bg-theme4 {
+    background: $theme-color4;
+}
+%bg-theme5 {
+    background: $theme-color5;
+}
+%bg-theme6 {
+    background: $theme-color6;
+}
+
+%border-color {
+    color: $border-color;
+}
+
+%bg-border {
+    background: $border-color;
+}
+
+%desc-color {
+    color: $desc-color;
+}
+
+%bg-desc {
+    background: $desc-color;
+}
+
+%ash-color {
+    color: $ash-color;
+}
+
+%bg-ash {
+    background: $ash-color;
+}
+
+
+%text-center {
+    text-align: center;
+}
+%text-right {
+    text-align: right;
+}
+%text-left {
+    text-align: left;
+}
+
+%list-none {
+    list-style: none;
+}
+
+/* @@@@@@@@@@@@@  Extend Property Margin 10 - 30 CSS Writing Now  @@@@@@@@@@@@@@ */
+%m-0 {
+    margin: 0;
+}
+
+%m-30 {
+    margin: 30px;
+}
+
+%mb-0 {
+    margin-bottom: 0px;
+}
+
+%mb-10 {
+    margin-bottom: 10px;
+}
+
+%mb-25 {
+    margin-bottom: 25px;
+}
+
+%mt-10 {
+    margin-top: 10px;
+}
+
+%ml-0 {
+    margin-left: 0;
+}
+
+%ml-5 {
+    margin-left: 5px;
+}
+
+%ml-10 {
+    margin-left: 10px;
+}
+
+%mr-0 {
+    margin-right: 0;
+}
+
+%mr-5 {
+    margin-right: 5px;
+}
+
+%mr-10 {
+    margin-right: 10px;
+}
+
+%mb-15 {
+    margin-bottom: 15px;
+}
+
+%mt-0 {
+    margin-top: 0;
+}
+
+%mt-15 {
+    margin-top: 15px;
+}
+
+%mt-25 {
+    margin-top: 25px;
+}
+
+%ml-15 {
+    margin-left: 15px;
+}
+
+%mr-15 {
+    margin-right: 15px;
+}
+
+%mb-20 {
+    margin-bottom: 20px;
+}
+
+%mt-20 {
+    margin-top: 20px;
+}
+
+%ml-20 {
+    margin-left: 20px;
+}
+
+%mr-20 {
+    margin-right: 20px;
+}
+
+%mb-0 {
+    margin-bottom: 0px;
+}
+%mb-5 {
+    margin-bottom: 5px;
+}
+
+%mb-30 {
+    margin-bottom: 30px;
+}
+
+%mb-30-none {
+    margin-bottom: -30px;
+}
+
+%mt-30 {
+    margin-top: 30px;
+}
+
+%ml-30 {
+    margin-left: 30px;
+}
+
+%mr-30 {
+    margin-right: 30px;
+}
+
+%my-0 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+%my-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+%my-15 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+%my-20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+%my-25 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+%my-30 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+%mx-0 {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+%mx-10 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+%mx-15 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+%mx-20 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+%mx-25 {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+%mx-30 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+/* @@@@@@@@@@@@@  Extend Property padding 10 - 30 CSS Writing Now  @@@@@@@@@@@@@@ */
+%p-0 {
+    padding: 0;
+}
+
+%p-5 {
+    padding: 5px;
+}
+
+%p-10 {
+    padding: 10px;
+}
+
+%p-15 {
+    padding: 15px;
+}
+
+%p-20 {
+    padding: 20px;
+}
+%p-20-10{
+    padding: 20px 10px;
+}
+
+%p-30 {
+    padding: 30px;
+}
+
+%pb-0 {
+    padding-bottom: 0;
+}
+
+%pb-5 {
+    padding-bottom: 5px;
+}
+
+%pb-10 {
+    padding-bottom: 10px;
+}
+%pb-25 {
+    padding-bottom: 25px;
+}
+
+%pt-0 {
+    padding-top: 0;
+}
+
+%pt-5 {
+    padding-top: 5px;
+}
+
+%pt-10 {
+    padding-top: 10px;
+}
+
+%pl-0 {
+    padding-left: 0;
+}
+
+%pl-5 {
+    padding-left: 5px;
+}
+
+%pl-10 {
+    padding-left: 10px;
+}
+
+%pl-20 {
+    padding-left: 20px;
+}
+
+%pr-5 {
+    padding-right: 5px;
+}
+
+%pr-10 {
+    padding-right: 10px;
+}
+
+%pb-15 {
+    padding-bottom: 15px;
+}
+
+%pt-15 {
+    padding-top: 15px;
+}
+
+%pl-15 {
+    padding-left: 15px;
+}
+
+%pr-15 {
+    padding-right: 15px;
+}
+
+%pb-20 {
+    padding-bottom: 20px;
+}
+
+%pt-20 {
+    padding-top: 20px;
+}
+
+%pl-20 {
+    padding-left: 20px;
+}
+
+%pr-20 {
+    padding-right: 20px;
+}
+
+%pb-30 {
+    padding-bottom: 30px;
+}
+
+%pt-30 {
+    padding-top: 30px;
+}
+
+%pl-30 {
+    padding-left: 30px;
+}
+
+%pr-30 {
+    padding-right: 30px;
+}
+%m-10 {
+    margin: 10px;
+}
+%m-5 {
+    margin: 5px;
+}
+%mb-40 {
+    margin-bottom: 40px;
+}

@@ -1,0 +1,336 @@
+.testimonial {
+    &--one {
+        .section__header {
+            h2 {
+                @extend %white-color;
+            }
+        }
+        .testimonial {
+            &__item {
+                @extend %p-30, %bg-white, %rel;
+                &::after {
+                    @extend %abs, %h-100, %bg-theme, %d-none;
+                    top: 0;
+                    left: 0;
+                    width: 100px;
+                    z-index: 0;
+                    @include breakpoint(sm) {
+                        display: inherit
+                    }
+                }
+            }
+            &__inner {
+                @extend %rel, %flex, %justify-between;
+                z-index: 1;
+            }
+            &__thumb {
+                border: 6px solid $white-color;
+                @extend %mb-20;
+                @include breakpoint(sm) {
+                    margin-bottom: 0;
+                }
+                img {
+                    @extend %w-100, %h-100;
+                    object-fit: cover;
+                }
+            }
+            &__content {
+                @extend %w-100, %rel;
+                @include breakpoint(sm) {
+                    width: calc(100% - 150px);
+                }
+                h5 {
+                    @extend %mb-5, %text-600;
+                }
+                span {
+                    @extend %d-inline-block, %mb-10;
+                }
+                p  {
+                    @extend %mb-30;
+                    @include breakpoint(xxl) {
+                        // max-width: 85%;
+                    }
+                }
+                &::after {
+                    @extend %abs;
+                    top: 0;
+                    right: 0px;
+                    width: 40px;
+                    height: 28px;
+                    background: url(../../assets/images/testimonial/quote.png);
+                    @include breakpoint(xxl) {
+                        // right: 80px;
+                    }
+                }
+                &--rating {
+                    @extend %flex;
+                    @include breakpoint(sm) {
+                        width: calc(100% - 0px);
+                    }
+                    &::after {
+                        display: none;
+                    }
+                    ul {
+                        @extend %bg-theme;
+                        padding: 6px 10px;
+                        border-radius: 2px 0 0 2px;
+                        li {
+                            @extend %d-inline-block, %white-color;
+                            font-size: 14px;
+                        }
+                    }
+                }
+                &--count {
+                    width: 50px;
+                    height: 36px;
+                    line-height: 36px;
+                    font-size: 14px;
+                    border-radius: 0 2px 2px 0;
+                    @extend %text-center, %text-700, %bg-title, %white-color;
+                }
+                
+            }
+        }
+    }
+    &--two {
+        .section__header {
+            max-width: 100%;
+            h6 {
+                @extend %theme-color2;
+            }
+        }
+        .testimonial {
+            &__item {
+                @extend %bg-white;
+            }
+            &__inner {
+                @extend %rel, %flex, %justify-between;
+                z-index: 1;
+            }
+            &__thumb {
+                @extend %mb-20, %w-100;
+                @include breakpoint(lg) {
+                    margin-bottom: 0;
+                    width: 40%;
+                }
+                img {
+                    @extend %w-100, %h-100;
+                    object-fit: cover;
+                }
+            }
+            &__content {
+                @extend %w-100, %rel, %p-30;
+                @include breakpoint(lg) {
+                    width: 60%;
+                    padding: 60px;
+                }
+                img {
+                    @extend %mb-20;
+                }
+                p  {
+                    @extend %mb-30;
+                    @include breakpoint(xxl) {
+                        // max-width: 85%;
+                    }
+                }
+                
+            }
+            &__author {
+                @extend %flex;
+                .thumb {
+                    width: 60px;
+                    @extend %hidden;
+                    img {
+                        object-fit: cover;
+                        filter: drop-shadow(0px 6px 24px rgba(190, 190, 190, 0.4));
+                        @include border-radius(4px);
+                        @extend %mb-0, %w-100, %h-100;
+                    }
+                }
+                .content {
+                    width: calc(100% - 60px);
+                    @extend %pl-15;
+                    h5 {
+                        @extend %mb-5, %text-600;
+                    }
+                    span {
+                        @extend %d-inline-block, %mb-10;
+                    }
+                }
+            }
+            &__slidertwo {
+                @extend %rel;
+                @include border-radius(8px);
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            }
+            &__pagination {
+                height: 100%;
+                width: 30px;
+                left: calc(100% - 40px);
+                top: 0;
+                z-index: 1;
+                align-content: center;
+                @extend %abs, %flex, %align-items-center, %m-0;
+                @include breakpoint(max-lg) {
+                    display: none;
+                }
+                span {
+                    @extend %bg-theme2, %text-700, %m-5, %rel;
+                    width: 8px;
+                    height: 8px;
+                    line-height: 8px;
+                    opacity: .5;
+                    margin-block: 10px !important;
+                    @include transition($transition);
+                    @include font-size(13px);
+                    &::after {
+                        @extend %center, %d-none;
+                        width: calc(100% + 14px);
+                        height: calc(100% + 14px);
+                        border: 1px solid $theme-color2;
+                        @include border-radius(100%);
+                    }
+                    &.swiper-pagination-bullet-active {
+                        @extend %bg-theme2, %white-color;
+                        opacity: 1;
+                        &::after {
+                            @extend %d-block;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &--three {
+        background: #FFF7F0;
+        .section__header {
+            margin-bottom: 15px;
+        }
+        .testimonial {
+            &__thumb {
+                @extend %rel, %h-100, %text-center;
+                margin-bottom: -80px;
+                img {
+                    @include breakpoint(lg) {
+                        position: absolute;
+                        bottom: -120px;
+                        left: 0;
+                        margin-bottom: 0;
+                    }
+                }
+            }
+            &__content {
+                p  {
+                    @extend %mb-30;
+                    line-height: 1.7;
+                }
+                
+            }
+            &__author {
+                @extend %flex;
+                .thumb {
+                    width: 60px;
+                    height: 60px;
+                    @extend %hidden;
+                    @include border-radius(100px);
+                    img {
+                        object-fit: cover;
+                        filter: drop-shadow(0px 6px 24px rgba(190, 190, 190, 0.4));
+                        @extend %mb-0, %w-100, %h-100;
+                    }
+                }
+                .content {
+                    width: calc(100% - 60px);
+                    @extend %pl-15;
+                    h5 {
+                        @extend %mb-5, %text-600;
+                    }
+                    span {
+                        @extend %d-inline-block, %mb-0;
+                    }
+                    ul {
+                        li {
+                            @extend %d-inline-block, %theme-color3;
+                            @include font-size(13px);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &--four {
+        @extend %bg-title3;
+        .testimonial {
+            &__item {
+                &::after {
+                    @extend %bg-theme5;
+                }
+            }
+            &__content {
+                &::after {
+                    background: url(../../assets/images/testimonial/quote3.png);
+                }
+                &--rating {
+                    ul {
+                        @extend %bg-theme5;
+                    }
+                }
+            }
+            &__pagination {
+                span {
+                    &.swiper-pagination-bullet-active {
+                        @extend %bg-theme5;
+                    }
+                }
+            }
+        }
+        .section {
+            &__header {
+                h3, p {
+                    @extend %white-color;
+                }
+            }
+        }
+    }
+    &--five {
+        @extend %bg-white;
+        .testimonial {
+            &__slidertwo {
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            }
+            &__pagination {
+                span {
+                    @extend %bg-theme6;
+                    &::after {
+                        border: 1px solid $theme-color6;
+                    }
+                    &.swiper-pagination-bullet-active {
+                        @extend %bg-theme6, %white-color;
+                    }
+                }
+            }
+        }
+    }
+    &__item {}
+    &__thumb {}
+    &__content {}
+    &__slider {
+        @extend %hidden;
+    }
+    &__pagination {
+        @extend %text-center;
+        margin-top: 50px;
+        span {
+            @extend %bg-white, %title-color, %text-700, %m-5;
+            width: 24px;
+            height: 24px;
+            line-height: 24px;
+            opacity: 1;
+            @include transition($transition);
+            @include font-size(13px);
+            &.swiper-pagination-bullet-active {
+                @extend %bg-theme, %white-color;
+            }
+        }
+    }
+}

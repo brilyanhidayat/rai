@@ -1,0 +1,148 @@
+.feature {
+    &__area {
+        box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+        @extend %p-30, %bg-white;
+        @include border-radius(10px);
+    }
+    &__item {
+        @extend %text-center;
+        &:hover {
+            .feature {
+                &__thumb {
+                    img {
+                        @include transform(scaleX(-1));
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        @extend %mb-20;
+    }
+    &--two {
+        .section__header {
+            max-width: 100%;
+        }
+        .feature {
+            &__item {
+                @extend %p-30;
+                @include transition($transition);
+                @include breakpoint(sm) {
+                    padding: 40px;
+                }
+                &:hover {
+                    box-shadow: 0 0 5px rgba($title-color, $alpha: .1);
+                }
+            }
+            &__thumb {
+                @extend %mb-20;
+            }
+            &__content {
+                h5 {
+                    @extend %text-600;
+                }
+                p {
+                    @extend %mb-0;
+                }
+            }
+        }
+    }
+    &--three {
+        @extend %bg-white;
+        .feature {
+            &__item {
+                &:hover {
+                    .feature {
+                        &__thumb {
+                            img {
+                                @include transform(scale(1.03));
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %bg-white, %hidden;
+                @include border-radius(10px);
+                box-shadow: 0px 0px 24px rgba(178, 180, 187, 0.2);
+                a {
+                    @extend %d-block;
+                    img {
+                        @extend %w-100, %h-100;
+                        object-fit: cover;
+                    }
+                }
+            }
+        }
+    }
+    &--four {
+        background: rgba($title-color, $alpha: .8);
+        .feature {
+            &__item {
+                @extend %rel, %hidden;
+                &:hover {
+                    .feature {
+                        &__content {
+                            bottom: 0px;
+                            opacity: 1; 
+                            background: linear-gradient(179.77deg, rgba(0, 0, 0, 0) 2.71%, rgba(26, 29, 46, 0.9) 41.79%)
+                        }
+                        &__thumb {
+                            img {
+                                @include transform(scale(1.05));
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %mb-0;
+            }
+            &__content {
+                @extend %abs, %w-100, %p-30;
+                bottom: -10%;
+                left: 0;
+                opacity: 0;
+                transition: all .5s ease;
+                h4, p {
+                    @extend %white-color;
+                }
+                h4 {
+                    @extend %text-600;
+                }
+                p {
+                    @include breakpoint(sm) {
+                        max-width: 450px;
+                        margin-inline: auto;
+                    }
+                }
+            }
+        }
+    }
+    &--five {
+        background: #F5F5F5;
+        .feature {
+            &__item {}
+            &__thumb {
+                @include border-radius(4px);
+                img {
+                    box-shadow: 0px 6px 24px rgba(255, 156, 0, 0.4);
+                    @include border-radius(4px);
+
+                }
+            }
+            &__content {
+                padding-inline: 0px;
+                @include breakpoint(lg) {
+                    @include breakpoint(max-xl) {
+                        padding-inline: 0;
+                    }
+                }
+                h5 {
+                    @extend %text-600;
+                }
+            }
+        }
+    }
+
+}

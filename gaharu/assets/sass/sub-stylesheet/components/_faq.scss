@@ -1,0 +1,109 @@
+.faq {
+    // background: #F5F5F5;
+    @extend %hidden;
+    &__content {
+        .section {
+            &__header {
+                h3 {
+                    span {
+                        @include breakpoint(xl) {
+                            display: block;
+                        }
+                    }
+                }
+            }
+        }
+        .accordion {
+            &-item {
+                @extend %bg-white;
+                margin-block: 15px;
+                box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+                @include border-radius(4px);
+            }
+            &-header {}
+            &-button {
+                @extend %border-none, %text-600, %bg-white;
+                outline: none;
+                box-shadow: none;
+                &::after {
+                    content: "\ea99";
+                    background: none;
+                    font-family: IcoFont!important;
+                    transform: rotate(-90deg);
+                }
+                &:not(.collapsed) {
+                    @extend %theme-color2;
+                    &::after {
+                        transform: rotate(0deg);
+                    }
+                }
+            }
+            &-collapse {
+                border: none;
+            }
+            &-body {
+                border-top: 1px solid $border-color;
+                p {
+                    @extend %mb-0;
+                    @include breakpoint(sm) {
+                        // max-width: 80%;
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        img {
+            @include breakpoint(lg) {
+                max-width: none;
+            }
+        }
+    }
+    &--hometwo {
+        @include breakpoint(max-lg) {
+            padding-bottom: 0 !important;
+        }
+        .faq {
+            &__content {
+                @extend %rel;
+                z-index: 1;
+            }
+            &__thumb {
+                img {
+                    animation: pulse 30s linear infinite;
+                }
+            }
+        }
+    }
+    &--two {
+        background: #FAF3E8;
+        .faq {
+            &__thumb {
+                @include border-radius(10px);
+                img {
+                    @extend %w-100;
+                    @include border-radius(10px);
+                }
+            }
+            &__content {
+                @include breakpoint(lg) {
+                    padding-left: 30px;
+                }
+            }
+        }
+    }
+    &--six {
+        .faq {
+            &__content {
+                .accordion {
+                    &-header {}
+                    &-button {
+                        &:not(.collapsed) {
+                            @extend %theme-color6;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

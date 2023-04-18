@@ -1,0 +1,108 @@
+.service {
+    @extend %bg-white, %rel;
+    @include breakpoint(xxl) {
+        &::after, &::before {
+            position: absolute;
+            content: "";
+            bottom: 0;
+            width: 365px;
+            background-repeat: no-repeat !important;
+        }
+        &::before {
+            left: 0;
+            height: 488px;
+            background: url(../../assets/images/service/shape/01.png);
+            -webkit-animation-name: fadeInLeft;
+            animation-name: fadeInLeft;
+            -webkit-animation-duration: 2s;
+            animation-duration: 2s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+        }
+        &::after {
+            right: 0;
+            height: 410px;
+            background: url(../../assets/images/service/shape/02.png);
+            -webkit-animation-name: fadeInRight;
+            animation-name: fadeInRight;
+            -webkit-animation-duration: 2s;
+            animation-duration: 2s;
+            -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+        }
+    }
+    .section {
+        &__header {
+            max-width: 100%;
+        }
+        &__wrapper {
+            z-index: 1;
+            @extend %rel;
+        }
+    }
+    &__item {
+        @extend %p-30, %bg-white;
+        @include border-radius(10px);
+        @include transition($transition);
+        box-shadow: 0px 0px 24px rgba(179, 181, 191, 0.42);
+        &:hover {
+            @include transform(translateY(-5px));
+            .service {
+                &__thumb {
+                    img {
+                        @include transform(scaleX(-1));
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        @extend %mb-25;
+        img {
+            box-shadow: 0px 6px 24px rgba(254, 112, 75, 0.24);
+            @include border-radius(4px);
+            @extend %hidden;
+        }
+    }
+    &__content {
+        h5 {
+            @extend %text-600;
+        }
+        p {
+            @extend %mb-0;
+        }
+    }
+    &--two {
+        &::after, &::before {
+            @extend %d-none;
+            @include breakpoint(xxl) {
+                display: none;
+            }
+        }
+        .service {
+            &__item {
+                background: transparent;
+                box-shadow: none;
+                @extend %text-center;
+            }
+            &__content {
+                h5, p {
+                    @extend %white-color;
+                }
+                h5 {
+                    @extend %mb-15;
+                }
+                p {
+                    line-height: 1.7;
+                }
+            }
+        }
+        .section {
+            &__header {
+                h3, p {
+                    @extend %white-color;
+                }
+            }
+        }
+    }
+}

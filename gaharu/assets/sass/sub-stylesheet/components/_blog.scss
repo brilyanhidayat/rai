@@ -1,0 +1,250 @@
+.blog {
+    @extend %bg-title3;
+    .section {
+        &__header {
+            h3, p {
+                @extend %white-color;
+            }
+        }
+    }
+    &__item {
+        &:hover {
+            .blog {
+                &__thumb {
+                    a {
+                        img {
+                            @include transform(scale(1.2));
+                        }
+                    }
+                }
+                &__content {
+                    a {
+                        h5 {
+                            @extend %theme-color5;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &__thumb {
+        @extend %hidden;
+        @include border-radius(8px);
+        a {
+            @extend %d-block;
+            img {
+                @extend %w-100;
+            }
+        }
+    }
+    &__content {
+        padding-block: 25px;
+        a {
+            h5 {
+                @extend %text-600, %white-color;
+                @include font-size(26px);
+            }
+        }
+        p {
+            @extend %mb-0, %white-color;
+        }
+    }
+    &__author {
+        @extend %flex;
+        .thumb {
+            width: 50px;
+            height: 50px;
+            @extend %hidden;
+            @include border-radius(4px);
+            img {
+                @extend %w-100, %h-100;
+                object-fit: cover;
+                object-position: center;
+            }
+        }
+        .text {
+            width: calc(100% - 50px);
+            @extend %pl-15;
+            h6 {
+                @extend %mb-0, %text-500, %white-color;
+            }
+            p {
+                @extend %mb-0, %white-color;
+            }
+        }
+    }
+
+    &--two {
+        background: #F5F5F5;
+        .blog {
+            &__item {
+                @extend %p-15, %bg-white;
+                border: 1px solid #EDF2F6;
+                &:hover {
+                    .blog {
+                        &__thumb {
+                            a {
+                                img {
+                                    @include transform(scale(1.2));
+                                }
+                            }
+                        }
+                        &__content {
+                            h5 {
+                                a {
+                                    @extend %theme-color6;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %hidden;
+                @include border-radius(0);
+                a {
+                    img {
+                        @extend %w-100;
+                    }
+                }
+            }
+            &__content {
+                @extend %p-15;
+                h5 {
+                    @extend %mb-0;
+                    a {
+                        @extend %text-2, %text-600;
+                    }
+                }
+            }
+            &__meta {
+                ul {
+                    @extend %flex, %justify-between, %mb-15, %pb-10;
+                    border-bottom: 1px solid $border-color;
+                    li {
+                        a {
+                            @extend %d-inline-block, %p-5, %text-capitalize;
+                            &:hover {
+                                @extend %theme-color6;
+                            }
+                            i {
+                                @extend %mr-5, %theme-color6;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .sidebar {
+            &__search {
+                form {
+                    input {
+                        @extend %bg-body;
+                    }
+                }
+            }
+        }
+    }
+
+
+    &--classic {
+        background: #F5F5F5;
+        .blog {
+            &__item {
+                @extend %bg-white, %p-30;
+                border: 1px solid $border-color;
+                &:hover {
+                    .blog {
+                        &__content {
+                            h3 {
+                                a {
+                                    @extend %theme-color;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            &__thumb {
+                @extend %rel;
+                @include border-radius(0);
+                .quote {
+                    margin-bottom: 70px;
+                }
+                .date {
+                    @extend %abs, %bg-theme6, %white-color, %text-capitalize;
+                    z-index: 1;
+                    left: 15px;
+                    bottom: 15px;
+                    padding: 5px 15px;
+                }
+            }
+            &__content {
+                padding-top: 30px;
+                padding-bottom: 0;
+                h4 {
+                    @extend %text-600;
+                }
+                p {
+                    @extend %desc-color;
+                    line-height: 1.7;
+                }
+            }
+            &__meta {
+                ul {
+                    @extend %flex, %mb-15, %pb-10;
+                    gap: 30px;
+                    border-bottom: 1px solid $border-color;
+                    @include breakpoint(max-sm) {
+                        gap: 15px;
+                    }
+                    li {
+                        a {
+                            @extend %d-inline-block, %p-5, %text-capitalize, %text-600;
+                            &:hover {
+                                @extend %theme-color6;
+                            }
+                            i {
+                                @extend %mr-10, %theme-color6;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .sidebar {
+            &__search {
+                form {
+                    input {
+                        @extend %bg-body;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+.quote {
+    @extend %p-30, %flex, %bg-title;
+    i {
+        @extend %bg-theme6, %white-color, %text-center, %mb-15;
+        border-radius: 100%;
+        width: 90px;
+        height: 90px;
+        line-height: 90px;
+        @include font-size(40px);
+        @include breakpoint(sm) {
+            margin-bottom: 0;
+        }
+    }
+    h5 {
+        @extend %white-color, %mb-0;
+        line-height: 1.6;
+        @include breakpoint(sm) {
+            width: calc(100% - 90px);
+            padding-left: 30px;
+        }
+    }
+}
