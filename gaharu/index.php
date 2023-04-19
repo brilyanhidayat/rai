@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- x-icon -->
-    <link rel="shortcut icon" href="assets/css/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/css/.png" type="image/x-icon">
 
     <!-- Other css -->
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -75,7 +75,7 @@
                 <div class="row align-items-center g-5 g-lg-4">
                     <div class="col-lg-7 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="banner__content">
-                            <h3 align="justify"><span><b>Pohon gaharu</b></span></h3>
+                            <h3 align="justify"><span><b>Pohon gaharu</b></span></h3><br>
                             <p align="justify">Kayu gaharu berasal dari tumbuhan genus aquilaria malaccensis yang memiliki warna kecoklatan atau hitam pekat dan tumbuhan tropis yang dikenal memiliki banyak manfaat, terutama pada bagian getah membeku dari batang..</p>
                             <p align="justify">aharu memiliki aroma yang khas, sehingga kayu gaharu juga kerap digunakan untuk bahan pembuatan parfum. Beragam manfaat yang terkandung di dalam kayu gaharu membuat tumbuhan ini menjadi salah satu produk ekspor bernilai tinggi.</p>
                             <div class="banner__groupbtn">
@@ -87,21 +87,8 @@
                     </div>
                     <div class="col-lg-5 col-12 wow fadeInUp" data-wow-delay=".6s">
                         <div class="banner__thumb text-center text-lg-end">
-                            <img src="assets/images/banner/05.png" alt="rajibraj">
-                            <div class="shape">
-                                <div class="shape__item wow fadeInUp" data-wow-delay=".7s">
-                                    <img src="assets/images/banner/shape/09.png" alt="rajibraj">
-                                </div>
-                                <div class="shape__item wow fadeInUp" data-wow-delay=".8s">
-                                    <img src="assets/images/banner/shape/10.png" alt="rajibraj">
-                                </div>
-                                <div class="shape__item wow fadeInUp" data-wow-delay=".9s">
-                                    <img src="assets/images/banner/shape/11.png" alt="rajibraj">
-                                </div>
-                                <div class="shape__item wow fadeInUp" data-wow-delay="1s">
-                                    <img src="assets/images/banner/shape/12.png" alt="rajibraj">
-                                </div>
-                            </div>
+                            <img src="assets/images/1. header/head.jpg" alt="rajibraj">
+
                         </div>
                     </div>
                 </div>
@@ -124,7 +111,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="feature__item">
                             <div class="feature__thumb">
-                                <img src="assets/images/feature/04.jpg" alt="rajibraj">
+                                <img src="assets/images/2. fakta/icon1.png" alt="rajibraj">
                             </div>
                             <div class="feature__content">
                                 <h5>Bahan Dasar Parfum</h5>
@@ -135,7 +122,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".6s">
                         <div class="feature__item">
                             <div class="feature__thumb">
-                                <img src="assets/images/feature/05.jpg" alt="rajibraj">
+                                <img src="assets/images/2. fakta/icon2.png" alt="rajibraj">
                             </div>
                             <div class="feature__content">
                                 <h5>Obat Herbal</h5>
@@ -146,7 +133,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".7s">
                         <div class="feature__item">
                             <div class="feature__thumb">
-                                <img src="assets/images/feature/06.jpg" alt="rajibraj">
+                                <img src="assets/images/2. fakta/icon3.png" alt="rajibraj">
                             </div>
                             <div class="feature__content">
                                 <h5>Bahan Pengawet</h5>
@@ -157,7 +144,7 @@
                     <div class="col-xl-3 col-lg-4 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".8s">
                         <div class="feature__item">
                             <div class="feature__thumb">
-                                <img src="assets/images/feature/07.jpg" alt="rajibraj">
+                                <img src="assets/images/2. fakta/icon4.png" alt="rajibraj">
                             </div>
                             <div class="feature__content">
                                 <h5>Aroma Khas</h5>
@@ -179,7 +166,7 @@
             <div class="row g-5 justify-content-center align-items-center">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="about__thumb text-center">
-                        <img src="assets/images/about/05.png" alt="rajibraj">
+                        <img src="assets/images/3. manfaat/2.jpg" alt="rajibraj">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
@@ -213,7 +200,7 @@
                                     <div class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
                                         <div class="treatment__item">
                                             <div class="thumb">
-                                                <img src="assets/images/treatment/icon/01.jpg" alt="rajibraj">
+                                                <img src="assets/images/4. ciri/ciri-1.jpg" alt="rajibraj">
                                             </div>
                                             <div class="text">
                                                 <h5>Warna Kecoklatan</h5>
@@ -224,7 +211,7 @@
                                     <div class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
                                         <div class="treatment__item">
                                             <div class="thumb">
-                                                <img src="assets/images/treatment/icon/02.jpg" alt="rajibraj">
+                                                <img src="assets/images/4. ciri/ciri-2.jpg" alt="rajibraj">
                                             </div>
                                             <div class="text">
                                                 <h5>Batang Pohon Tebal</h5>
@@ -235,7 +222,7 @@
                                     <div class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
                                         <div class="treatment__item">
                                             <div class="thumb">
-                                                <img src="assets/images/treatment/icon/03.jpg" alt="rajibraj">
+                                                <img src="assets/images/4. ciri/ciri-3.jpg" alt="rajibraj">
                                             </div>
                                             <div class="text">
                                                 <h5>Daun yang Lonjong</h5>
@@ -246,7 +233,7 @@
                                     <div class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
                                         <div class="treatment__item">
                                             <div class="thumb">
-                                                <img src="assets/images/treatment/icon/04.jpg" alt="rajibraj">
+                                                <img src="assets/images/4. ciri/ciri-4.jpg" alt="rajibraj">
                                             </div>
                                             <div class="text">
                                                 <h5>Aroma yang Harum</h5>
@@ -254,10 +241,10 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
+                                    <div class="nav-link" id="v-pills-buah-tab" data-bs-toggle="pill" data-bs-target="#v-pills-buah" role="tab" aria-controls="v-pills-buah" aria-selected="false">
                                         <div class="treatment__item">
                                             <div class="thumb">
-                                                <img src="assets/images/treatment/icon/04.jpg" alt="rajibraj">
+                                                <img src="assets/images/4. ciri/ciri-5.jpg" alt="rajibraj">
                                             </div>
                                             <div class="text">
                                                 <h5>Buahnya Kecil</h5>
@@ -273,16 +260,19 @@
                         <div class="treatment__thumb">
                             <div class="tab-content" id="v-pills-tabContent">
                                 <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                                    <img src="assets/images/treatment/01.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-1.jpg" alt="rajibraj">
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                                    <img src="assets/images/treatment/02.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-2.jpg" alt="rajibraj">
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                                    <img src="assets/images/treatment/03.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-3.jpg" alt="rajibraj">
                                 </div>
                                 <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                                    <img src="assets/images/treatment/04.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-4.jpg" alt="rajibraj">
+                                </div>
+                                <div class="tab-pane fade" id="v-pills-buah" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                                    <img src="assets/images/4. ciri/ciri-5.jpg" alt="rajibraj">
                                 </div>
                             </div>
                         </div>
@@ -300,7 +290,7 @@
             <div class="row g-4 justify-content-center">
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="faq__thumb">
-                        <img src="assets/images/faq/01.jpg" alt="rajibraj">
+                        <img src="assets/images/5. kegunaan/kegunaan.jpg" alt="rajibraj">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
@@ -352,50 +342,50 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".8s">
-                                    <h5 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Mencegah penyakit tumor</button>
+                                    <h5 class="accordion-header" id="headingFive">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Mencegah penyakit tumor</button>
                                     </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Sebagian orang berpendapat, kayu gaharu bisa menyembuhkan penyakit berat seperti tumor. Obat olahan kayu gaharu dinilai berkhasiat mengobati tumor karena kandungan senyawa flavonoid yang berfungsi melindungi kualitas dan kesehatan sel tubuh.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".8s">
-                                    <h5 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Digunakan dalam pembuatan kosmetik</button>
+                                    <h5 class="accordion-header" id="headingSix">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">Digunakan dalam pembuatan kosmetik</button>
                                     </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Pucuk daun gaharu berwarna hijau muda bisa diolah menjadi teh herbal. SebKandungan dalam kayu gaharu kerap ditambahkan sebagai pelengkap produk kosmetik dan produk perawatan tubuh seperti shampo.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".8s">
-                                    <h5 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Menjaga kesehatan kulit</button>
+                                    <h5 class="accordion-header" id="headingSeven">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">Menjaga kesehatan kulit</button>
                                     </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Kayu gaharu dianggap ampuh meredakan kondisi kulit yang mengalami iritasi atau bengkak. Hal itu dikarenakan kandungan senyawa antibakteri pada gaharu yang membantu menghilangkan bakteri dari kulit.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".8s">
-                                    <h5 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Membantu menurunkan tekanan darah</button>
+                                    <h5 class="accordion-header" id="headingEight">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Membantu menurunkan tekanan darah</button>
                                     </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Olahan kayu gaharu sering dimanfaatkan untuk menurunkan tekanan darah dengan cara menghilangkan penyumbatan di pembuluh darah. </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".8s">
-                                    <h5 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Mengatasi penyakit sendi</button>
+                                    <h5 class="accordion-header" id="headingNine">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Mengatasi penyakit sendi</button>
                                     </h5>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
                                             <p>Adapun manfaat lain kayu gaharu yakni meredakan nyeri dan mengurangi peradangan. Kita bisa mengoleskan dua tetes minyak gaharu yang dicampur minyak kelapa ke area tubuh yang terasa sakit untuk meredakan penyakit sendi.</p>
                                         </div>
@@ -423,7 +413,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/1. kacang-b.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Kacang B Kalimantan</h5>
@@ -442,7 +432,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/2. tunggul-bc.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Tunggul BC</h5>
@@ -461,7 +451,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/3. bc-bengkulu.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>BC Bengkulu</h5>
@@ -480,7 +470,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/4. sebaak.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Sebaak Maroke</h5>
@@ -499,7 +489,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/5. super-maroke.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Super Maroke</h5>
@@ -518,7 +508,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/6. super-maroke-ab.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Super Maroke AB</h5>
@@ -537,7 +527,7 @@
                     <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                         <div class="team__item">
                             <div class="team__thumb">
-                                <img src="assets/images/team/01.png" alt="rajibraj">
+                                <img src="assets/images/6. macam/7. kacang-b.jpg" alt="rajibraj">
                             </div>
                             <div class="team__content">
                                 <h5>Kacang B</h5>
@@ -567,30 +557,30 @@
                 <div class="col-lg-6 col-12">
                     <div class="section__header">
                         <div class="section__header wow fadeInUp" data-wow-delay=".5s">
-                            <h3>CTA <span></span></h3>
-                            <p>Continually productize compelling quality for packed with  elated productize compelling quality for packed in  with all elated Them Setting up to website and creating pages.</p>
+                            <h3>Dijamin <b>100% Asli</b> Indonesia<span></span></h3>
+                            <p>Dapatkan juga penawaran untuk jenis kayu Gaharu lainnya, <b>Hubungi Kami Sekarang ! </b>Dapatkan Harga Kompetitif, Gratis Ongkir dan 100% Dijamin Asli dari Indonesia.</p>
                         </div>
                     </div>
                     <div class="section__wrapper">
                         <ul>
                             <li class=" wow fadeInUp" data-wow-delay=".5s">
                                 <div class="thumb">
-                                    <img src="assets/images/fanfuct/icon/01.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-1.jpg" alt="rajibraj">
                                 </div>
                                 <div class="content">
-                                    <h6 class="odometer" data-odometer-final="480">0</h6>
-                                    <span>+</span>
-                                    <p>Expert Doctor</p>
+                                    <h6 class="odometer" data-odometer-final="48000">0</h6>
+                                    <span>+ Gr</span>
+                                    <p>Penjualan</p>
                                 </div>
                             </li>
                             <li class=" wow fadeInUp" data-wow-delay=".6s">
                                 <div class="thumb">
-                                    <img src="assets/images/fanfuct/icon/02.jpg" alt="rajibraj">
+                                    <img src="assets/images/4. ciri/ciri-3.jpg" alt="rajibraj">
                                 </div>
                                 <div class="content">
-                                    <h6 class="odometer" data-odometer-final="6.5">0</h6>
-                                    <span>K+</span>
-                                    <p>Happy Client</p>
+                                    <h6 class="odometer" data-odometer-final="25">0</h6>
+                                    <span>+</span>
+                                    <p>Mitra & Pelanggan</p>
                                 </div>
                             </li>
                         </ul>
@@ -599,7 +589,7 @@
                 </div>
                 <div class="col-lg-6 col-12 wow fadeInUp" data-wow-delay=".5s">
                     <div class="fanfuct__thumb">
-                        <img src="assets/images/fanfuct/01.png" alt="rajibraj">
+                        <img src="assets/images/7. CTA/cta.jpg" alt="rajibraj">
                     </div>
                 </div>
             </div>
