@@ -131,7 +131,7 @@
   <script src="assets/js/main.js"></script>
   
 
-  <style type="text/css">
+<style type="text/css">
     @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
