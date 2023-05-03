@@ -38,7 +38,7 @@
               <div class="service__icon"><i class="icon-delivery"></i></div>
               <div class="service__content">
                 <h4 class="service__title">Ekspedisi Darat</h4>
-                <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vechiles cargo darat berbagai pilihan terbaik.</p>
+                <p class="service__desc">RAI menyediakan layanan ekspedisi darat unggulan dengan layanan Fit-Vehicles cargo darat berbagai pilihan terbaik.</p>
                 <a href="single-service#v-darat" class="btn btn__white">
                   <span>Lihat Detail</span><i class="icon-arrow-right"></i>
                 </a>
