@@ -82,8 +82,8 @@
               <i class="icon-trolley"></i>
             </div><!-- /.fancybox-icon -->
             <div class="fancybox__content">
-              <h4 class="fancybox__title">FIT-VECHILES</h4>
-              <p class="fancybox__desc">Telah didukung dengan Fit-Vechile, armada yang sehat dan layak untuk semua jenis pengiriman.</p>
+              <h4 class="fancybox__title">FIT-VEHICLES</h4>
+              <p class="fancybox__desc">Telah didukung dengan Fit-Vehicles, armada yang sehat dan layak untuk semua jenis pengiriman.</p>
             </div><!-- /.fancybox-content -->
           </div><!-- /.fancybox-item -->
 

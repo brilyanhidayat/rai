@@ -117,6 +117,7 @@
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
                                   <h4 class="fancybox__title">SATSET Terus!</h4>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -127,7 +128,9 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Fit-Vechile</h4>
+                                  <h4 class="fancybox__title">Fit-Vehicles</h4>
+                                </br>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -318,6 +321,7 @@
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
                                   <h4 class="fancybox__title">SATSET Terus!</h4>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -328,7 +332,9 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Fit-Vechile</h4>
+                                  <h4 class="fancybox__title">Fit-Vehicles</h4>
+                                </br>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -519,6 +525,7 @@
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
                                   <h4 class="fancybox__title">SATSET Terus!</h4>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -529,7 +536,9 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Fit-Vechile</h4>
+                                  <h4 class="fancybox__title">Fit-Vehicles</h4>
+                                </br>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -719,6 +728,7 @@
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
                                   <h4 class="fancybox__title">SATSET Terus!</h4>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
@@ -729,7 +739,9 @@
                                   <i class="icon-trolley"></i>
                                 </div><!-- /.fancybox-icon -->
                                 <div class="fancybox__content">
-                                  <h4 class="fancybox__title">Fit-Vechile</h4>
+                                  <h4 class="fancybox__title">Fit-Vehicles</h4>
+                                </br>
+                                </br>
                                 </div><!-- /.fancybox-content -->
                               </div><!-- /.fancybox-item -->
                             </div><!-- /.col-lg-4 -->
