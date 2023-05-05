@@ -25,8 +25,8 @@
           <div class="col-sm-6 col-md-6 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/1.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/1.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
+                <img src="assets/images/banners/galeri1.jpg" alt="project img">
+                <a href="assets/images/banners/galeri1.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
               </div><!-- /.project-img -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
@@ -34,8 +34,8 @@
           <div class="col-sm-6 col-md-6 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/2.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/2.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
+                <img src="assets/images/banners/galeri2.jpg" alt="project img">
+                <a href="assets/images/cbanners/galeri2.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
               </div><!-- /.project-img -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
@@ -43,38 +43,17 @@
           <div class="col-sm-6 col-md-6 col-lg-4">
             <div class="project-item">
               <div class="project__img">
-                <img src="assets/images/case-studies/grid/3.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/3.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
+                <img src="assets/images/banners/galeri3.jpg" alt="project img">
+                <a href="assets/images/banners/galeri3.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
               </div><!-- /.project-img -->
             </div><!-- /.project-item -->
           </div><!-- /.col-lg-4 -->
           <!-- project item #4 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
-            <div class="project-item">
-              <div class="project__img">
-                <img src="assets/images/case-studies/grid/4.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/4.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
-              </div><!-- /.project-img -->
-            </div><!-- /.project-item -->
-          </div><!-- /.col-lg-4 -->
+          
           <!-- project item #5 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
-            <div class="project-item">
-              <div class="project__img">
-                <img src="assets/images/case-studies/grid/5.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/5.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
-              </div><!-- /.project-img -->
-            </div><!-- /.project-item -->
-          </div><!-- /.col-lg-4 -->
+>
           <!-- project item #6 -->
-          <div class="col-sm-6 col-md-6 col-lg-4">
-            <div class="project-item">
-              <div class="project__img">
-                <img src="assets/images/case-studies/grid/6.jpg" alt="project img">
-                <a href="assets/images/case-studies/grid/6.jpg" data-lightbox="lightbox" class="zoom__icon"></a>
-              </div><!-- /.project-img -->
-            </div><!-- /.project-item -->
-          </div><!-- /.col-lg-4 -->
+
           <!-- project item #7 -->
           <div class="col-sm-6 col-md-6 col-lg-4 project-hidden">
             <div class="project-item">

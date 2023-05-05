@@ -105,7 +105,7 @@
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6 bg-overlay  background-banner">
-            <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
+            <div class="bg-img"><img src="assets/images/banners/servicebar.jpg" alt="background"></div>
             <div class="skills skills-panel">
               <div class="heading mb-30">
                 <h2 class="heading__title">RAI tetap terus Membantu Banyak Orang! </h2>

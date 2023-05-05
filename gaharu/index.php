@@ -543,6 +543,49 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                        <div class="team__item">
+                            <div class="team__thumb">
+                                <img src="assets/images/6. macam/8. tenggelam.jpg" alt="rajibraj">
+                            </div>
+                            <div class="team__content">
+                                <h5>Gaharu Tenggelam</h5>
+                                <span></span>
+                            </div>
+                            <div class="team__social">
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3 col-sm-6 col-12 wow fadeInUp" data-wow-delay=".5s">
+                        <div class="team__item">
+                            <div class="team__thumb">
+                                <img src="assets/images/6. macam/9. minyak.jpg" alt="rajibraj">
+                            </div>
+                            <div class="team__content">
+                                <h5>Minyak Gaharu</h5>
+                                <span></span>
+                            </div>
+                            <div class="team__social">
+                                <ul>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>

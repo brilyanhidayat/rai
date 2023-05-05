@@ -110,7 +110,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-7">
             <div class="video-banner p-0">
-              <img src="assets/images/banners/6.jpg" alt="background">
+              <img src="assets/images/banners/home1.jpg" alt="background">
               
             </div><!-- /.video -->
           </div><!-- /.col-lg-6 -->
@@ -156,7 +156,7 @@
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6 background-banner bg-overlay bg-parallax">
-            <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="background"></div>
+            <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="background"></div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -170,7 +170,7 @@
           <h2 id="angelkarten-kaufen">RAI Siap Kirim Barang Kemanapun !</h2>
         </div>
         <div class="opacity">
-          <p>Ongkir Paling Murah, Gratis Konsultasi, Gratis Booking, Gratis Jemput Barang dan Gratis Survei Barang !<br /> Konsultasi Sekarang !</p>
+          <p><br /> Konsultasi Sekarang !</p>
         </div>
         <div class="cta-banner-button">
           <div class="pulse-button">
@@ -520,7 +520,7 @@
   justify-content:flex-start;
  }*/
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
-  background-image: url("https://fischerhuette.hejfish.com/wp-content/uploads/2019/07/DSC01088.jpg");
+  background-image: url("assets/images/banners/cta.jpg");
   background-position: 50% 20%;
   background-size: cover;
   justify-content: flex-start;

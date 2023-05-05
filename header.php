@@ -35,9 +35,9 @@
             <div class="col-sm-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-end">
 
               <div class="social__icons justify-content-end">
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-instagram"></i></a>
-                <a href="#"><i class="fa fa-twitter"></i></a>
+
+                <a href="https://www.instagram.com/rai.expedition/"><i class="fa fa-instagram"></i></a>
+
               </div>
             </div><!-- /.col-lg-5 -->
           </div><!-- /.row -->

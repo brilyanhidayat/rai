@@ -66,11 +66,7 @@
               <div class="footer__widget-content">
                 <nav>
                   <ul class="list-unstyled">
-                    <li><a href="#">Instagram</a></li>
-                    <li><a href="#">Facebook</a></li>
-                    <li><a href="#">Youtube</a></li>
-                    <li><a href="#">Linkedin</a></li>
-                    <li><a href="#">Tiktok</a></li>
+                    <li><a href="https://www.instagram.com/rai.expedition/">Instagram</a></li>
 
                   </ul>
                 </nav>

@@ -35,7 +35,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-9 col-lg-6">
             <div class="about__img">
-              <img src="assets/images/about/1.jpg" alt="about img" class="img-fluid">
+              <img src="assets/images/banners/sekilas.jpg" alt="about img" class="img-fluid">
               <div class="counter-item-wrapper counters-white">
                 <div class="counter-item">
                   <div class="counter__icon">
@@ -58,7 +58,7 @@ PT. RAI adalah perusahaan jasa pengangkutan dan distribusi terkhusus pada barang
       <div class="container-fluid col-padding-0">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 background-banner bg-overlay">
-            <div class="bg-img"><img src="assets/images/banners/7.jpg" alt="background"></div>
+            <div class="bg-img"><img src="assets/images/banners/visimisi.jpg" alt="background"></div>
 
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6">
