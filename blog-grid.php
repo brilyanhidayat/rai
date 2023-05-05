@@ -38,7 +38,7 @@
                 <span class="blog__meta-date">Jan 20, 2022</span>
                 <p class="blog__desc">Semua proses yang dijalankan oleh RAI merupakan proses pemesanan melalui call center saja, pesan online sekarang tidak ribet. Selain itu...
                 </p>
-                <a href="#" class="btn btn__secondary btn__link">
+                <a href="blog-1.php" class="btn btn__secondary btn__link">
                   <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
@@ -61,7 +61,7 @@
                 <h4 class="blog__title"><a href="#">Syarat & Ketentuan Layanan RAI</a></h4>
                 <span class="blog__meta-date">Oct 18, 2021</span>
                 <p class="blog__desc">Mau kirim barang apapun tidak perlu repot, karena pengiriman RAI sangat fleksibel dan tidak banyak syarat dan ketentuan yang rumit. Dengan harga...</p>
-                <a href="#" class="btn btn__secondary btn__link">
+                <a href="blog-2.php" class="btn btn__secondary btn__link">
                   <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
@@ -84,7 +84,7 @@
                 <h4 class="blog__title"><a href="#">Dapatkan Diskon Pengiriman semua Layanan* RAI</a></h4>
                 <span class="blog__meta-date">Apr 03, 2023</span>
                 <p class="blog__desc">Karena didukung dengan layanan terbaik dan terpecaya, RAI terus memberikan special gift untuk pelanggan setia RAI, dan...</p>
-                <a href="#" class="btn btn__secondary btn__link">
+                <a href="blog-3.php" class="btn btn__secondary btn__link">
                   <span>Pelajari</span><i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.entry-content -->
@@ -93,18 +93,6 @@
 
           
 
-        </div><!-- /.row -->
-        <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-12">
-            <nav class="pagination-area">
-              <ul class="pagination justify-content-center">
-                <li><a class="current" href="#">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#"><i class="icon-arrow-left"></i></a></li>
-                <li><a href="#"><i class="icon-arrow-right"></i></a></li>
-              </ul><!-- .pagination -->
-            </nav><!-- .pagination-area -->
-          </div><!-- /.col-lg-12 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.blog Grid -->
