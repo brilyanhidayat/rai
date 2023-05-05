@@ -97,9 +97,9 @@
               </li><!-- /.nav-item -->
               <li class="nav__item">
                 <a href="gallery.php" class="dropdown-toggle nav__item-link">Gallery</a>
-              </li><!-- /.nav-item -->
+              </li><!-- /.nav-item 
               <li class="nav__item"> 
-                <a href="blog-grid.php" class="dropdown-toggle nav__item-link">Info</a>
+                <a href="blog-grid.php" class="dropdown-toggle nav__item-link">Info</a>-->
               </li><!-- /.nav-item -->
               <li class="nav__item">
                 <a href="contacs.php" class="nav__item-link">Kontak</a>

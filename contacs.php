@@ -7,7 +7,7 @@
       <h2 class="heading__title">Lokasi Kami</h2>
       </br>
       <div class="map-responsive">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26925.25213345334!2d106.82504872122216!3d-6.5070208909802325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c19092657f6b%3A0x195ea53ba17dbb4f!2sPakansari%20Stadium!5e0!3m2!1sen!2sid!4v1680513965599!5m2!1sen!2sid" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31733.025873234546!2d106.981255!3d-6.1804889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698bd1522104b3%3A0x84d99c545041baa!2sJl.%20Raya%20Pd.%20Ungu%20Permai%209-2%2C%20RT.001%2FRW.009%2C%20Kaliabang%20Tengah%2C%20Kec.%20Bekasi%20Utara%2C%20Kota%20Bks%2C%20Jawa%20Barat%2017125!5e0!3m2!1sen!2sid!4v1683276004958!5m2!1sen!2sid" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
     </div>
     <!-- ==========================
