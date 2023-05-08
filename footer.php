@@ -42,6 +42,7 @@
                   <ul class="list-unstyled">
                     <li><a href="about-us.php">Sekilas</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="../gaharu">Kayu Gaharu</a></li>
                     <!--<li><a href="blog-grid.php">Info</a></li>-->
                   </ul>
                 </nav>

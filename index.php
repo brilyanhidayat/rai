@@ -45,6 +45,21 @@
             </div><!-- /.row -->
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.jpg" alt="slide img"></div>
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
+                <div class="slide__content">
+                  <h2 class="slide__title">Kayu Gaharu</h2>
+                  <p class="slide__desc">Keajaiban Kayu Gaharu: Mengungkap Rahasia Khasiat dan Nilai Tinggi dari Kayu Suci yang Langka</p>
+                  <a href="../gaharu" class="btn btn__primary">Tanya Sekarang</a>
+                </div><!-- /.slide-content -->
+              </div><!-- /.col-xl-10 -->
+            </div><!-- /.row -->
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
       </div><!-- /.carousel -->
     </section><!-- /.slider -->
 
