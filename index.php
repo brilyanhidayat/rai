@@ -54,7 +54,7 @@
                 <div class="slide__content">
                   <h2 class="slide__title">Kayu Gaharu</h2>
                   <p class="slide__desc">Keajaiban Kayu Gaharu: Mengungkap Rahasia Khasiat dan Nilai Tinggi dari Kayu Suci yang Langka</p>
-                  <a href="../gaharu" class="btn btn__primary">Tanya Sekarang</a>
+                  <a href="../demo/rai/gaharu" class="btn btn__primary">Tanya Sekarang</a>
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-10 -->
             </div><!-- /.row -->
