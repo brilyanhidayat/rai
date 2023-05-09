@@ -7,17 +7,15 @@
         data-slide-md="1" data-slide-sm="1" data-autoplay="true" data-nav="true" data-dots="true" data-space="0"
         data-loop="true" data-speed="3000" data-transition="fade" data-animate-out="fadeOut" data-animate-in="fadeIn">
 
+
         <div class="slide-item align-v-h bg-overlay">
           <div class="bg-img"><img src="assets/images/sliders/banner-1-min.jpg" alt="slide img"></div>
           <div class="container">
-            <div class="row">
-
-            </div><!-- /.row -->
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/banner-1-min.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -32,7 +30,13 @@
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
+          <div class="container">
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -47,7 +51,7 @@
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.png" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
