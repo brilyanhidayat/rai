@@ -9,13 +9,13 @@
 
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-1-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner1.jpg" alt="slide img"></div>
           <div class="container">
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-1-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner2.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -30,13 +30,13 @@
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner3.jpg" alt="slide img"></div>
           <div class="container">
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
 
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner4.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -50,8 +50,36 @@
           </div><!-- /.container -->
         </div><!-- /.slide-item -->
 
+
         <div class="slide-item align-v-h bg-overlay">
-          <div class="bg-img"><img src="assets/images/sliders/banner-3-min.png" alt="slide img"></div>
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner5.jpg" alt="slide img"></div>
+          <div class="container">
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner6.jpg" alt="slide img"></div>
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
+                <div class="slide__content">
+                  <h2 class="slide__title">Pelayanan Maksimal & Fit-Vehicles.</h2>
+                  <p class="slide__desc">Bersama RAI Membangun kemitraan usaha dengan mitra kerja yang saling Berguna.</p>
+                  <a href="https://wa.me/6282289009708?text=Hallo%20RAI%20Expedition%2C%20saya%20ingin%20melakukan%20booking%20untuk%20pengiriman%2C%0A-%20Asal%20%3A%0A-%20Tujuan%20%3A%0A-%20Tanggal%20%3A%0A%0ATerimakasih%0A" class="btn btn__primary">BOOKING</a>
+                </div><!-- /.slide-content -->
+              </div><!-- /.col-xl-10 -->
+            </div><!-- /.row -->
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner7.jpg" alt="slide img"></div>
+          <div class="container">
+          </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+
+        <div class="slide-item align-v-h bg-overlay">
+          <div class="bg-img"><img src="assets/images/sliders/fixbanner8.jpg" alt="slide img"></div>
           <div class="container">
             <div class="row">
               <div class="col-sm-12 col-md-12 col-lg-12 col-xl-10">
@@ -175,7 +203,7 @@
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6 background-banner bg-overlay bg-parallax">
-            <div class="bg-img"><img src="assets/images/sliders/banner-2-min.jpg" alt="background"></div>
+            <div class="bg-img"><img src="assets/images/sliders/fixbanner6.jpg" alt="background"></div>
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -189,7 +217,7 @@
           <h2 id="angelkarten-kaufen">RAI Siap Kirim Barang Kemanapun !</h2>
         </div>
         <div class="opacity">
-          <p><br /> Konsultasi Sekarang !</p>
+          <p>Konsultasi Sekarang !</p>
         </div>
         <div class="cta-banner-button">
           <div class="pulse-button">
@@ -520,6 +548,22 @@
       </div><!-- /.container -->
     </section><!-- /.testimonial2 -->
 
+   <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+    <div class="cta-container-banner1" align="center">
+      <div class="cta-banner-txt-item">
+        <div class="opacity">
+          <h2 id="angelkarten-kaufen">Kayu Gaharu dengan Khasiat yang Luar Biasa.</h2>
+        </div>
+        <div class="opacity">
+          <p>Dapatkan Penawaran !</p>
+        </div>
+        <div class="cta-banner-button">
+          <div class="pulse-button">
+            <div class=""><a class="cta-banner-button-link" href="https://wa.me/6282289009708?text=Hallo%20%20RAI%20Expeditions" target="_self" rel="noopener noreferrer">Hubungi Kami</a></div>
+          </div>
+        </div>
+      </div>
+
 <?php include 'footer.php';?>
 </body>
 
@@ -636,5 +680,7 @@
   animation-name: opacity-animation;
   animation-duration: 3s;
 }
+
+
 
 </style>
