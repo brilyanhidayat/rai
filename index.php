@@ -589,6 +589,24 @@
   justify-content: flex-start;
 }
 
+  .cta-container-banner1 {
+  overflow: hidden;
+  height: 250px;
+  display: flex;
+  background-color: #f2f2f2;
+  width: auto;
+  margin: auto;
+  border-radius: 0px;
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4); background-image:  url("https://fischerhuette.hejfish.com/wp-content/uploads/2019/09/banner-registrieren-bei-hejfish-angler-wathose-see.png"); background-position: left bottom;
+  justify-content:flex-start;
+ }*/
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+  background-image: url("assets/images/sliders/fixbanner8.jpg");
+  background-position: 50% 20%;
+  background-size: cover;
+  justify-content: flex-start;
+}
+
 .cta-banner-txt-item {
   margin: auto;
 
