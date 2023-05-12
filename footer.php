@@ -4,7 +4,7 @@
             Footer
     ========================== -->
     <footer id="footer" class="footer">
-      <div class="footer-newsletter">
+      <div class="footer-newsletter" >
         <div class="container">
           <div class="">
             <div class="">

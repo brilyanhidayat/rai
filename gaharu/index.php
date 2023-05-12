@@ -77,7 +77,7 @@
                         <div class="banner__content">
                             <h3 align="justify"><span><b>Pohon gaharu</b></span></h3><br>
                             <p align="justify">Kayu gaharu berasal dari tumbuhan genus aquilaria malaccensis yang memiliki warna kecoklatan atau hitam pekat dan tumbuhan tropis yang dikenal memiliki banyak manfaat, terutama pada bagian getah membeku dari batang..</p>
-                            <p align="justify">aharu memiliki aroma yang khas, sehingga kayu gaharu juga kerap digunakan untuk bahan pembuatan parfum. Beragam manfaat yang terkandung di dalam kayu gaharu membuat tumbuhan ini menjadi salah satu produk ekspor bernilai tinggi.</p>
+                            <p align="justify">gaharu memiliki aroma yang khas, sehingga kayu gaharu juga kerap digunakan untuk bahan pembuatan parfum. Beragam manfaat yang terkandung di dalam kayu gaharu membuat tumbuhan ini menjadi salah satu produk ekspor bernilai tinggi.</p>
                             <div class="banner__groupbtn">
                                 <a href="https://wa.me/6282289009708?text=Hallo" class="lab-btn bg-title">Whatsapp</a>
                                 <a href="tel:082289009708" class="lab-btn bg-title"><i class="icofont-phone"></i>Telepon</a>

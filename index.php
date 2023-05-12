@@ -211,7 +211,7 @@
 
   </br>
     <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
-    <div class="cta-container-banner" align="center">
+    <div class="cta-container-banner" align="center" style="background-image: url('assets/images/banners/cta.jpg')">
       <div class="cta-banner-txt-item">
         <div class="opacity">
           <h2 id="angelkarten-kaufen">RAI Siap Kirim Barang Kemanapun !</h2>
@@ -225,10 +225,7 @@
           </div>
         </div>
       </div>
-
-  <!--<div class="opacity"><img class="banner-logo" src="https://fischerhuette.hejfish.com/wp-content/uploads/2019/07/Hejfish-Logo_Pos_2c-1-e1548246502728-white-1.png" /*"https://fischerhuette.hejfish.com/wp-content/uploads/2019/01/Hejfish-Logo_Pos_2c-1-e1548246502728.png"*/ height="75">
-  </div>-->
-</div>
+    </div>
 
 
       <!--<div class="footer-newsletter">
@@ -549,7 +546,7 @@
     </section><!-- /.testimonial2 -->
 
    <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
-    <div class="cta-container-banner1" align="center">
+    <div class="cta-container-banner1" align="center" style="background-image: url('assets/images/sliders/fixbanner8.jpg')">
       <div class="cta-banner-txt-item">
         <div class="opacity">
           <h2 id="angelkarten-kaufen">Kayu Gaharu dengan Khasiat yang Luar Biasa.</h2>
@@ -563,6 +560,7 @@
           </div>
         </div>
       </div>
+    </div>
 
 <?php include 'footer.php';?>
 </body>
@@ -589,7 +587,7 @@
   justify-content: flex-start;
 }
 
-  .cta-container-banner1 {
+.cta-container-banner1 {
   overflow: hidden;
   height: 250px;
   display: flex;
@@ -601,7 +599,7 @@
   justify-content:flex-start;
  }*/
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
-  background-image: url("assets/images/sliders/fixbanner8.jpg");
+  background-image: url("assets/images/banners/cta.jpg");
   background-position: 50% 20%;
   background-size: cover;
   justify-content: flex-start;
@@ -609,7 +607,6 @@
 
 .cta-banner-txt-item {
   margin: auto;
-
   text-align: center;
 
 }
